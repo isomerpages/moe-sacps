@@ -65,3 +65,25 @@ To help encourage our students to become informed global citizens, the school su
 *   <b>Writer’s Workshop at SACPS</b>
 
 ![](/images/EnglishLangDept5.png)
+
+The EL department has customised a writing programme to suit the developmental needs of our pupils from Primary 3 to Primary 6.
+
+Before writing, teachers take pupils through a brainstorming process to gather ideas for writing. Next, a specific writing skill is taught during a mini-lesson. In a single cycle of writing, pupils are taught a variety of writing skills targeted at their weaknesses. They also have one to one conferencing with their teachers to get individualised feedback on their writing. When they complete a piece, they are taught to edit and prepare their pieces for publishing. This part of the writing process is introduced to give our young writers a larger audience, motivating them to write more and write better.
+
+*   <b>Thematic R.E.A.D @ the Library</b>
+
+To help encourage the reading culture in school, the school library rolls out different themes organised by the different departments each month with accompanying activities at the library. This is done so that reading will continue to be an appealing activity to students.
+
+*   <b>SACPS Language Voyagers</b>
+
+![](/images/EnglishLangDept6.png)
+
+SACPS Language Voyagers is a year-long language expedition which aims to encourage greater interest in the English language through a variety of fun quizzes. Every term, Rebus Puzzle quizzes which have been specially designed for each level are conducted. These word puzzles trigger our students’ creative thinking and word association skills while exposing them to a variety of idioms and proverbs. The quiz takes the form of an ‘expedition’, with prizes up for grab if students successfully complete all four termly quizzes by the end of the year.
+
+*   <b>English Week</b>
+
+At SACPS, English Week is held in conjunction with English Language Day and features a host of exciting activities which aim to promote a love for the English language. Students can look forward to activities like the Book Bento competition, come to school dressed up as an idiom and enjoy interesting English-themed poster displays. English Week immerse our students in a language-rich environment and allow informal yet engaging learning to take place, helping our students understand that English is more than an examinable subject and that opportunities to learn and grow to be better English users are all around them.
+
+*   <b>Languages and Arts Festival</b>
+
+Held in conjunction with the Aesthetics and Mother Tongue departments, the Languages and Arts Festival is a 2-day fiesta which sees P1 to P4 students put aside their textbooks and worksheets to tinker with the languages and arts. As part of the Languages and Arts Festival, the English Department has planned activities like poetry writing, enhanced Readers Theatre, Speech and Drama, as well as a Phonics Carnival which aim to allow students to develop a love for the language through a variety of experiences and activities.
