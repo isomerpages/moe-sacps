@@ -35,3 +35,5 @@ With the e-Learning platform, Student Learning Space, SLS, our teachers and stud
 <b>CCAs:</b>
 
 *   Infocomm Club (P3 to P6)
+
+![](/images/ICT.png)
