@@ -105,3 +105,6 @@ For students who lack confidence in their mathematical knowledge and skills, the
 <b>Mini Projects</b>
 
 ![](/images/MathDept3.png)
+
+
+<b>Bi-Monthly Competitions</b>
