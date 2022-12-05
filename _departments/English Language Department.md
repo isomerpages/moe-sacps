@@ -31,3 +31,5 @@ The series of books selected for the Guided Reading Programme are pitched at the
 Pupils will hold a title for a period of 2 weeks. During this period, teachers will conduct activities to teach reading and comprehension skills. The series of books used will be rotated amongst the classes within their level and at the end of the programme, the pupils will be given two books to keep.
 
 *   <b>Teddy Bear Picnic (P1)</b>
+
+![](/images/EnglishLandDept1.png)
