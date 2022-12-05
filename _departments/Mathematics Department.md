@@ -103,3 +103,5 @@ For students who lack confidence in their mathematical knowledge and skills, the
 ![](/images/MathDept2.png)
 
 <b>Mini Projects</b>
+
+![](/images/MathDept3.png)
