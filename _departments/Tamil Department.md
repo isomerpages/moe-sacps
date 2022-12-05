@@ -95,3 +95,5 @@ Tamil Department
   </tr>
 </tbody>
 </table>
+
+![](/images/TamilDept.png)
