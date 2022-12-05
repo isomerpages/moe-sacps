@@ -29,3 +29,5 @@ Chinese Language Department
 *   Pick & Tell (P3)
 *   Reader’s Theatre (P3-P4)
 *   Voice Recording (P5-P6)
+
+![](/images/ChineseLangDept.png)
