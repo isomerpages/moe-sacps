@@ -1,6 +1,4 @@
 collections:
   our-school:
     output: true
-    order:
-      - Communities/Canossian Co Educators (CCEds).md
-      - Communities/.keep
+    order: []
