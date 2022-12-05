@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Teaching Staff/Form Teachers – Primary Five.md
       - Teaching Staff/Form Teachers – Primary Six.md
       - Teaching Staff/Teaching Staff – Chinese Language Teachers.md
       - Teaching Staff/Teaching Staff – Malay Language Teachers.md
