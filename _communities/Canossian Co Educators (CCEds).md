@@ -23,3 +23,6 @@ The School Programmes and Events include:
 6.  Children’s Day
 7.  P1 Orientation
 8.  Canossian Saints’ Day
+
+
+![](/images/Communities.png)
