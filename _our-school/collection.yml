@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - Financial Information.md
       - Virtual Tours.md
