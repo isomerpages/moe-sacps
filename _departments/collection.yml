@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - PE, Aesthetics and CCA Department.md
       - Character and Citizenship Education.md
       - Student Management Department.md
