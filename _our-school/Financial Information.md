@@ -86,3 +86,7 @@ Financial & Non-Financial Information
   </tr>
 </tbody>
 </table>
+
+<b>2\. Financial Information</b>
+
+Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest information.
