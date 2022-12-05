@@ -21,12 +21,7 @@ Form Teachers – Primary Six
 .tg .tg-udl9{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 794px">
-<colgroup>
-<col style="width: 269px">
-<col style="width: 269px">
-<col style="width: 256px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-1qpi" colspan="3"><span style="font-weight:bold">Temperance</span></th>
