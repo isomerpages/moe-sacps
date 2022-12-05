@@ -2,4 +2,5 @@ collections:
   communities:
     output: true
     order:
+      - Alumni.md
       - Canossian Co Educators (CCEds).md
