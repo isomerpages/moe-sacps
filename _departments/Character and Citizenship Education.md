@@ -134,3 +134,9 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 <b>At St Anthony’s Canossian Primary School, the following lessons from the Growing Years Programme will be taught in</b> <u><b>2022</b></u>:
 
 <b>Primary 5</b>
+
+
+
+
+
+<b>Primary 6</b>
