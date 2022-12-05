@@ -100,3 +100,33 @@ While it is important for our children to have a strong foundation in the academ
 In Primary 1 and 2, students are given opportunities to try out various CCAs. The school hopes that the experience would help our girls to discover their areas of interest and choose a CCA which they would like to commit to. All Primary 4 to Primary 6 are strongly encouraged to commit to a CCA in school.
 
 The school recommends that a student remains in the same CCA for the subsequent years as this would build her sense of loyalty. On top of that, your child would be able to enhance and improve her skills in that CCA.
+
+<b>Current List of CCAs</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Sports</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Performing Arts</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Clubs</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Uniform Group</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">• Netball<br>• Skipping<br>• Sports For Life<br>• Tennis<br>• Taekwondo<br>• Track and Field</td>
+    <td class="tg-xyrl">• Choir<br>• Concert Band<br>• Chinese Dance<br>• Modern Dance</td>
+    <td class="tg-xyrl"><br>• Art Club<br>• Infocomm Club</td>
+    <td class="tg-xyrl"> <br><br>• Brownies</td>
+  </tr>
+</tbody>
+</table>
