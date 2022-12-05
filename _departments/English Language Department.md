@@ -49,3 +49,18 @@ After a short snack time, pupils and their mothers create a piece of craftwork t
 *   <b>Literature Appreciation Programme for P3 to P5 Pupils</b>
 
 ![](/images/EnglishLangDept3.png)
+
+To further promote pupils’ love of reading in the middle primary, the P3 to P5 pupils will study and explore a curated selection of books in an in-depth manner and complete choice activities related to the literary items discussed. Books are specially selected for its rich language and its context that expose our young readers to a different world from their own. The Literature Appreciation Programme includes specially designed choice activities which allow teachers to help students hone their comprehension skills and literature appreciation
+
+*   <b>Storytelling Competition (P4)</b>
+
+P4 storytelling competition aims at providing students an opportunity to enjoy telling a story in their own way and at the same time, learn how storytelling communicate ideas and emotions. This competition provides a creative platform for students to express themselves through story and at the same time, find joy in her learning of English Language.
+
+*   <b>What’s Up newspaper</b>
+
+![](/images/EnglishLangDept4.png)
+
+To help encourage our students to become informed global citizens, the school subscribes to the What’s Up newspaper which is issued to the P3 to P6 students on a monthly basis. Teachers use the articles in What’s Up to engage the students, help them think critically and express their opinions respectfully whilst also listening to the perspectives and viewpoints of others.
+
+*   <b>Writer’s Workshop at SACPS</b>
+
