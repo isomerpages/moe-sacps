@@ -41,7 +41,7 @@ Students’ interests are aroused through fun and discovery and their acquisitio
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tsok" rowspan="3"><br><br><br><span style="font-weight:bold">Tier 1</span><br><br><br><br><br><span style="font-weight:bold"> </span><span style="font-weight:bold;font-style:italic">Lesson Structure</span><br><span style="font-style:italic">·       10 lessons at each level</span><br><span style="font-style:italic">·       Carried out over 10 weeks – 2 periods per week</span> </th>
+    <th class="tg-tsok" rowspan="3"><br><br><br><br><br><span style="font-weight:bold">Tier 1</span><br><br><br><br><br><span style="font-weight:bold"> </span><span style="font-weight:bold;font-style:italic">Lesson Structure</span><br><span style="font-style:italic">·       10 lessons at each level</span><br><span style="font-style:italic">·       Carried out over 10 weeks – 2 periods per week</span> </th>
     <th class="tg-tsok"><span style="font-weight:bold">P3 Level</span><br><br><span style="font-weight:bold">(Innovator)</span><br><br><span style="font-style:italic">To resolve land scarcity issue in Singapore</span></th>
     <th class="tg-1ppo">·       Problem-crafting and problem-solving skills, are intertwined into a project to build a ‘Green’ floating structure to resolve land scarcity issues in Singapore.<br><br>·       The project is based on the Science topic of ‘Materials’, where students have to decide on suitable materials to be used, to build the ‘Green’ floating structure.</th>
   </tr>
