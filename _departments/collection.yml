@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics Department.md
       - Science Department.md
       - Chinese Language Department.md
       - Malay Department.md
