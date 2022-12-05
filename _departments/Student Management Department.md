@@ -46,3 +46,10 @@ In our school, we believe that <i>every SACPS student is a Service Leader</i>, 
 <b>Cyber Wellness (CW) @SACPS</b>
 
 Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace.
+
+
+<b>What is Cyber Wellness (CW)?</b>
+
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
+
+<b>MOE Cyber Wellness Framework</b>
