@@ -21,11 +21,11 @@ Form Teachers – Primary Six
 .tg .tg-udl9{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 777px">
+<table class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
-<col style="width: 259px">
-<col style="width: 259px">
-<col style="width: 259px">
+<col style="width: 269px">
+<col style="width: 269px">
+<col style="width: 256px">
 </colgroup>
 <thead>
   <tr>
