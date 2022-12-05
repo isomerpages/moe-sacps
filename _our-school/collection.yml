@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - For Parents/.keep
       - Contact Us.md
