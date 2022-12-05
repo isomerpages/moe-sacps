@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Teaching Staff/Teaching Staff – Chinese Language Teachers.md
       - Teaching Staff/Teaching Staff – Malay Language Teachers.md
       - Teaching Staff/Teaching Staff – Tamil Language Teachers.md
       - Teaching Staff/Teaching Staff – LT & ST.md
