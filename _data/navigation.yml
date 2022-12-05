@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Communities
+    collection: communities
   - title: For Parents
     collection: for-parents
   - title: Contact Us
