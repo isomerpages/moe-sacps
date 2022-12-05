@@ -108,3 +108,5 @@ For students who lack confidence in their mathematical knowledge and skills, the
 
 
 <b>Bi-Monthly Competitions</b>
+
+![](/images/MathDept4.png)
