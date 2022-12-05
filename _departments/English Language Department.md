@@ -41,3 +41,10 @@ At the picnic, pupils showcase a poetry recitation for their parents and classma
 *   <b>Mum & Me Day (P2)</b>
 
 ![](/images/EnglishLangDept2.png)
+
+Mum & Me Day is an event the EL department organises at the end of Term 2 for Primary 2 pupils and their mothers. Before this event, the pupils would prepare a special writing piece about their mothers to express their appreciation for them. They will also prepare a Readers’ Theatre performance for their mothers and classmates.
+
+After a short snack time, pupils and their mothers create a piece of craftwork together. At the end of craft time, the pupils will present this token of love to their mother as Mother’s Day is celebrated in the month of May.
+
+*   <b>Literature Appreciation Programme for P3 to P5 Pupils</b>
+
