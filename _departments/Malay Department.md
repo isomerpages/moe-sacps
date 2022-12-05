@@ -93,3 +93,5 @@ Malay Department
   </tr>
 </tbody>
 </table>
+
+![](/images/MalayDept.png)
