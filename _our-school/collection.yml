@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - For Parents/Useful Videos.md
       - For Parents/.keep
       - Contact Us.md
