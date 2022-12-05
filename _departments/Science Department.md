@@ -61,3 +61,28 @@ Students’ interests are aroused through fun and discovery and their acquisitio
   </tr>
 </tbody>
 </table>
+
+![](/images/SciDept1.png)
+
+*   <b>Mushroom Farming Workshop</b>
+
+P3 students experienced mushroom farming during their Science lessons during the workshop. Students get to see something they have learnt in their Science textbooks come to life before their eyes. They learn how mushrooms play a very important role in nature as decomposers.
+
+Through the workshop students learn how to care for their mushroom farming kits before finally putting their green thumbs to work. The hands-on experiential learning not only enriched the students’ learning but also promote the joy of learning Science.
+
+![](/images/SciDept2.png)
+
+*   <b>Mozzie Wipeout Roadshow</b>
+
+P4 students learn more about dengue, such as its symptoms, ways to prevent it, how to read the colour-coded banners in their neighbourhoods and much more through reading the information panels as well as interaction with the NEA officers.
+
+As part of the roadshow, the officers also brought along mosquito eggs and larvae, as well as live Aedes mosquitoes housed in enclosed boxes. These were used to teach our students how to distinguish them from other mosquitoes.
+
+Through this roadshow, students not only gained knowledge, but also learnt that they have to be vigilant and all of them have a part to play in ensuring their neighbourhood is Dengue-free and Zika-free.
+
+*   <b>Aquatic Plants & Animals lesson at Science Centre</b>  
+    P6 students will be taught field techniques to catch and observe a variety of aquatic plants (floating, fully submerged and partially submerged) and animals which make up the pond community. In the process, they will learn about relationships between organisms (e.g. food web) in the pond ecosystem which is teeming with life forms, from microscopic algae to pond skaters and even the occasional water monitor!
+
+*   <b>Lee Kong Chian Natural History Museum Learning Journey on Biodiversity and Animal Adaptation</b>  
+    The learning journey aims to enhance P6 students’ knowledge on the topic of Biodiversity and Animal Adaptation. At the museum, they will go on a guided tour where they will discover interesting animal adaptive features that help to enhance their chances of survival. It also helps to further enriched their knowledge of how specimens are preserved. Through hands-on activities and collaborative learning, we hope that students will gain a better understanding of the topic.
+		
