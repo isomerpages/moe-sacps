@@ -64,3 +64,4 @@ To help encourage our students to become informed global citizens, the school su
 
 *   <b>Writer’s Workshop at SACPS</b>
 
+![](/images/EnglishLangDept5.png)
