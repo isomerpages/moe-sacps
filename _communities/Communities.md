@@ -9,5 +9,5 @@ description: ""
 Communities
 ===========
 
-*   
+*   [CCEd (Canossian Co-Educator)](/communities/Canossian-Co-Educators-CCEds/)
 *   [Alumni](https://www.canossianalumni.com/)
