@@ -99,3 +99,7 @@ As students are engaged in tasks that require them to demonstrate reasoning and 
 For students who lack confidence in their mathematical knowledge and skills, the department strongly believes in using mindset interventions to help students focus their attention on their mathematical growth. An example is to help students let go of their concerns about how they are performing, relative to their peers, and enjoy observing their own growth and learning.
 
 <b>Fluency Through Games</b>
+
+![](/images/MathDept2.png)
+
+<b>Mini Projects</b>
