@@ -40,3 +40,4 @@ At the picnic, pupils showcase a poetry recitation for their parents and classma
 
 *   <b>Mum & Me Day (P2)</b>
 
+![](/images/EnglishLangDept2.png)
