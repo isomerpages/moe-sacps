@@ -33,3 +33,10 @@ Pupils will hold a title for a period of 2 weeks. During this period, teachers w
 *   <b>Teddy Bear Picnic (P1)</b>
 
 ![](/images/EnglishLandDept1.png)
+
+At the end of Term 1, the EL Department organises a Teddy Bear Picnic to celebrate the end of the first term for the Primary 1 pupils. Parents are invited to this event so that they will have an understanding of what school is like for their daughters.
+
+At the picnic, pupils showcase a poetry recitation for their parents and classmates and this is followed by a publishing party. Here, parents and classmates read stories written by the Primary 1 pupils during the term and provide encouraging compliments to spur them to be better writers.
+
+*   <b>Mum & Me Day (P2)</b>
+
