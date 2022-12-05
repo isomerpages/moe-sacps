@@ -16,3 +16,33 @@ The Student Management Department aims to instil a sense of belonging, build pos
 Positive peer relationships facilitate the provision of care, a sense of belonging amongst students, as well as the building of resilience. Student peer relationships are also powerful channels of positive influence and are excellent opportunities for student voice and empowerment in the school.
 
 There are 3 broad domains (<b>Peer Bonding, Peer Helping and Peer Influencing</b>) we look into and is enacted in two levels, where every student is a peer supporter.
+
+![](/images/SMD.png)
+
+
+<u><b>Positive Discipline</b></u>   
+In enacting a positive and proactive approach to discipline in school, there are three aspects we consider:
+
+*   <b>Promote and Prevent</b> – In building strong teacher-student relationships and giving quality instruction, the school strives to promote a safe and supportive environment and thus prevent challenging behaviours from occurring and disrupting learning.
+*   <b>Address and Correct</b> – Despite preventive measures, students could still display inappropriate behaviours due to various reasons. These inappropriate behaviour will be addressed promptly by the teachers, Year Heads and Discipline Mistress.
+*   <b>Replace and Restore</b> – As the ultimate goal is for students to develop self-discipline and good character, teachers help misbehaving students to replace their inappropriate behaviours with prosocial, appropriate ones, and to restore relationships with others hurt by their actions.
+
+
+<b>Student Leadership</b>
+
+To achieve our school vision <i>Leaders with a Heart for Others,</i> the department also looks into giving opportunities to all students in developing their leadership qualities.
+
+In doing so, we want our student leaders to demonstrate the Canossian Attributes of Commitment, Compassion and Cheerfulness in serving and leading others.
+
+Student leadership development in SACPS focuses on three dimensions.
+
+*   Personal Leadership –  students learn to take ownership of their own actions and choices
+*   Peer Leadership – students learn to serve others around them
+*   Thought Leadership – students learn to influence others and create value to the community
+
+In our school, we believe that <i>every SACPS student is a Service Leader</i>, thus the school’s core values of Charity, Humility, Forgiveness and Faith also serves as a foundation for the SACPS Service Leader.
+
+
+<b>Cyber Wellness (CW) @SACPS</b>
+
+Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace.
