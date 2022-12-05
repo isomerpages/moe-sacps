@@ -140,3 +140,13 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 
 
 <b>Primary 6</b>
+
+
+
+
+
+
+<b>Information for Parents</b>
+
+1.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents in Term 4 for P5 and P6 students. A hardcopy of the form, duly completed and signed, is to be submitted to the school by the given date stated in the letter which will be sent via PG.
