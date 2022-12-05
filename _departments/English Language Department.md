@@ -29,3 +29,5 @@ English Language Department
 The series of books selected for the Guided Reading Programme are pitched at the pupil’s instructional level. At the beginning of semester 2, the P2 pupils will begin reading chapter books of a more complex nature. The books range from classics to modern children’s literature.
 
 Pupils will hold a title for a period of 2 weeks. During this period, teachers will conduct activities to teach reading and comprehension skills. The series of books used will be rotated amongst the classes within their level and at the end of the programme, the pupils will be given two books to keep.
+
+*   <b>Teddy Bear Picnic (P1)</b>
