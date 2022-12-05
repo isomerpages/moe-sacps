@@ -124,9 +124,10 @@ The school recommends that a student remains in the same CCA for the subsequent 
 <tbody>
   <tr>
     <td class="tg-xyrl">• Netball<br>• Skipping<br>• Sports For Life<br>• Tennis<br>• Taekwondo<br>• Track and Field</td>
-    <td class="tg-xyrl">• Choir<br>• Concert Band<br>• Chinese Dance<br>• Modern Dance</td>
-    <td class="tg-xyrl"><br>• Art Club<br>• Infocomm Club</td>
+    <td class="tg-xyrl"><br>• Choir<br>• Concert Band<br>• Chinese Dance<br>• Modern Dance</td>
+    <td class="tg-xyrl"><br><br>• Art Club<br>• Infocomm Club</td>
     <td class="tg-xyrl"> <br><br>• Brownies</td>
   </tr>
 </tbody>
 </table>
+
