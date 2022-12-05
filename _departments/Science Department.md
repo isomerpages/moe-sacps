@@ -87,3 +87,8 @@ Through this roadshow, students not only gained knowledge, but also learnt that 
     The learning journey aims to enhance P6 students’ knowledge on the topic of Biodiversity and Animal Adaptation. At the museum, they will go on a guided tour where they will discover interesting animal adaptive features that help to enhance their chances of survival. It also helps to further enriched their knowledge of how specimens are preserved. Through hands-on activities and collaborative learning, we hope that students will gain a better understanding of the topic.
 		
 ![](/images/SciDept3.png)
+
+*   <b>Physics Learning Trail</b>  
+    This learning trail incorporated Science concepts on Energy Conversion, Forces, Sound, that the P6 students would learn in class, to real-life applications, as well as, basic scientific report writing and graphing skills which would be useful for our graduating P6 students when they go into secondary school. This was in line with the school’s directive in engaging students in meaningful joyful learning.
+		
+![](/images/SciDept4.png)
