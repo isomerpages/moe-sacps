@@ -84,3 +84,13 @@ Note: Cyber Wellness Curriculum in schools page not found.
 
 * [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf](/files/Parent%20Kit%20-%20Raising%20A%20Digitally%20Smart%20Child.pdf)
 * [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](/files/cyber-wellness-for-your-child.pdf)
+*   [https://www.schoolbag.edu.sg/story/cyber-wellness—useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+*   [Parents, the Guardians of Internet Safety (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
+*   [Guide for Parents on Setting Parental Controls (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [Understanding Cyber Wellness (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
+*   [Navigating the Cyber World Safely (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
+*   [ICT in Schools: To Use or Not to Use? (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
+*   [Play safe – Avoid online gaming addiction (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
+*   [Safeguarding your child online (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
+*   [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
+*   [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
