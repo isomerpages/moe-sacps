@@ -54,3 +54,27 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 
 <b>MOE Cyber Wellness Framework</b>
 ![](/images/SMD2.png)
+
+
+<b>Cyber Wellness (CW) Programmes @SACPS</b>
+
+*    CW Assembly talks
+*   CW Week
+*   Safer Internet Day
+*   CW lessons in FTGP
+*   Termly CW sharing by CW ambassadors
+
+
+<b>SACPS Cyber Wellness (CW) Ambassadors</b>
+
+In SACPS, two CW ambassadors are identified from every Primary 4 to Primary 6 class. CW ambassadors are empowered and equipped with skills to build a culture of positive peer influence, support their peers in cyber issues and champion school-wide CW outreach efforts.
+
+The roles of CW ambassadors include:
+
+<b>Teach and Advocate:</b> Share CW knowledge with the class to promote greater awareness of the threats of the cyber world.
+
+<b>Lead and Inspire:</b> Being a positive influencers and leaders to help their friends or alert a trusted adult (e.g. teacher) when their friends are in distress due cyber issues such as cyber bullying.
+
+To find out more about <b>Cyber Wellness Curriculum</b> in schools, click [<b>here</b>](https://www.moe.gov.sg/programmes/cyber-wellness).
+
+Note: Cyber Wellness Curriculum in schools page not found.
