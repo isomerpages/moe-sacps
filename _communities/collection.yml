@@ -1,0 +1,4 @@
+collections:
+  communities:
+    output: true
+    order: []
