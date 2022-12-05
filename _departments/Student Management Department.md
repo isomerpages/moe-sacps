@@ -82,4 +82,4 @@ Note: Cyber Wellness Curriculum in schools page not found.
 
 <b>Cyber Wellness resources for parents</b>
 
-*   
+* [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf](/files/Parent%20Kit%20-%20Raising%20A%20Digitally%20Smart%20Child.pdf)
