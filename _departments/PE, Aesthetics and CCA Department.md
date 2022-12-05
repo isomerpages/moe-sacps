@@ -131,3 +131,22 @@ The school recommends that a student remains in the same CCA for the subsequent 
 </tbody>
 </table>
 
+Membership and participation in the above mentioned CCA will be reflected in the Holistic Development Card (HDC) for P4 to P6 students.
+
+
+
+<b>Sports CCA Safety Considerations</b>
+
+<u>GENERAL SAFETY TIPS</u>  
+Students should:
+
+*   Refrain from participating in sports when ill or when recovering from an illness.
+*   Do proper warm-ups before the activities.
+*   Have with them a bottle of water during their training and ensure that they hydrate themselves regularly.
+*   Put on adequate shade or sunscreen when they are doing outdoor activities to prevent overexposure to the sun.
+*   Wear proper attire and footwear with good support for their Sports CCAs.
+*   Trim long fingernails.
+*   Observe the rules and regulations of the Sports.
+*   Use equipment with an adult’s supervision.
+*   Stop their participation if they have injured themselves during the CCA session and inform the teacher/coach immediately.
+*   Move indoor when the lighting risk alert is activated.
