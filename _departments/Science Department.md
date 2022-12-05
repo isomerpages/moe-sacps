@@ -86,3 +86,4 @@ Through this roadshow, students not only gained knowledge, but also learnt that 
 *   <b>Lee Kong Chian Natural History Museum Learning Journey on Biodiversity and Animal Adaptation</b>  
     The learning journey aims to enhance P6 students’ knowledge on the topic of Biodiversity and Animal Adaptation. At the museum, they will go on a guided tour where they will discover interesting animal adaptive features that help to enhance their chances of survival. It also helps to further enriched their knowledge of how specimens are preserved. Through hands-on activities and collaborative learning, we hope that students will gain a better understanding of the topic.
 		
+![](/images/SciDept3.png)
