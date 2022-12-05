@@ -4,3 +4,7 @@ permalink: /our-school/Teaching-Staff/Teaching-Staff-AED/
 description: ""
 third_nav_title: Teaching Staff
 ---
+![](/images/UsefulVideos.jpg)
+
+Teaching Staff – AED
+====================
