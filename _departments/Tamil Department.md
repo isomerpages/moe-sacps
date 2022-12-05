@@ -16,3 +16,5 @@ Tamil Department
 *   To create a platform for students of different races to develop a greater understanding and appreciation of the Indian community in Singapore.
 
 *   To nurture students’ Cultural Intelligence such as Global Awareness, Cross- Cultural Skills and Sensitivities through authentic, engaging and fun hands-on activities.
+
+<b>Programmes And Activities 2022:</b>
