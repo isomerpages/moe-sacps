@@ -73,3 +73,29 @@ In collaboration with the English Department, P1 and P2 students embark on integ
 Through their visit to the Zoo, P1 pupils are able to immerge in nature and be amongst the animals while solving related mathematical problems. In groups, pupils are given the opportunity to observe their surroundings and have conversations with their group members and finally come to a consensus on their solutions to real problems.
 
 P2 students on the other hand, visit the supermarket to have a real life experience with numbers and money. This is made possible with prior planning whereby students discuss within their groups the ingredients to purchase for their sandwich–making activity which is to be conducted after the supermarket trip. Not only do they experience selecting, purchasing and paying for their items, they also learn the value of money as they have to restrict themselves to spend within the given budget
+
+<b>Math Problem Solving @ SACPS</b>
+
+*   <b>P2 to P6 Heuristics</b>
+*   <b>Polya’s Problem Solving Technique – Understand Plan Do Check</b>
+*   <b>Line Arrows Numbers Question \_mark</b>
+*   <b>Calculations Units Transfer Equation Reasonableness</b>
+
+Through Primary Two to Six, pupils are taught various heuristic concepts of tackling problem sums when the solution to the problems is not obvious. This is done through our Heuristics Booklet packages.
+
+Students are also specifically taught principles and strategies which help them to organize their thoughts, make connections between data and the unknowns, selecting appropriate strategies and checking for accuracy when solving mathematical problems.
+
+
+<b>Math AFL @ SACPS</b>
+
+*   <b>Reasoning and Communication</b>
+*   <b>Cooperative Learning Structures</b>
+*   <b>Growth Mindset</b>
+
+The department leverages on selective Cooperative Learning Structures as a form of Assessment for Learning. These structures aim to provide students opportunities to think aloud with and to their peers and teachers when they are coaching or solving problems assigned to them. Teachers are also provided with opportunities to carry out diagnosis and assessment for learning in a non-threatening situation.
+
+As students are engaged in tasks that require them to demonstrate reasoning and communication, they are also developing their interpersonal, self-management and leadership skills.
+
+For students who lack confidence in their mathematical knowledge and skills, the department strongly believes in using mindset interventions to help students focus their attention on their mathematical growth. An example is to help students let go of their concerns about how they are performing, relative to their peers, and enjoy observing their own growth and learning.
+
+<b>Fluency Through Games</b>
