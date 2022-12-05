@@ -48,3 +48,4 @@ After a short snack time, pupils and their mothers create a piece of craftwork t
 
 *   <b>Literature Appreciation Programme for P3 to P5 Pupils</b>
 
+![](/images/EnglishLangDept3.png)
