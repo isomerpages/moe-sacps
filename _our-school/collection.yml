@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - Non Teaching Staff.md
       - Financial Information.md
       - Virtual Tours.md
