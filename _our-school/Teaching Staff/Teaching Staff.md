@@ -19,7 +19,7 @@ Teaching Staff
     *   [Primary 5](/our-school/Teaching-Staff/Form-Teachers-Primary-Five/)
     *   [Primary 6](/our-school/Teaching-Staff/Form-Teachers-Primary-Six/)
 *   <b>Mother Tongue Teachers</b> 
-    *   [Chinese](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-chinese-language-teachers/)
+    *   [Chinese](/our-school/Teaching-Staff/Teaching-Staff-Chinese-Language-Teachers/)
     *   [Malay](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-malay-language-teachers/)
     *   [Tamil](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-tamil-language-teachers/)
 *   [**PE, Art and PA Teachers**](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-pe-art-and-pa-teachers/)
