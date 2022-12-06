@@ -23,3 +23,18 @@ Closed on Sundays and gazetted public holidays
 
 Email: [scscc@ymca.edu.sg](mailto:scscc@ymca.edu.sg)  
 Website: [https://www.ymca.org.sg/](https://www.ymca.org.sg/)
+
+
+### **School Bookshop** 
+
+Headquarters:
+<b>Pacific Bookstores Pte Ltd</b>  
+14 Arumugam Road  
+#08-01  
+Lion Building C  
+Singapore 409959  
+Tel: 6464 0111  
+Fax: 6464 0110  
+School Branch Tel: 6247 5605
+
+Website: [www.pacificbookstores.com](https://stanthonyscanossianpri.moe.edu.sg/departments/www.pacificbookstores.com)
