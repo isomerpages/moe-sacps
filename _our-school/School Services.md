@@ -79,3 +79,6 @@ Tuesdays & Thursdays: Mdm Dewi
 Wednesday & Friday: Ngeow Chye Fong
 
 Lunch Hour: 1 pm to 2 pm
+
+
+<b>SACPS Dental Clinic Operating Days</b>
