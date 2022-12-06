@@ -23,6 +23,6 @@ Teaching Staff
     *   [Malay](/our-school/Teaching-Staff/Teaching-Staff-Malay-Language-Teachers/)
     *   [Tamil](/our-school/Teaching-Staff/Teaching-Staff-Tamil-Language-Teachers/)
 *   [<b>PE, Art and PA Teachers</b>](/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/)
-*   [**LT & ST**](https://stanthonyscanossianpri.moe.edu.sg/lt-st/)
+*   [<b>LT & ST</b>](/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/)
 *   **[FAJT](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-fajt)**
 *   [**AED**](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-aed/)
