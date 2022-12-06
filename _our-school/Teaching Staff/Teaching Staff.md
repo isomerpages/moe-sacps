@@ -16,7 +16,7 @@ Teaching Staff
     *   [Primary 2](/our-school/Teaching-Staff/Form-Teachers-Primary-Two/)
     *   [Primary 3](/our-school/Teaching-Staff/Form-Teachers-Primary-Three/)
     *   [Primary 4](/our-school/Teaching-Staff/Form-Teachers-Primary-Four/)
-    *   
+    *   [Primary 5](/our-school/Teaching-Staff/Form-Teachers-Primary-Five/)
     *   [Primary 6](https://stanthonyscanossianpri.moe.edu.sg/157-2/)
 *   <b>Mother Tongue Teachers</b> 
     *   [Chinese](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-chinese-language-teachers/)
