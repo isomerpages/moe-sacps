@@ -31,5 +31,6 @@ The Crown above the crest symbolises the supremacy of God over all and All for t
 On the crest is the motto for all Canossian School – VIA VERITAS VITA.
 
 
-Motto
-=====
+### Motto
+
+<img src="/images/Motto.gif" style="width:50%">
