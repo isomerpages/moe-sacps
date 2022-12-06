@@ -10,7 +10,7 @@ Teaching Staff
 ==============
 
 
-*   [**School Executive Committee**](https://stanthonyscanossianpri.moe.edu.sg/school-executive-committee/)
+*   [<b>School Executive Committee</b>](/our-school/Teaching-Staff/School-Executive-Committee/)
 *   <b>Form Teachers</b>
     *   [Primary 1](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-one/)
     *   [Primary 2](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-two/)
