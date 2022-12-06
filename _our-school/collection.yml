@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Teaching Staff/School Executive Committee.md
       - Teaching Staff/Form Teachers – Primary One.md
       - Teaching Staff/Form Teachers – Primary Two.md
       - Teaching Staff/Form Teachers – Primary Three.md
