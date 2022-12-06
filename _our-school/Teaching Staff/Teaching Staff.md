@@ -12,7 +12,7 @@ Teaching Staff
 
 *   [<b>School Executive Committee</b>](/our-school/Teaching-Staff/School-Executive-Committee/)
 *   <b>Form Teachers</b>
-    *   [Primary 1](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-one/)
+    *   [Primary 1](/our-school/Teaching-Staff/Form-Teachers-Primary-One/)
     *   [Primary 2](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-two/)
     *   [Primary 3](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-three/)
     *   [Primary 4](https://stanthonyscanossianpri.moe.edu.sg/form-teachers-primary-four/)
