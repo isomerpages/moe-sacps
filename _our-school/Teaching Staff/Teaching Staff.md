@@ -25,4 +25,4 @@ Teaching Staff
 *   [<b>PE, Art and PA Teachers</b>](/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/)
 *   [<b>LT & ST</b>](/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/)
 *   **[FAJT](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-fajt)**
-*   
+*   [<b>AED</b>](/our-school/Teaching-Staff/Teaching-Staff-AED/)
