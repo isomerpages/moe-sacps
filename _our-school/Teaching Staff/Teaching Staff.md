@@ -26,3 +26,5 @@ Teaching Staff
 *   [<b>LT & ST</b>](/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/)
 *   **[FAJT](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-fajt)**
 *   [<b>AED</b>](/our-school/Teaching-Staff/Teaching-Staff-AED/)
+
+Note: FAJT link broken.
