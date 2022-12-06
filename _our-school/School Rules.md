@@ -69,3 +69,15 @@ Respect for teachers, other adults and fellow schoolmates
 (9.1) Pupils must seek permission from the Discipline Mistress before bringing their mobile phones.
 
 (9.2) Pupils must adhere to the rules of bringing mobile phones. Failing to adhere to the rules may result in them facing disciplinary act.
+
+### Respect for Nation
+
+<b>10\. National Anthem and Pledge</b>
+
+(10.1) Pupils who are Singapore citizens must sing the National Anthem and say the pledge.
+
+(10.2) Pupils must be respectful in their observations of flag-rising, flag-lowering and other school ceremonies.
+
+(10.3) Pupils will take the Pledge with the right fist over the heart.
+
+(10.4) Pupils must be in respectful at prayer time.
