@@ -78,3 +78,28 @@ Objectives
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-com3{background-color:#FFF;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-com3"><span style="font-weight:bold">Blessed are the gentle …</span> <br><br>Not even slavery, however, could destroy her natural sensitivity and gentleness, that quality of heart that knows compassion. In the midst of her own pain and suffering, and impotent as she was, she could still care about others, commiserate with them, be with them.<br>This trait she carried with her even when her path led her out of Africa to Italy, where by Divine Providence, she was baptised into the Catholic faith and later took her vows as a Canossian Daughter of Charity.</th>
+    <th class="tg-1ppo"><img src="https://stanthonyscanossianpri.moe.edu.sg/wp-content/uploads/2016/08/pic_bakhita4.gif" alt="pic_bakhita4" width="34" height="143"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn" colspan="2">Whether it was simply offering a drink to a sister in community or a bowl of hot soup to the poor, watching over kindergarten children or tending the wounded during the war, every action was done with love, serenity and gentleness.<br><br>Blessed are those who hunger and thirst for righteousness …<br>The one who considered herself “a slave, and an object owned by her masters”, never took advantage of her masters’ property, even under the worst of circumstances and the greatest need. Slave duties were executed with responsibility and an innate sense of justice.<br>Even before she came to know “the good of God”, she also sensed that there was a higher Power who was in control of every matter under heaven. Because she lived continually in the search of events unfolding around for so as to find the key to encountering this Power, her heart was open and ready when God revealed Himself to her.</td>
+  </tr>
+</tbody>
+</table>
