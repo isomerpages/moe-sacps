@@ -19,5 +19,5 @@ sections:
           url: /News-and-Events/
         - title: Photo Gallery
           description: ""
-          url: /privacy/
+          url: /photo-gallery/Photo-Gallery/
 ---
