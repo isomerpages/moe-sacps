@@ -16,7 +16,7 @@ sections:
           url: /Announcements/
         - title: News & Events
           description: ""
-          url: https://gmail.com
+          url: /News-and-Events/
         - title: Photo Gallery
           description: ""
           url: /privacy/
