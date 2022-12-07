@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us/Contact-Us/
 description: ""
 ---
-
-
 ![](/images/banner-contactus.jpg)
 
 
@@ -44,3 +42,6 @@ Contact Us
 
 
 For compliments, queries and feedback, please email us at [sacps@moe.edu.sg](mailto:sacps@moe.edu.sg)
+
+
+Note: Map cannot be ported over into google maps.
