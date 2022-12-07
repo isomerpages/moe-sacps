@@ -135,7 +135,81 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 
 <b>Primary 5</b>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-5l0h{background-color:#e6e6e6;text-align:left;vertical-align:top}
+.tg .tg-6c67{background-color:#e6e6e6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 957px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 178px">
+<col style="width: 522px">
+<col style="width: 106px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1wig">TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c67" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br>Gosh! I Am Changing<br><br>                             </td>
+    <td class="tg-xyrl">What Is Happening To Me?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know what puberty is<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the physical changes during puberty<br></td>
+    <td class="tg-0lax">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">What Can I Do?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(Part 1)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the stresses caused by physical changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>describe healthy ways to manage the stresses caused by physical changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>describe the emotions caused by physical changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-0lax"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h">What Can I Do?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(Part 2)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the stresses caused by physical and emotional changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>describe the emotions caused by physical changes during puberty<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty<br></td>
+    <td class="tg-5l0h"><br><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Main Task</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Description of the Main Task:</span><br>Students are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.<br></td>
+    <td class="tg-5l0h"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h" rowspan="2"><br><br><br><br>Where I Belong</td>
+    <td class="tg-5l0h">What Are Families?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know that there are different types of family structures<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know that every family is unique<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>state that the three basic functions of families are to provide love, protection and guidance<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the right sources of help to turn to when in need</td>
+    <td class="tg-5l0h"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">What is My Role?</span><br>(30 min)<br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know that gender is about being male or female<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>choose not to stereotype by gender</td>
+    <td class="tg-0lax">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h" rowspan="2"><br><br>How Do I Keep Myself Safe?</td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">What is Safety?</span><br>(30 min)<br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know what sexual abuse is<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know that there are laws in Singapore that can protect them from sexual abuse<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-5l0h">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Stop It! Run! Tell!</span><br>(30 min)<br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-0lax">Term 4</td>
+  </tr>
+</tbody>
+</table>
 
 
 
