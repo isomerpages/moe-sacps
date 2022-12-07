@@ -78,3 +78,15 @@ One would expect that with all that she had undergone, Bakhita would have suffer
 This is why she was able to forgive her kidnappers and those who tortured her, why she bore no resentment towards them, and prayed with great passion for their well-being.
 
 ------
+
+<img src="/images/pic_bakhita6.gif" style="width:140px;height:240px;margin-left:15px;" align = "right"> <i><b>Blessed are the pure in heart …</b></i> 
+
+As her relationship with the unseen God grew, so too did her capacity to enter into communion with God. She was able to see the hand of God in all the events of daily life and neither illness nor wars shook her serene, child-like trust that El Paron, The Master, was in command.
+
+------
+
+Even as health passed and physical health failed, her spirit grew brighter and stronger. Prayer was spent in the company of One “who had waited so long for me”. A characteristic topic of her meditation was “Jesus: to know Him better, so as to love Him more and more”.
+
+
+------
+
