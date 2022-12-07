@@ -17,5 +17,5 @@ Photo Gallery
 *   [Health Week 2018](/photo-gallery/Health-Week-2018/)
 *   [Gift Of Song 2018](/photo-gallery/Gift-Of-Song-2018/)
 *   [Track Meet 2018](/photo-gallery/Track-Meet-2018/)
-*   [Children’s Day 2018](https://stanthonyscanossianpri.moe.edu.sg/photo-gallery/childrens-day-2018/)
+*   [Children’s Day 2018](/photo-gallery/Childrens-Day-2018/)
 *   [Student Activities 2018](https://stanthonyscanossianpri.moe.edu.sg/photo-gallery/student-activities-2018/)
