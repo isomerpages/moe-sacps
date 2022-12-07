@@ -16,7 +16,12 @@ Student Activities 2018
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 604px">
+<colgroup>
+<col style="width: 201px">
+<col style="width: 202px">
+<col style="width: 201px">
+</colgroup>
 <thead>
   <tr>
     <td class="tg-zv4m"><img src="https://stanthonyscanossianpri.moe.edu.sg/wp-content/uploads/2018/10/aci2018web-1.jpg" width="200" height="133"></td>
