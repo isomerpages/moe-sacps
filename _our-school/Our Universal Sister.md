@@ -41,3 +41,5 @@ All was lost to her when the slave trades kidnapped her when she was but seven y
 The little one, mockingly re-named Bakhita, “The Lucky One”, suffered loneliness and torture … the lot of the slave.
 
 Yet, even reduced to conditions inhuman, Bakhita always knew a certain sense of hope … in what or whom she could not say … then. But somewhere, she knew not how then, she found the strength to live each fearful, miserable, terror-filled day with courage.
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
