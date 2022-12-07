@@ -216,7 +216,81 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 <b>Primary 6</b>
 
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-5l0h{background-color:#e6e6e6;text-align:left;vertical-align:top}
+.tg .tg-6c67{background-color:#e6e6e6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 781px">
+<colgroup>
+<col style="width: 104px">
+<col style="width: 160px">
+<col style="width: 411px">
+<col style="width: 106px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1wig">TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c67" rowspan="5"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">Are We More Than Friends?</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400;font-style:normal;text-decoration:none">Who Are My Friends?</span><br>(30 min)<br><br><br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the qualities of a healthy friendship<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>recognise the importance of making wise choices in friendship<br></td>
+    <td class="tg-5l0h"><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok"><span style="font-weight:400;font-style:normal;text-decoration:none">Am I A Good Friend?</span><br>(30 min)<br><br><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>identify the qualities that they have as a friend<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-0lax"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h"><br>What is Love?<br>(30 min)<br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>identify the characteristics of love and infatuation<br><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>distinguish between the characteristics of love versus infatuation<br><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>identify strong feelings arising from infatuation<br></td>
+    <td class="tg-5l0h"><br>Term 4<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">Am I Falling In Love?</span><br>(30 min)<br><br><br></td>
+    <td class="tg-0lax"><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>manage strong feelings arising from infatuation<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-ycr8"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">Main Task</span><br>(30 min)<br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">Description of the Main Task: Students are to play the role of a game designer who wants to create a board game to help students of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
+    <td class="tg-5l0h"><br><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">Term 4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8" rowspan="3"><br><br><br><br><br><br><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">Friends or Foes?</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none">Are You Really My Friend?</span><br>(30 min)<br><br><br></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>identify the pros and cons of forming relationships through social networking websites<br><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>know ways to keep themselves safe when using social networking websites<br></td>
+    <td class="tg-ycr8"><br><br>Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">Is It All Safe?</span><br>(30 min)<br><br></td>
+    <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">•  </span>know that some information (like pornography) received through the Internet may be harmful<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know ways to keep themselves safe when using social media websites or the Internet</td>
+    <td class="tg-5l0h">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8"><br><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">Main Task</span><br>(30 min)<br><br><br></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none">Description of the Main Task: Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide students with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
+    <td class="tg-ycr8"><br><br><br>Term 4</td>
+  </tr>
+</tbody>
+</table>
 
 
 
