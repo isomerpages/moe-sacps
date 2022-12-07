@@ -149,12 +149,12 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 854px">
+<table class="tg" style="undefined;table-layout: fixed; width: 763px">
 <colgroup>
-<col style="width: 147px">
-<col style="width: 173px">
-<col style="width: 431px">
-<col style="width: 103px">
+<col style="width: 102px">
+<col style="width: 157px">
+<col style="width: 402px">
+<col style="width: 102px">
 </colgroup>
 <thead>
   <tr>
