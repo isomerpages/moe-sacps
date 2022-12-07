@@ -20,9 +20,4 @@ sections:
         - title: Photo Gallery
           description: ""
           url: /privacy/
-  - infobar:
-      title: Locate Us
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
