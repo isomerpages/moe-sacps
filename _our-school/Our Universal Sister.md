@@ -19,3 +19,8 @@ born free in the little Sudanese village of Olgossa in 1869, then captured and s
 
 <b>Bakhita</b>  
 sold and resold until finally, she leaves her beloved Africa for Italy and a new life.
+
+
+<b>Bakhita</b>  
+awakening to the knowledge and love of God, her “Master” above all masters and her response in faith, love and gratitude.<b>Bakhita</b>  
+left this world on 8 February 1947, she was declared “Blessed” on 17 May 1992, and proclaimed a “Saint” on 1 October 2000 in Rome.
