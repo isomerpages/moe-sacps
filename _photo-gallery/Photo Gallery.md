@@ -10,7 +10,7 @@ Photo Gallery
 
 ### **2018**
 
-*   
+*   [P1 First Day 2018 ](/photo-gallery/P1-First-Day-2018/)
 *   [P1 Teddy Bear Picnic 2018](https://stanthonyscanossianpri.moe.edu.sg/photo-gallery/teddy-bear-picnic-2018/)
 *   [Canossian Saints’ Day 2018](https://stanthonyscanossianpri.moe.edu.sg/photo-gallery/canossian-saints-day-2018/)
 *   [Chinese New Year 2018](https://stanthonyscanossianpri.moe.edu.sg/photo-gallery/chinese-new-year-2018/)
