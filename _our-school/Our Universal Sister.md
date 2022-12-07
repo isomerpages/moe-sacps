@@ -34,3 +34,6 @@ A child of the Daju tribe of south-western Sudan, Bakhita came from a well-to-do
 Home was a simple hut, mud-walled and millet stalk-thatched, but happy and loving, with parents, three brothers and four sisters, one of whom was Bakhita’s own twin.
 
 All was lost to her when the slave trades kidnapped her when she was but seven years old. Stripped of the most fundamental human right – personal freedom and dignity – Bakhita endured physical, emotional and spiritual deprivation. There were long forced marches in slave caravans from Olgossa, her village, to El Obied and the slave markets there, then on to Khartoum, changing hands four times over a period of ten years.
+
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
