@@ -11,18 +11,17 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: News & Events
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Photo Gallery
+          description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Locate Us
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
