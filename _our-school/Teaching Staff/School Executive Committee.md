@@ -20,10 +20,10 @@ School Executive Committee
 .tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 822px">
+<table class="tg" style="undefined;table-layout: fixed; width: 852px">
 <colgroup>
-<col style="width: 411px">
-<col style="width: 411px">
+<col style="width: 426px">
+<col style="width: 426px">
 </colgroup>
 <thead>
   <tr>
