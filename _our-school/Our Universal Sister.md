@@ -67,3 +67,6 @@ Even before she came to know “the good of God”, she also sensed that there w
 
 
 ------
+
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
