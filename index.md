@@ -20,8 +20,4 @@ sections:
         - title: Photo Gallery
           description: ""
           url: /photo-gallery/Photo-Gallery/
-  - infobar:
-      title: Locate Us
-      button: "Click here "
-      url: /
 ---
