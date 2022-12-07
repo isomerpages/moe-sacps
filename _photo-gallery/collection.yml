@@ -2,4 +2,5 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Children’s Day 2018.md
       - Student Activities 2018.md
