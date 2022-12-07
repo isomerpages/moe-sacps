@@ -102,3 +102,7 @@ Above all, she had made peace with her past.
 
 ------
 
+
+<img src="/images/pic_bakhita8.gif" style="width:140px;height:240px;margin-left:15px;" align = "right"> <i><b>Blessed are those who have been persecuted …</b></i>
+
+For all who have been tried by conflict, wars and oppression, Bakhita leaves us the legacy of comfort and hope in a providential Father. She joins those who, from generation to generation, have followed Christ through trial and tribulation, and who now take their place in the Kingdom of God.
