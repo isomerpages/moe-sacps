@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Gift Of Song 2018.md
       - Track Meet 2018.md
       - Children’s Day 2018.md
       - Student Activities 2018.md
