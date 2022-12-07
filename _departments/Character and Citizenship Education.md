@@ -146,15 +146,15 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 .tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
 .tg .tg-5l0h{background-color:#e6e6e6;text-align:left;vertical-align:top}
 .tg .tg-6c67{background-color:#e6e6e6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 763px">
+<table class="tg" style="undefined;table-layout: fixed; width: 762px">
 <colgroup>
-<col style="width: 102px">
-<col style="width: 157px">
+<col style="width: 101px">
+<col style="width: 156px">
 <col style="width: 402px">
-<col style="width: 102px">
+<col style="width: 103px">
 </colgroup>
 <thead>
   <tr>
@@ -169,7 +169,7 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
     <td class="tg-6c67" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br>Gosh! I Am Changing<br><br>                             </td>
     <td class="tg-xyrl">What Is Happening To Me?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
     <td class="tg-5l0h"><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>know what puberty is<br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>identify the physical changes during puberty<br></td>
-    <td class="tg-0lax">Term 4</td>
+    <td class="tg-5l0h">Term 4</td>
   </tr>
   <tr>
     <td class="tg-tsok">What Can I Do?<br><span style="font-weight:400;font-style:normal;text-decoration:none">(Part 1)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(30 min)</span><br></td>
