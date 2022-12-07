@@ -82,3 +82,5 @@ Lunch Hour: 1 pm to 2 pm
 
 
 <b>SACPS Dental Clinic Operating Days</b>
+
+Note: SACPS Dental Clinic Operating Days calendar can be ported over into google calendar
