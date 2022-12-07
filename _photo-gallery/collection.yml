@@ -2,5 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Track Meet 2018.md
       - Children’s Day 2018.md
       - Student Activities 2018.md
