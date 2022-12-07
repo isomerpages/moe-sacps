@@ -1,4 +1,5 @@
 collections:
   photo-gallery:
     output: true
-    order: []
+    order:
+      - Student Activities 2018.md
