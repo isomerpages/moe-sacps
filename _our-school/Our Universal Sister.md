@@ -60,3 +60,21 @@ Objectives
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1547{background-color:#FFF;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-1547"><span style="font-weight:bold">Blessed are those who mourn … </span><br><br>The little one, mockingly re-named Bakhita, “The Lucky One”, suffered loneliness and torture … the lot of the slave.<br>Yet, even reduced to conditions inhuman, Bakhita always knew a certain sense of hope … in what or whom she could not say … then. But somewhere, she knew not how then, she found the strength to live each fearful, miserable, terror-filled day with courage.</td>
+    <td class="tg-zr06"><img src="https://stanthonyscanossianpri.moe.edu.sg/wp-content/uploads/2016/08/pic_bakhita3.gif" alt="pic_bakhita3" width="34" height="170"></td>
+  </tr>
+</thead>
+</table>
