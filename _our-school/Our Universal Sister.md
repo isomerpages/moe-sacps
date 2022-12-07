@@ -29,3 +29,19 @@ Objectives
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rt4x{background-color:#E6E6E6;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-rt4x" colspan="2"><span style="font-weight:bold">Bakhita</span><br>awakening to the knowledge and love of God, her “Master” above all masters and her response in faith, love and gratitude.Bakhita<br>left this world on 8 February 1947, she was declared “Blessed” on 17 May 1992, and proclaimed a “Saint” on 1 October 2000 in Rome.</td>
+  </tr>
+</thead>
+</table>
