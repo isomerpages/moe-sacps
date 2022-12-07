@@ -35,3 +35,28 @@ Objectives
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-1547{background-color:#FFF;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1547"><span style="font-weight:bold">Blessed are the poor in spirit …</span><br><br>A child of the Daju tribe of south-western Sudan, Bakhita came from a well-to-do family. Her father was the brother of the village chief. He owned much land, with “plantations and cattle”, and had hired servants working for him.</th>
+    <th class="tg-zr06"><img src="https://stanthonyscanossianpri.moe.edu.sg/wp-content/uploads/2016/08/pic_bakhita1.gif" alt="pic_bakhita1" width="34" height="140"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bsu7" colspan="2">Home was a simple hut, mud-walled and millet stalk-thatched, but happy and loving, with parents, three brothers and four sisters, one of whom was Bakhita’s own twin.<br><br>All was lost to her when the slave trades kidnapped her when she was but seven years old. Stripped of the most fundamental human right – personal freedom and dignity – Bakhita endured physical, emotional and spiritual deprivation. There were long forced marches in slave caravans from Olgossa, her village, to El Obied and the slave markets there, then on to Khartoum, changing hands four times over a period of ten years.</td>
+  </tr>
+</tbody>
+</table>
