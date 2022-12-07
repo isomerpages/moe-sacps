@@ -48,4 +48,22 @@ Yet, even reduced to conditions inhuman, Bakhita always knew a certain sense of 
 
 ------
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/pic_bakhita4.gif" style="width:140px;height:300px;margin-left:15px;" align = "right"> <i><b>Blessed are the gentle …</b></i> 
+
+Not even slavery, however, could destroy her natural sensitivity and gentleness, that quality of heart that knows compassion. In the midst of her own pain and suffering, and impotent as she was, she could still care about others, commiserate with them, be with them.
+
+This trait she carried with her even when her path led her out of Africa to Italy, where by Divine Providence, she was baptised into the Catholic faith and later took her vows as a Canossian Daughter of Charity.
+
+------
+
+
+Whether it was simply offering a drink to a sister in community or a bowl of hot soup to the poor, watching over kindergarten children or tending the wounded during the war, every action was done with love, serenity and gentleness.
+
+Blessed are those who hunger and thirst for righteousness …
+
+The one who considered herself “a slave, and an object owned by her masters”, never took advantage of her masters’ property, even under the worst of circumstances and the greatest need. Slave duties were executed with responsibility and an innate sense of justice.
+
+Even before she came to know “the good of God”, she also sensed that there was a higher Power who was in control of every matter under heaven. Because she lived continually in the search of events unfolding around for so as to find the key to encountering this Power, her heart was open and ready when God revealed Himself to her.
+
+
+------
