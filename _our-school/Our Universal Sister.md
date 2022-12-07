@@ -90,3 +90,15 @@ Even as health passed and physical health failed, her spirit grew brighter and s
 
 ------
 
+<img src="/images/pic_bakhita7.gif" style="width:140px;height:240px;margin-left:15px;" align = "right"> <i><b>Blessed are the peacemakers …</b></i>
+
+At the Canossian Convent in Schio, she was engaged in simple tasks in the kitchen, the needlework classroom, sacristy and as portress at the door. Enclosed, though she was, Bakhita’s ready availability and her welcoming ways to all endeared her to the people.
+
+------
+
+She was ready to interpret actions of others in the beat of light possible and took reproaches of others respectfully.
+
+Above all, she had made peace with her past.
+
+------
+
