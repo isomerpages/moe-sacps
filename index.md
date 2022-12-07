@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /Announcements/
         - title: News & Events
           description: ""
           url: https://gmail.com
