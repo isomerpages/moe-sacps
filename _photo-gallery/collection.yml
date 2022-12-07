@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Chinese New Year 2018.md
       - Health Week 2018.md
       - Gift Of Song 2018.md
       - Track Meet 2018.md
