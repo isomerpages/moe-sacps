@@ -24,3 +24,8 @@ sold and resold until finally, she leaves her beloved Africa for Italy and a new
 <b>Bakhita</b>  
 awakening to the knowledge and love of God, her “Master” above all masters and her response in faith, love and gratitude.<b>Bakhita</b>  
 left this world on 8 February 1947, she was declared “Blessed” on 17 May 1992, and proclaimed a “Saint” on 1 October 2000 in Rome.
+
+
+<img src="/images/pic_bakhita1.gif" style="width:140px;height:290px;margin-left:15px;" align = "right"> <i><b>Blessed are the poor in spirit …</b></i>
+
+A child of the Daju tribe of south-western Sudan, Bakhita came from a well-to-do family. Her father was the brother of the village chief. He owned much land, with “plantations and cattle”, and had hired servants working for him.
