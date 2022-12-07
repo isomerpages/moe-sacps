@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - The Educator.md
       - Our Universal Sister.md
       - Mission & Vision.md
       - School Badge.md
