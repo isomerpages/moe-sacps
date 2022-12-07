@@ -69,4 +69,12 @@ Even before she came to know “the good of God”, she also sensed that there w
 ------
 
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/pic_bakhita5.gif" style="width:140px;height:290px;margin-left:15px;" align = "right"> <i><b>Blessed are the merciful …</b></i>
+
+One would expect that with all that she had undergone, Bakhita would have suffered severe emotional or psychological scarring. But the Madre Moreta, the “Brunette Mother” as she was affectionately called, was able to see in each painful wound, each traumatic memory, stepping stones in the path that led to God – hidden blessings every one. Hers was the gift of a “purified memory”, transformed and transfigured, experienced as a blessing.
+
+------
+
+This is why she was able to forgive her kidnappers and those who tortured her, why she bore no resentment towards them, and prayed with great passion for their well-being.
+
+------
