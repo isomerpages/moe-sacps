@@ -7,3 +7,6 @@ description: ""
 
 News & Events
 =============
+
+<b>– Parents’ Connection</b>  
+Dear Parents, please access Parents Gateway for Parents’ Connection.
