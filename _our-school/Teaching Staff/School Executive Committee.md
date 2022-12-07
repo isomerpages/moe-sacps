@@ -15,30 +15,30 @@ School Executive Committee
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5n8i{background-color:#E6E6E6;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-vgmr{background-color:#E6E6E6;text-align:center;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 782px">
+<table class="tg" style="undefined;table-layout: fixed; width: 822px">
 <colgroup>
-<col style="width: 391px">
-<col style="width: 391px">
+<col style="width: 411px">
+<col style="width: 411px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-9hzb"><span style="font-weight:bold">Principal</span> </th>
-    <th class="tg-f4yw">Mrs Chin Lai Yoke</th>
+    <th class="tg-4ufn"><span style="font-weight:bold">Principal</span> </th>
+    <th class="tg-a3j2">Mrs Chin Lai Yoke</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5n8i"><span style="font-weight:bold">Vice Principal</span></td>
-    <td class="tg-vgmr">Mrs Irene Goh</td>
+    <td class="tg-pr30"><span style="font-weight:bold">Vice Principal</span></td>
+    <td class="tg-gj5f">Mrs Irene Goh</td>
   </tr>
   <tr>
-    <td class="tg-9hzb"><span style="font-weight:bold">Vice Principal</span></td>
-    <td class="tg-f4yw">Ms Charmaine Ariken</td>
+    <td class="tg-4ufn"><span style="font-weight:bold">Vice Principal</span></td>
+    <td class="tg-a3j2">Ms Charmaine Ariken</td>
   </tr>
 </tbody>
 </table>
