@@ -93,4 +93,4 @@ Note: Cyber Wellness Curriculum in schools page not found.
 *   [Play safe – Avoid online gaming addiction (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
 *   [Safeguarding your child online (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
 *   [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
-*   [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+*   [MLC I Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
