@@ -43,7 +43,7 @@ Non-Teaching Staff
   </tr>
   <tr>
     <td class="tg-h5mn">Desktop Engineers:</td>
-    <td class="tg-h5mn">Mr Irsyad<br><br>Mr Taylor Chong</td>
+    <td class="tg-h5mn">Mr Taylor Chong<br>Mr Azmeen Afandi</td>
   </tr>
   <tr>
     <td class="tg-1ppo">ICT Associate:</td>
