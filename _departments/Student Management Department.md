@@ -75,7 +75,7 @@ The roles of CW ambassadors include:
 
 <b>Lead and Inspire:</b> Being a positive influencers and leaders to help their friends or alert a trusted adult (e.g. teacher) when their friends are in distress due cyber issues such as cyber bullying.
 
-To find out more about <b>Cyber Wellness Curriculum</b> in schools, click [<b>here</b>](https://www.moe.gov.sg/programmes/cyber-wellness).
+To find out more about <b>Cyber Wellness Curriculum</b> in schools, click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness).
 
 Note: Cyber Wellness Curriculum in schools page not found.
 
