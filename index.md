@@ -18,4 +18,8 @@ sections:
         - title: Facebook
           description: ""
           url: https://www.facebook.com/SACPS.OFFICIAL
+  - infobar:
+      title: P1/2023 Admin Matters
+      button: Click here
+      url: https://testp1sacps.my.canva.site/sacps-p1-2023-admin
 ---
