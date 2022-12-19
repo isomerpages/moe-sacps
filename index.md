@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/CCE.jpg
-      button: Contact Us
-      url: /contact-us/Contact-Us/
       key_highlights:
         - title: Announcements
           description: ""
@@ -17,7 +15,7 @@ sections:
         - title: News & Events
           description: ""
           url: /News-and-Events/
-        - title: Photo Gallery
+        - title: Facebook
           description: ""
-          url: /photo-gallery/Photo-Gallery/
+          url: https://www.facebook.com/SACPS.OFFICIAL
 ---
