@@ -22,8 +22,8 @@ Teaching Staff – Tamil Language Teachers
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2">Mrs Malini Naren<br>malini_harikrishnan@schools.gov.sg</th>
     <th class="tg-a3j2">Mrs S Selvarani<br>s_selvarani@schools.gov.sg</th>
+    <th class="tg-a3j2">Ms Suhanthi</th>
   </tr>
 </thead>
 <tbody>
