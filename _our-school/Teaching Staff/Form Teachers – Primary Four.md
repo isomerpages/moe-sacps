@@ -12,7 +12,7 @@ Form Teachers – Primary Four
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 628px;" border="1" width="100%">
 <tbody>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="2"><strong>Temperance</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="3"><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 34px;">
 <td style="width: 32%; height: 34px;" width="32%">Mrs Alice Choo<br />long_alice@schools.gov.sg</td>
@@ -20,7 +20,7 @@ Form Teachers – Primary Four
 <td style="width: 39.4384%; height: 34px;"> </td>
 </tr>
 <tr style="height: 41px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 41px;" colspan="2"><strong>Courage</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 41px;" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 26px;">
 <td style="width: 32%; height: 26px;">Ms Christine Ching<br />ching_huay_ping@schools.gov.sg</td>
@@ -28,7 +28,7 @@ Form Teachers – Primary Four
 <td style="width: 39.4384%; height: 26px;"> </td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="2"><strong>Prudence</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 32%; height: 55px;">Mdm Suzana Kamil<br />suzana_kamil@schools.gov.sg</td>
@@ -38,7 +38,7 @@ Ms Cheng Manli<br>cheng_manli@schools.gov.sg
 <td style="width: 39.4384%; height: 55px;"> </td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="2"><strong>Justice</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 32%; height: 55px;" width="32%">Mrs Catherine Lim<br />catherine_lim@schools.gov.sg</td>
@@ -46,7 +46,7 @@ Ms Cheng Manli<br>cheng_manli@schools.gov.sg
 <td style="width: 39.4384%; height: 55px;"> </td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="2"><strong>Steadfast</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
 <td style="width: 32%; height: 55px;">Ms Serene Soh<br />soh_guat_eng_serene@schools.gov.sg</td>
@@ -54,7 +54,7 @@ Ms Cheng Manli<br>cheng_manli@schools.gov.sg
 <td style="width: 39.4384%; height: 55px;"> </td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="2"><strong>Piety</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 100%; height: 42px;" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
 <td style="width: 32%; height: 55px;">Mdm Wong Fong Lai<br />wong_fong_lai@schools.gov.sg</td>
