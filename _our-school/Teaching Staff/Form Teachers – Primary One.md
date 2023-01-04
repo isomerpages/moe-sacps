@@ -11,7 +11,7 @@ Form Teachers – Primary One
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 620px;" border="1" width="100%">
 <tbody>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Temperance</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3" ><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Mrs Rowena Yap
@@ -48,7 +48,7 @@ sum_mei_lin@schools.gov.sg</td>
 lee_hui_ling_c@schools.gov.sg</td>
 <td style="width: 14.0542%; height: 55px;">Ms Elspeth Tan
 tan_pau_cheng@schools.gov.sg</td>
-<td style="width: 24.4395%; height: 55px;"></td>
+<td style="width: 24.4395%; height: 55px;">Mdm Nor Ashikin</td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Fortitude</strong></td>
