@@ -9,83 +9,88 @@ third_nav_title: Teaching Staff
 Form Teachers – Primary Two
 ===========================
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1qpi{background-color:#CCC;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1qpi" colspan="3"><span style="font-weight:bold">Temperance</span></th>
-  </tr>
-</thead>
+<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 711px;" border="1" width="100%">
 <tbody>
-  <tr>
-    <td class="tg-gj5f">Mrs Rowena Yap<br>rowena_lau_chor_jgyin@schools.gov.sg</td>
-    <td class="tg-gj5f">Mdm Luo Dong Hua<br>luo_dong_hua@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Courage</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Mdm Lucy Tan<br>tan_li_hiang_lucy@schools.gov.sg</td>
-    <td class="tg-gj5f">Ms Cai Meifang<br>cai_meifang@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Prudence</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Mdm Ernie Salim<br>ernie_salim@schools.gov.sg</td>
-    <td class="tg-gj5f">Ms Rachel Yim<br>yim_yoke_har@schools.gov.sg</td>
-    <td class="tg-gj5f">Mrs Tan Hui Ling<br>lee_hui_ling_c@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Justice</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Ms Norazlin<br>norazlin_abu_bakar@schools.gov.sg</td>
-    <td class="tg-gj5f">Mrs Michelle Lim<br>goh_joo_ping_michelle@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Fortitude</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Ms Lei Yun<br>lei_yun@schools.gov.sg</td>
-    <td class="tg-gj5f">Mrs Alicia Sim<br>tan_siew_chen_alicia@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Steadfast</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Mrs Catherine Lim<br>catherine_lim@schools.gov.sg</td>
-    <td class="tg-gj5f">Ms Nuraishah<br>nuraishah_ramdan@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Piety</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Ms Nuryazida<br>nuryazida_naim@schools.gov.sg</td>
-    <td class="tg-gj5f">Mrs Angela Tan<br>lai_aun_kay_angela@schools.gov.sg</td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-1qpi" colspan="3"><span style="font-weight:bold">Piety</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Mrs Peters<br>xiujing_peters@schools.gov.sg</td>
-    <td class="tg-gj5f">Mdm Hafiszah<br>nur_hafiszah_mohamed_zin@schools.gov.sg</td>
-    <td class="tg-0lax"></td>
-  </tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Temperance</strong></td>
+</tr>
+<tr style="height: 9px;">
+<td style="width: 32.665%; height: 9px;">Mdm Hawalia
+siti_hawalia_abdullah@schools.gov.sg</td>
+<td style="width: 31.335%; height: 9px;">Ms Vanessa Chin
+chin_elyn_vanessa@schools.gov.sg</td>
+<td style="width: 26%; height: 9px;"></td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Courage</strong></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 32.665%; height: 55px;">Ms Sabrina Ong
+ong_wei_yu_sabrina@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;">Ms Poh Sio Hoon
+poh_sio_hoon@schools.gov.sg</td>
+<td style="width: 26%; height: 55px;"></td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 32.665%; height: 36px;" width="295">Mrs Ruoen Cheong</td>
+<td style="width: 31.335%; height: 36px;" width="32%">Mrs Lotus Koh
+ong_lian_mui@schools.gov.sg</td>
+<td style="width: 26%; height: 36px;" width="32%"></td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Justice</strong></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 32.665%; height: 55px;" width="284">Mrs Ren Hwee Lan
+quek_hwee_lan@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;">Mrs Peggy Yeo
+chan_pei_gee@schools.gov.sg</td>
+<td style="width: 26%; height: 55px;"></td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Fortitude</strong></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 32.665%; height: 55px;" width="284">Ms Sharon Yeo
+yeo_jiaxin_sharon@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;">Mrs Perpetua Ho
+ng_bei_shen_perpetua@schools.gov.sg</td>
+<td style="width: 26%; height: 55px;">Mdm Honey Hui
+honey_hui@schools.gov.sg</td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 32.665%; height: 55px;">Ms Crystal Lim
+lim_liqing_crystal@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;">Mdm Leong Foong Pheng
+leong_foong_pheng@schools.gov.sg</td>
+<td style="width: 26%; height: 55px;"></td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Piety</strong></td>
+</tr>
+<tr style="height: 55.8889px;">
+<td style="width: 32.665%; height: 55px;">Mrs Corinna Foo
+chua_chin_corinna@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;">Mrs Tricia Teo
+png_shi_tieng_tricia@moe.edu.sg</td>
+<td style="width: 26%; height: 55px;">Ms Suhanthi</td>
+</tr>
+<tr style="height: 42px;">
+<td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Gratitude</strong></td>
+</tr>
+<tr style="height: 55.8889px;">
+<td style="width: 32.665%; height: 55px;">Ms Victoria Woo
+woo_shu_xian_victoria@schools.gov.sg</td>
+<td style="width: 31.335%; height: 55px;" width="32%">Mrs Catherine Tang
+chee_sher_ping_catherine@
+schools.gov.sg</td>
+<td style="width: 26%; height: 55px;"></td>
+</tr>
 </tbody>
 </table>
