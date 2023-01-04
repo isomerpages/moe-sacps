@@ -1,0 +1,7 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - For Parents.md
+      - Useful Links.md
+      - Useful Videos.md
