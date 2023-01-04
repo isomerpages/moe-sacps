@@ -44,7 +44,7 @@ sum_mei_lin@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 43.5516%; height: 55px;">Mrs Tan Hui Ling
+<td style="width: 43.5516%; height: 55px;">Mrs Tan Hui Ling<br>
 lee_hui_ling_c@schools.gov.sg</td>
 <td style="width: 14.0542%; height: 55px;">Ms Elspeth Tan
 tan_pau_cheng@schools.gov.sg</td>
@@ -64,7 +64,7 @@ jia_yu_tan@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
-<td style="width: 43.5516%; height: 55px;">Ms Nuryazida
+<td style="width: 43.5516%; height: 55px;">Ms Nuryazida<br>
 nuryazida_naim@schools.gov.sg</td>
 <td style="width: 14.0542%; height: 55px;">Mrs Janice Yock
 yong_may_yuen_janice@schools.gov.sg</td>
