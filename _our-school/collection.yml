@@ -2,16 +2,17 @@ collections:
   our-school:
     output: true
     order:
-      - Canossian Attributes.md
       - History.md
       - Our Foundress.md
       - The Educator.md
       - Our Universal Sister.md
       - Vission, Mission & Core Values.md
+      - Canossian Attributes.md
       - School Badge.md
       - School Song.md
       - School Rules.md
       - School Services.md
+      - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/School Executive Committee.md
       - Teaching Staff/Form Teachers – Primary One.md
@@ -26,7 +27,6 @@ collections:
       - Teaching Staff/Teaching Staff – LT & ST.md
       - Teaching Staff/Teaching Staff – PE, Art and PA Teachers.md
       - Teaching Staff/Teaching Staff – AED.md
-      - Teaching Staff/.keep
       - Non Teaching Staff.md
       - Financial Information.md
       - Virtual Tours.md
