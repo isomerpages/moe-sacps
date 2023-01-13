@@ -31,7 +31,7 @@ School Executive Committee
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Year Heads</strong></td>
 </tr>
 <tr style="height: 27px;">
-<td style="width: 35.1023%; height: 27px;">Mrs Angela Tan (Lower Primary)
+<td style="width: 35.1023%; height: 27px;">Mrs Angela Tan (Lower Primary)&nbsp
 lai_aun_kay_angela@
 schools.gov.sg</td>
 <td style="width: 26.8977%; height: 27px;">Mrs Daleen Ferro (Middle Primary)
