@@ -12,7 +12,7 @@ Vission, Mission & Core Values
 
 Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness
 
-<strong>Mission Statement</strong>
+<strong><em>Mission Statement</em></strong>
 
 Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in <strong>The Way, The Truth and The Life</strong>
 
