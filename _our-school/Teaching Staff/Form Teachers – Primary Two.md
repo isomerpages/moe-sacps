@@ -43,7 +43,7 @@ ong_lian_mui@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;" width="284">Mrs Ren Hwee Lan
+<td style="width: 32.665%; height: 55px;" width="284">Mrs Ren Hwee Lan<br/>
 quek_hwee_lan@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Mrs Peggy Yeo
 chan_pei_gee@schools.gov.sg</td>
@@ -53,7 +53,7 @@ chan_pei_gee@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Fortitude</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;" width="284">Ms Sharon Yeo
+<td style="width: 32.665%; height: 55px;" width="284">Ms Sharon Yeo<br/>
 yeo_jiaxin_sharon@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Mrs Perpetua Ho
 ng_bei_shen_perpetua@schools.gov.sg</td>
@@ -64,7 +64,7 @@ honey_hui@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Ms Crystal Lim
+<td style="width: 32.665%; height: 55px;">Ms Crystal Lim<br/>
 lim_liqing_crystal@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Mdm Leong Foong Pheng
 leong_foong_pheng@schools.gov.sg</td>
@@ -74,7 +74,7 @@ leong_foong_pheng@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 55.8889px;">
-<td style="width: 32.665%; height: 55px;">Mrs Corinna Foo
+<td style="width: 32.665%; height: 55px;">Mrs Corinna Foo<br/>
 chua_chin_corinna@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Mrs Tricia Teo
 png_shi_tieng_tricia@moe.edu.sg</td>
