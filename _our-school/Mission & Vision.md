@@ -5,23 +5,25 @@ description: ""
 ---
 ![](/images/UsefulVideos.jpg)
 
-Mission & Vision
+Vission, Mission & Core Values
 ================
 
-<b>Mission Statement</b>
+<strong><em>Vision Statement</em></strong>
 
-Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life
+Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness
 
-<i><b>Vision Statement</b></i>
+<strong>Mission Statement</strong>
 
-Leaders with a Heart for Others
+Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in <strong>The Way, The Truth and The Life</strong>
 
-<i><b>Core Values</b></i>
+<strong><em>Core Values</em></strong>
 
-<i><b>Charity</b></i>: Selfless love in caring and sharing
+<strong><span style="color: #004eb6;"><em>Faith</em></span></strong><span style="color: #000000;">: </span>Believe and trust in God
 
-<i><b>Humility</b></i>: Recognizing the strengths and limitations of self and others
+<em style="color: #004eb6;"><strong>Charity</strong></em>: Selflessly reaching out with compassion and touching lives
 
-<i><b>Forgiveness</b></i>: Seek first to understand than to be understood
+<em style="color: #004eb6;"><strong>Humility</strong></em>: Being aware of who we are, recognising our strengths and staying committed to improvement
 
-<i><b>Faith</b></i>: Complete Trust in God
+<em style="color: #004eb6;"><strong>Forgiveness</strong></em>: Seeking first to understand than to be understood and being gentle to ourselves to move forward
+
+&nbsp;
