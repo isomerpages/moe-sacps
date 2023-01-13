@@ -47,7 +47,7 @@ lei_yun@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;">Ms Tan Siew Heng<br/>
 tan_siew_heng@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;">Ms Ilyana
+<td style="width: 31.335%; height: 55px;">Ms Ilyana<br/>
 ilyana_mohd_saad@schools.gov.sg</td>
 <td style="width: 25.1121%; height: 55px;"></td>
 </tr>
