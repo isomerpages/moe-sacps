@@ -17,7 +17,7 @@ Form Teachers – Primary Three
 <tr style="height: 26px;">
 <td style="width: 32.665%; height: 26px;">Mrs Michelle Lim
 goh_joo_ping_michelle@schools.gov.sg</td>
-<td style="width: 31.335%; height: 26px;">Mdm Luo Dong Hua
+<td style="width: 31.335%; height: 26px;">Mdm Luo Dong Hua<br/>
 luo_dong_hua@schools.gov.sg</td>
 <td style="width: 25.1121%; height: 26px;"></td>
 </tr>
@@ -27,7 +27,7 @@ luo_dong_hua@schools.gov.sg</td>
 <tr style="height: 60px;">
 <td style="width: 32.665%; height: 60px;" width="272">Ms Nicole Fiona Laurens
 nicole_fiona_laurens@schools.gov.sg</td>
-<td style="width: 31.335%; height: 60px;">Ms Cai Meifang
+<td style="width: 31.335%; height: 60px;">Ms Cai Meifang<br/>
 cai_meifang@schools.gov.sg</td>
 <td style="width: 25.1121%; height: 60px;"></td>
 </tr>
@@ -45,7 +45,7 @@ lei_yun@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Ms Tan Siew Heng
+<td style="width: 32.665%; height: 55px;">Ms Tan Siew Heng<br/>
 tan_siew_heng@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Ilyana
 ilyana_mohd_saad@schools.gov.sg</td>
@@ -65,8 +65,8 @@ beins_chantel_elena-marie@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 41px;" valign="top">
-<td style="width: 32.665%; height: 41px; text-align: center;">Mrs Janet Tan</td>
-<td style="width: 31.335%; height: 41px; text-align: center;">Mdm Huang Shansi
+<td style="width: 32.665%; height: 41px; text-align: left;">Mrs Janet Tan</td>
+<td style="width: 31.335%; height: 41px; text-align: center;">Mdm Huang Shansi<br/>
 huang_shansi@schools.gov.sg</td>
 <td style="width: 25.1121%; height: 41px;"></td>
 </tr>
