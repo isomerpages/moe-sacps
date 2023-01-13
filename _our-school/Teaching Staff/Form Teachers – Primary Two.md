@@ -15,7 +15,7 @@ Form Teachers – Primary Two
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 9px;">
-<td style="width: 32.665%; height: 9px;">Mdm Hawalia<br />siti_hawalia_abdullah@schools.gov.sg</td>
+<td style="width: 32.665%; height: 9px;">Mdm Hawalia<br><br>siti_hawalia_abdullah@schools.gov.sg</td>
 <td style="width: 31.335%; height: 9px;">Ms Vanessa Chin
 chin_elyn_vanessa@schools.gov.sg</td>
 <td style="width: 26%; height: 9px;"></td>
