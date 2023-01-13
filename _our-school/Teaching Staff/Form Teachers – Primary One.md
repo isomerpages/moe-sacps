@@ -14,9 +14,7 @@ Form Teachers – Primary One
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3" ><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Mrs Rowena Yap
-
-rowena_lau_chor_jgyin@schools.gov.sg</td>
+<td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Mrs Rowena Yap &nbsp;rowena_lau_chor_jgyin@schools.gov.sg</td>
 <td style="height: 55px; width: 14.0542%; text-align: center;">Ms Norazlin
 norazlin_abu_bakar@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px;"></td>
@@ -75,9 +73,7 @@ yong_may_yuen_janice@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 41px;" valign="top">
-<td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Marie Thomas
-
-marie_celine_ovinis@schools.gov.sg</td>
+<td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Marie Thomas &nbsp;marie_celine_ovinis@schools.gov.sg</td>
 <td style="width: 14.0542%; height: 41px; text-align: center;">Mdm Jennifer Lim
 lim_ping_hoon@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 41px;"></td>
