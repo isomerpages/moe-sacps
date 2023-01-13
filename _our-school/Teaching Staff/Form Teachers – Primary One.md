@@ -15,6 +15,7 @@ Form Teachers – Primary One
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Mrs Rowena Yap
+
 rowena_lau_chor_jgyin@schools.gov.sg</td>
 <td style="height: 55px; width: 14.0542%; text-align: center;">Ms Norazlin
 norazlin_abu_bakar@schools.gov.sg</td>
@@ -75,6 +76,7 @@ yong_may_yuen_janice@schools.gov.sg</td>
 </tr>
 <tr style="height: 41px;" valign="top">
 <td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Marie Thomas
+
 marie_celine_ovinis@schools.gov.sg</td>
 <td style="width: 14.0542%; height: 41px; text-align: center;">Mdm Jennifer Lim
 lim_ping_hoon@schools.gov.sg</td>
