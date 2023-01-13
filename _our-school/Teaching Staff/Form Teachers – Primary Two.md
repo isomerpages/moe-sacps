@@ -26,7 +26,7 @@ chin_elyn_vanessa@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;">Ms Sabrina Ong
 ong_wei_yu_sabrina@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;">Ms Poh Sio Hoon
+<td style="width: 31.335%; height: 55px;">Ms Poh Sio Hoon<br/>
 poh_sio_hoon@schools.gov.sg</td>
 <td style="width: 26%; height: 55px;"></td>
 </tr>
@@ -35,7 +35,7 @@ poh_sio_hoon@schools.gov.sg</td>
 </tr>
 <tr style="height: 36px;">
 <td style="width: 32.665%; height: 36px;" width="295">Mrs Ruoen Cheong</td>
-<td style="width: 31.335%; height: 36px;" width="32%">Mrs Lotus Koh
+<td style="width: 31.335%; height: 36px;" width="32%">Mrs Lotus Koh<br/>
 ong_lian_mui@schools.gov.sg</td>
 <td style="width: 26%; height: 36px;" width="32%"></td>
 </tr>
@@ -45,7 +45,7 @@ ong_lian_mui@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;" width="284">Mrs Ren Hwee Lan<br/>
 quek_hwee_lan@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;">Mrs Peggy Yeo
+<td style="width: 31.335%; height: 55px;">Mrs Peggy Yeo<br/>
 chan_pei_gee@schools.gov.sg</td>
 <td style="width: 26%; height: 55px;"></td>
 </tr>
