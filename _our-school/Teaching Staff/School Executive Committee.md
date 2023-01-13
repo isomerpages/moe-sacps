@@ -9,23 +9,23 @@ third_nav_title: Teaching Staff
 School Executive Committee
 ==========================
 
-<table style="text-align: center; font-size: 12px; border-collapse: collapse; max-width: 90%; height: 165px;" border="1">
+<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 165px;" border="1">
 <tbody>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 49.4828%;" width="346" height="55"><strong>Principal </strong></td>
-<td style="height: 55px; width: 61.2069%;" width="348" height="55">Mrs Chin Lai Yoke</td>
+<td style="height: 55px;" height="55"><strong>Principal </strong></td>
+<td style="height: 55px;"  height="55">Mrs Chin Lai Yoke</td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 49.4828%;" height="55"><strong>Vice Principal</strong></td>
-<td style="height: 55px; width: 61.2069%;" height="55">Mrs Irene Goh</td>
+<td style="height: 55px;" height="55"><strong>Vice Principal</strong></td>
+<td style="height: 55px;" height="55">Mrs Irene Goh</td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 49.4828%;" height="55"><strong>Vice Principal</strong></td>
-<td style="height: 55px; width: 61.2069%;" height="55">Ms Felicia Lee</td>
+<td style="height: 55px;" height="55"><strong>Vice Principal</strong></td>
+<td style="height: 55px;" height="55">Ms Felicia Lee</td>
 </tr>
 </tbody>
 </table>
-<table style="text-align: center; font-size: 12px; border-collapse: collapse; height: 1039px; width: 100.379%;" border="1">
+<table style="text-align: center; font-size: 12px; border-collapse: collapse; height: 1039px; width: 100%;" border="1">
 <tbody>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Year Heads</strong></td>
