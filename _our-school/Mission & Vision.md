@@ -20,10 +20,10 @@ Nurturing each one in her own way by forming hearts, enlightening minds and empo
 
 <strong><span style="color: #004eb6;"><em>Faith</em></span></strong><span style="color: #000000;">: </span>Believe and trust in God
 
-<em style="color: #004eb6;"><strong>Charity</strong></em>: Selflessly reaching out with compassion and touching lives
+<strong><span style="color: #004eb6;"><em>Charity</em></span></strong><span style="color: #000000;">: </span>Selflessly reaching out with compassion and touching lives
 
-<em style="color: #004eb6;"><strong>Humility</strong></em>: Being aware of who we are, recognising our strengths and staying committed to improvement
+<strong><span style="color: #004eb6;"><em>Humility</em></span></strong><span style="color: #000000;">: </span> Being aware of who we are, recognising our strengths and staying committed to improvement
 
-<em style="color: #004eb6;"><strong>Forgiveness</strong></em>: Seeking first to understand than to be understood and being gentle to ourselves to move forward
+<strong><span style="color: #004eb6;"><em>Forgiveness</em></span></strong><span style="color: #000000;">: </span> Seeking first to understand than to be understood and being gentle to ourselves to move forward
 
 &nbsp;
