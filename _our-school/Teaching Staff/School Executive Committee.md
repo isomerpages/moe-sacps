@@ -9,7 +9,7 @@ third_nav_title: Teaching Staff
 School Executive Committee
 ==========================
 
-<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 110.862%; height: 165px;" border="1" width="100%">
+<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 90%; height: 165px;" border="1" width="100%">
 <tbody>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 49.4828%;" width="346" height="55"><strong>Principal </strong></td>
