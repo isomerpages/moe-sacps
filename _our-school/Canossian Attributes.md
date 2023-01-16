@@ -6,7 +6,7 @@ description: ""
 <strong>Confidence</strong>
 in taking the lead, asking questions, and embracing uncertainty with <em>Humility</em>
 
-<strong>Curiousity</strong>
+<strong>Curiosity</strong>
 <em>(Adaptability and Open-mindedness)</em>
 to learn more about the world and navigate an increasingly complex world
 
