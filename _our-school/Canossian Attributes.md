@@ -19,6 +19,7 @@ to help others (Charity) and to practise Forgiveness of self and others
 <strong>Cheerfulness</strong>
 to face challenges with resilience, gratitude and Faith
 
+---
 
 *As we live out our Attributes,
 we walk with a <strong>Passion</strong> for all that we do
