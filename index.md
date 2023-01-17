@@ -17,7 +17,7 @@ sections:
           url: /News-and-Events/
         - title: Facebook
           description: ""
-          url: https://www.facebook.com/SACPS.OFFICIAL
+          url: /Social%20Media.md
         - title: Instagram
           description: ""
           url: https://www.instagram.com/sacps.official/
