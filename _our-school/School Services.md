@@ -83,4 +83,4 @@ Lunch Hour: 1 pm to 2 pm
 
 <b>SACPS Dental Clinic Operating Days</b>
 
-Note: SACPS Dental Clinic Operating Days calendar can be ported over into google calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=o890mu67ugnvirinrgka43m2c0%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
