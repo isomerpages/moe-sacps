@@ -26,8 +26,8 @@ sim_mei_choon_donna@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 16px;">
-<td style="width: 32.665%; height: 16px;">Ms Diana Christian,</td>
-<td style="width: 31%; height: 16px;">Mrs Cassandra Lee
+<td style="width: 32.665%; height: 16px;">Ms Diana Christian<br>diana_christian@schools.gov.sg</td>
+<td style="width: 31%; height: 16px;">Mrs Cassandra Lee<br>
 tay_shu_xia_cassandra@schools.gov.sg</td>
 <td style="width: 31.335%; height: 16px;"></td>
 </tr>
@@ -35,9 +35,9 @@ tay_shu_xia_cassandra@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr>
-<td style="width: 32.665%;" width="31%">Mrs Emelyn Ho
+<td style="width: 32.665%;" width="31%">Mrs Emelyn Ho<br>
 tan_shea_ling_emelyn@schools.gov.sg</td>
-<td style="width: 31%; height: 55px;">Mdm Nurbaya
+<td style="width: 31%; height: 55px;">Mdm Nurbaya<br>
 siti_nurbaya_abdul_rahman@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
@@ -45,9 +45,9 @@ siti_nurbaya_abdul_rahman@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42.7778px;" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Mrs Dawn Tan
+<td style="width: 32.665%; height: 55px;">Mrs Dawn Tan<br>
 tan_thian_ser@schools.gov.sg</td>
-<td style="width: 31%;" width="31%">Mrs Tan Bee Bee
+<td style="width: 31%;" width="31%">Mrs Tan Bee Bee<br>
 tan_bee_bee@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
@@ -57,7 +57,7 @@ tan_bee_bee@schools.gov.sg</td>
 <tr style="height: 55px;" valign="top">
 <td style="width: 32.665%; height: 55px;">Mrs Yap Yah Lian<br>
 han_yah_lian@schools.gov.sg</td>
-<td style="width: 31%; height: 55px;">Ms Rachel Yim
+<td style="width: 31%; height: 55px;">Ms Rachel Yim<br>
 yim_yoke_har@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
@@ -65,9 +65,9 @@ yim_yoke_har@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr>
-<td style="width: 32.665%;" width="32%">Mrs Alicia Sim
+<td style="width: 32.665%;" width="32%">Mrs Alicia Sim<br>
 tan_siew_chen_alicia@schools.gov.sg</td>
-<td style="width: 31%;" width="271">Ms Chua Lee Beng
+<td style="width: 31%;" width="271">Ms Chua Lee Beng<br>
 chua_lee_beng@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
