@@ -18,6 +18,9 @@ sections:
         - title: Facebook
           description: ""
           url: https://www.facebook.com/SACPS.OFFICIAL
+        - title: Instagram
+          description: ""
+          url: https://www.instagram.com/sacps.official/
   - infobar:
       title: P1/2023 Admin Matters
       button: Click here
