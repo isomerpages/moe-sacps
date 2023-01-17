@@ -17,7 +17,7 @@ sections:
           url: /News-and-Events/
         - title: Social Media
           description: ""
-          url: /SocialMedia
+          url: /socialmedia/
   - infobar:
       title: P1/2023 Admin Matters
       button: Click here
