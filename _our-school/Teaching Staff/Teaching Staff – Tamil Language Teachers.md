@@ -23,7 +23,7 @@ Teaching Staff – Tamil Language Teachers
 <thead>
   <tr>
     <th class="tg-a3j2">Mrs S Selvarani<br>s_selvarani@schools.gov.sg</th>
-    <th class="tg-a3j2">Ms Suhanthi</th>
+    <th class="tg-a3j2">Ms Suhanthi<br>Suhanthi_thirignasambhantham@schools.gov.sg</th>
   </tr>
 </thead>
 <tbody>
