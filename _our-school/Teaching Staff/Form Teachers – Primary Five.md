@@ -17,9 +17,9 @@ Form Teachers – Primary Five
 <tr style="height: 26px;">
 <td style="width: 32.665%; height: 26px;">Mrs Stephanie Teng<br>
 chia_rui_jia@schools.gov.sg</td>
-<td style="width: 31%;" width="31%">Mdm Rahat Bano
+<td style="width: 31%;" width="31%">Mdm Rahat Bano<br>
 rahat_bano_mohd_ashraf@schools.gov.sg</td>
-<td style="width: 31.335%; height: 26px;">Ms Donna Sim
+<td style="width: 31.335%; height: 26px;">Ms Donna Sim<br>
 sim_mei_choon_donna@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
