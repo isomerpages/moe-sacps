@@ -16,7 +16,7 @@ Form Teachers – Primary Two
 </tr>
 <tr style="height: 9px;">
 <td style="width: 32.665%; height: 9px;">Mdm Hawalia<br/>siti_hawalia_abdullah@schools.gov.sg</td>
-<td style="width: 31.335%; height: 9px;">Ms Vanessa Chin
+<td style="width: 31.335%; height: 9px;">Ms Vanessa Chin<br>
 chin_elyn_vanessa@schools.gov.sg</td>
 <td style="width: 26%; height: 9px;"></td>
 </tr>
@@ -24,7 +24,7 @@ chin_elyn_vanessa@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Ms Sabrina Ong
+<td style="width: 32.665%; height: 55px;">Ms Sabrina Ong<br>
 ong_wei_yu_sabrina@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Poh Sio Hoon<br/>
 poh_sio_hoon@schools.gov.sg</td>
@@ -34,7 +34,7 @@ poh_sio_hoon@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 36px;">
-<td style="width: 32.665%; height: 36px;" width="295">Mrs Ruoen Cheong</td>
+<td style="width: 32.665%; height: 36px;" width="295">Mrs Ruoen Cheong<br>wong_ai_lynn_ruoen@schools.gov.sg</td>
 <td style="width: 31.335%; height: 36px;" width="32%">Mrs Lotus Koh<br/>
 ong_lian_mui@schools.gov.sg</td>
 <td style="width: 26%; height: 36px;" width="32%"></td>
@@ -78,7 +78,7 @@ leong_foong_pheng@schools.gov.sg</td>
 chua_chin_corinna@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Mrs Tricia Teo
 png_shi_tieng_tricia@moe.edu.sg</td>
-<td style="width: 26%; height: 55px;">Ms Suhanthi</td>
+<td style="width: 26%; height: 55px;">Ms Suhanthi<br>Suhanthi_thirignasambhantham@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px;" colspan="3"><strong>Gratitude</strong></td>
