@@ -15,9 +15,9 @@ Teaching Staff – LT & ST
 <td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px;" colspan="3"><strong>Lead Teacher</strong></td>
 </tr>
 <tr style="height: 26px;">
-<td style="width: 32%; height: 26px;">Ms Chua Lee Beng (LT Art)
+<td style="width: 32%; height: 26px;">Ms Chua Lee Beng (LT Art)<br>
 chua_lee_beng@schools.gov.sg</td>
-<td style="width: 31.0509%; height: 26px;">Mrs Corinna Foo (LT CCE)
+<td style="width: 31.0509%; height: 26px;">Mrs Corinna Foo (LT CCE)<br>
 chua_chin_corinna@schools.gov.sg</td>
 <td style="width: 29.9491%; height: 26px;"></td>
 </tr>
@@ -25,17 +25,17 @@ chua_chin_corinna@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px;" colspan="3"><strong>Senior Teacher</strong></td>
 </tr>
 <tr style="height: 26px;">
-<td style="width: 32%; height: 26px;">Mrs Tan Bee Bee (ST Physical Education)
+<td style="width: 32%; height: 26px;">Mrs Tan Bee Bee (ST Physical Education)<br>
 tan_bee_bee@schools.gov.sg</td>
-<td style="width: 31.0509%; height: 26px;">Ms Veron Yap (ST Music)
+<td style="width: 31.0509%; height: 26px;">Ms Veron Yap (ST Music)<br>
 yap_puei_fong@schools.gov.sg</td>
-<td style="width: 29.9491%; height: 26px;">Mdm Ernie Salim (ST Lower Primary EL)
+<td style="width: 29.9491%; height: 26px;">Mdm Ernie Salim (ST Lower Primary EL)<br>
 ernie_salim@schools.gov.sg</td>
 </tr>
 <tr style="height: 26px;">
-<td style="width: 32%; height: 26px;">Mdm Siti Nurbaya (ST Malay)
+<td style="width: 32%; height: 26px;">Mdm Siti Nurbaya (ST Malay)<br>
 siti_nurbaya_abdul_rahman@schools.gov.sg</td>
-<td style="width: 31.0509%; height: 26px;">Mrs Christine Yeo (ST Math)
+<td style="width: 31.0509%; height: 26px;">Mrs Christine Yeo (ST Math)<br>
 lai_kai_ping@schools.gov.sg</td>
 <td style="width: 29.9491%; height: 26px;"></td>
 </tr>
