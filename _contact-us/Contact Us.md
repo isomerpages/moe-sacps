@@ -41,7 +41,7 @@ Contact Us
 </table>
 
 
-For compliments, queries and feedback, please email us at [sacps@moe.edu.sg](mailto:sacps@moe.edu.sg)
+For compliments, queries and feedback, please email us at&nbsp;[sacps@moe.edu.sg](mailto:sacps@moe.edu.sg)
 
 
-Note: Map cannot be ported over into google maps.
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7355777960743!2d103.93718278987382!3d1.3348531589097201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d3772e47d49%3A0xd77bf051a84df9a4!2s1602%20Bedok%20North%20Ave%204%2C%20Singapore%20469701!5e0!3m2!1sen!2ssg!4v1673954364465!5m2!1sen!2ssg"></iframe>
