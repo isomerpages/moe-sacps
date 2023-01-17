@@ -15,7 +15,7 @@ Form Teachers – Primary Three
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 26px;">
-<td style="width: 32.665%; height: 26px;">Mrs Michelle Lim
+<td style="width: 32.665%; height: 26px;">Mrs Michelle Lim<br>
 goh_joo_ping_michelle@schools.gov.sg</td>
 <td style="width: 31.335%; height: 26px;">Mdm Luo Dong Hua<br/>
 luo_dong_hua@schools.gov.sg</td>
@@ -25,7 +25,7 @@ luo_dong_hua@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 60px;">
-<td style="width: 32.665%; height: 60px;" width="272">Ms Nicole Fiona Laurens
+<td style="width: 32.665%; height: 60px;" width="272">Ms Nicole Fiona Laurens<br>
 nicole_fiona_laurens@schools.gov.sg</td>
 <td style="width: 31.335%; height: 60px;">Ms Cai Meifang<br/>
 cai_meifang@schools.gov.sg</td>
@@ -35,7 +35,7 @@ cai_meifang@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Mrs Evelyn Gomez (ST Science)
+<td style="width: 32.665%; height: 55px;">Mrs Evelyn Gomez (ST Science)<br>
 gomez_evelyn@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Lei Yun<br>
 lei_yun@schools.gov.sg</td>
@@ -55,7 +55,7 @@ ilyana_mohd_saad@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
-<td style="width: 32.665%; height: 55px;">Mdm Hafiszah
+<td style="width: 32.665%; height: 55px;">Mdm Hafiszah<br>
 nur_hafiszah_mohamed_zin@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Chantel Beins<br>
 beins_chantel_elena-marie@schools.gov.sg</td>
