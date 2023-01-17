@@ -15,12 +15,9 @@ sections:
         - title: News & Events
           description: ""
           url: /News-and-Events/
-        - title: Facebook
+        - title: Social Media
           description: ""
           url: /Social%20Media.md
-        - title: Instagram
-          description: ""
-          url: https://www.instagram.com/sacps.official/
   - infobar:
       title: P1/2023 Admin Matters
       button: Click here
