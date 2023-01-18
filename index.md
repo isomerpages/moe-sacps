@@ -1,32 +1,25 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: St Anthony's Canossian Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/CCE.jpg
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /Announcements/
+        - title: News & Events
+          description: ""
+          url: /News-and-Events/
+        - title: Social Media
+          description: ""
+          url: /socialmedia/
+  - infobar:
+      title: P1/2023 Admin Matters
+      button: Click here
+      url: https://testp1sacps.my.canva.site/sacps-p1-2023-admin
 ---
-

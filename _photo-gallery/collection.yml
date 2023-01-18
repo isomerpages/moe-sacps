@@ -1,0 +1,14 @@
+collections:
+  photo-gallery:
+    output: true
+    order:
+      - Photo Gallery.md
+      - P1 First Day 2018.md
+      - Teddy Bear Picnic 2018.md
+      - Canossian Saints’ Day 2018.md
+      - Chinese New Year 2018.md
+      - Health Week 2018.md
+      - Gift Of Song 2018.md
+      - Track Meet 2018.md
+      - Children’s Day 2018.md
+      - Student Activities 2018.md
