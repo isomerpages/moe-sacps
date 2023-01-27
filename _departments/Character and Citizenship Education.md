@@ -197,6 +197,7 @@ Please Note:<br>
 For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.
 
 **Information for Parents**
-
+<p style="font-size:11pt;font-family:Arial">
 1. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
-2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. A hardcopy of the form will be distributed to parents in Term 3 for P5 and P6 students upon request. The completed and signed form is to be submitted to the school by the given date stated in the letter which will be sent via PG in Term 3
+2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. A hardcopy of the form will be distributed to parents in Term 3 for P5 and P6 students upon request. The completed and signed form is to be submitted to the school by the given date stated in the letter which will be sent via PG in Term 3. </p>
+	
