@@ -121,8 +121,6 @@ The new curriculum will help students to better learn values through three overa
 
 A new feature in in the CCE syllabus is ‘Family Time’ – the suggested activities encourage parents to reinforce their child’s learning and promote family bonding.
 
-**
-
 VIA are learning experiences which support students’ development as socially responsible citizens who contribute meaningfully to the community. As part of VIA, the students reflect on their experience, the values they have put into practice and how they can continue to contribute meaningfully.
 
 By serving others as a Canossian Service Leader, we hope our students will grow as persons embracing the school’s core values of Faith, Charity, Humility and Forgiveness.
