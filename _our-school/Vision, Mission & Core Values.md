@@ -1,12 +1,12 @@
 ---
-title: Vission, Mission & Core Values
+title: Vision, Mission & Core Values
 permalink: /our-school/Mission-Vision-CoreValues/
 description: ""
 ---
 
 ![](/images/UsefulVideos.jpg)
 
-Vission, Mission & Core Values
+Vision, Mission & Core Values
 ================
 
 <strong><em>Vision Statement</em></strong>
