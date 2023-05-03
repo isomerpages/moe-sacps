@@ -35,7 +35,7 @@ cai_meifang@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Mrs Evelyn Gomez (ST Science)<br>
+<td style="width: 32.665%; height: 55px;">Mrs Evelyn Gomez<br>
 gomez_evelyn@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Lei Yun<br>
 lei_yun@schools.gov.sg</td>
