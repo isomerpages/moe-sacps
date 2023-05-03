@@ -19,8 +19,7 @@ Form Teachers – Primary Five
 chia_rui_jia@schools.gov.sg</td>
 <td style="width: 31%;" width="31%">Mdm Rahat Bano<br>
 rahat_bano_mohd_ashraf@schools.gov.sg</td>
-<td style="width: 31.335%; height: 26px;">Ms Donna Sim<br>
-sim_mei_choon_donna@schools.gov.sg</td>
+<td style="width: 31.335%; height: 26px;"></td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Courage</strong></td>
