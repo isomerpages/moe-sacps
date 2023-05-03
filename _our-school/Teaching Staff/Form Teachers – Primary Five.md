@@ -58,7 +58,7 @@ tan_bee_bee@schools.gov.sg</td>
 han_yah_lian@schools.gov.sg</td>
 <td style="width: 31%; height: 55px;">Ms Rachel Yim<br>
 yim_yoke_har@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;"></td>
+<td style="width: 31.335%; height: 55px;">Ms Julnise Ho<br>julnise_ho_zhiping@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Piety</strong></td>
