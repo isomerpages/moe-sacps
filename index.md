@@ -4,7 +4,7 @@ title: St Anthony's Canossian Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Open House for Primary 1/2024: Coming Soon!"
 sections:
   - hero:
       background: /images/CCE.jpg
