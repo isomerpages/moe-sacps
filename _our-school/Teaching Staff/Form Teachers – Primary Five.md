@@ -12,7 +12,7 @@ Form Teachers – Primary Five
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 123.248%;" border="1" width="100%">
 <tbody>
 <tr style="height: 69px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 69px;" colspan="3"><strong>Temperance</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 69px; text-align: center" colspan="3"><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 26px;">
 <td style="width: 32.665%; height: 26px;">Mrs Stephanie Teng<br>
@@ -22,7 +22,7 @@ rahat_bano_mohd_ashraf@schools.gov.sg</td>
 <td style="width: 31.335%; height: 26px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Courage</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 16px;">
 <td style="width: 32.665%; height: 16px;">Ms Diana Christian<br>diana_christian@schools.gov.sg</td>
@@ -31,7 +31,7 @@ tay_shu_xia_cassandra@schools.gov.sg</td>
 <td style="width: 31.335%; height: 16px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr>
 <td style="width: 32.665%;" width="31%">Mrs Emelyn Ho<br>
@@ -41,7 +41,7 @@ siti_nurbaya_abdul_rahman@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
 <tr style="height: 42.7778px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42.7778px;" colspan="3"><strong>Justice</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42.7778px; text-align: center" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;">Mrs Dawn Tan<br>
@@ -51,7 +51,7 @@ tan_bee_bee@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
 <td style="width: 32.665%; height: 55px;">Mrs Yap Yah Lian<br>
@@ -61,7 +61,7 @@ yim_yoke_har@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Julnise Ho<br>julnise_ho_zhiping@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px;" colspan="3"><strong>Piety</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr>
 <td style="width: 32.665%;" width="32%">Mrs Alicia Sim<br>
