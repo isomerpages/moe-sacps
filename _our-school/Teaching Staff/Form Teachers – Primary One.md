@@ -11,7 +11,7 @@ Form Teachers – Primary One
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 90%; height: 620px;" border="1" width="100%">
 <tbody>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3" ><strong>Temperance</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Temperance</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Mrs Rowena Yap <br>rowena_lau_chor_jgyin@schools.gov.sg</td>
