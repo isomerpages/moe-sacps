@@ -20,7 +20,7 @@ norazlin_abu_bakar@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Courage</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Lucy Tan<br>
@@ -30,7 +30,7 @@ li_fangqin@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Prudence</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; height: 55px; text-align: center;">Ms Nuraishah<br>
@@ -40,7 +40,7 @@ sum_mei_lin@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 10px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Justice</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; height: 55px; text-align: center;">Mrs Tan Hui Ling<br>
@@ -50,7 +50,7 @@ tan_pau_cheng@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px; text-align: center;">Mdm Nor Ashikin</td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Fortitude</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Fortitude</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Ernie Salim (ST Lower Primary EL)<br>
@@ -60,7 +60,7 @@ jia_yu_tan@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px;"></td>
 </tr>
 <tr style="height: 42.1111px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Steadfast</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
 <td style="width: 43.5516%; height: 55px; text-align: center;">Ms Nuryazida<br>
@@ -70,7 +70,7 @@ yong_may_yuen_janice@schools.gov.sg</td>
 <td style="width: 24.4395%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px;" colspan="3"><strong>Piety</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 41px;" valign="top">
 <td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Marie Thomas <br>marie_celine_ovinis@schools.gov.sg</td>
