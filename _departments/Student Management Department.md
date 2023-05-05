@@ -10,95 +10,111 @@ Student Management Department
 
 <b>Student Management Department</b>
 
-The Student Management Department aims to instil a sense of belonging, build positive peer relationships and discipline climate so that our students learn in a caring and enabling environment.
+The Student Management Department aims to instil a sense of belonging, build positive peer relationships and discipline climate so that our students learn in a caring and enabling environment. 
 
 <u><b>Positive Peer Relationships</b></u>  
-Positive peer relationships facilitate the provision of care, a sense of belonging amongst students, as well as the building of resilience. Student peer relationships are also powerful channels of positive influence and are excellent opportunities for student voice and empowerment in the school.
+Positive peer relationships facilitate the provision of care, a sense of belonging amongst students, as well as the building of resilience. Student peer relationships are also powerful channels of positive influence and are excellent opportunities for student voice and empowerment in the school. 
 
-There are 3 broad domains (<b>Peer Bonding, Peer Helping and Peer Influencing</b>) we look into and is enacted in two levels, where every student is a peer supporter.
+There are 3 broad domains <b>(Peer Bonding, Peer Helping and Peer Influencing)</b> we look into and is enacted in two levels, where every student is a peer supporter.
+
 
 ![](/images/SMD.png)
 
-<u><b>Positive Discipline</b></u>   
-In enacting a positive and proactive approach to discipline in school, there are three aspects we consider:
+<b>Cyber Wellness (CW) @SACPS</b> <br>
+Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace. 
 
-*   <b>Promote and Prevent</b>&nbsp;– In building strong teacher-student relationships and giving quality instruction, the school strives to&nbsp;promote a safe and supportive environment and thus prevent&nbsp;challenging behaviours from occurring and disrupting learning.
-*   <b>Address and Correct</b>&nbsp;– Despite preventive measures, students could still display inappropriate behaviours due to various reasons. These inappropriate behaviour will be addressed promptly by the teachers, Year Heads and Discipline Mistress.
-*   <b>Replace and Restore</b>&nbsp;– As the ultimate goal is for students to develop self-discipline and good character, teachers help misbehaving students to replace their inappropriate behaviours with prosocial, appropriate ones, and to restore relationships with others hurt by their actions.
+Peer Support Leaders as Cyber Wellness (CW) Ambassadors
+In SACPS, the peer support leaders are empowered and equipped with skills to build a culture of positive peer influence, support their peers in cyber issues and champion school-wide cyber wellness outreach efforts. 
 
+The roles of Peer Support Leaders include:
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:835194215; mso-list-type:hybrid; mso-list-template-ids:-1586054064 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l1 {mso-list-id:965233846; mso-list-type:hybrid; mso-list-template-ids:881076184 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l1:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l1:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l1:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l1:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l1:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l1:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l1:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l1:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l1:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l2 {mso-list-id:1182478429; mso-list-type:hybrid; mso-list-template-ids:628666074 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l2:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l2:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l2:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l2:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l2:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l2:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l2:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l2:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l2:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} -->
 
-<b>Student Leadership</b>
+**Teach and Advocate:**
 
-To achieve our school vision&nbsp;<i>Leaders with a Heart for Others,</i>&nbsp;the department also looks into giving opportunities to all students in developing their leadership qualities.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model good online habits and behaviours
 
-In doing so, we want our student leaders to demonstrate the Canossian Attributes of Commitment, Compassion and Cheerfulness in serving and leading others.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share CW knowledge with the class to promote greater awareness of the threats of the cyber world.
 
-Student leadership development in SACPS focuses on three dimensions.
+**Lead and Inspire:**
 
-*   Personal Leadership – &nbsp;students learn to take ownership of their own actions and choices
-*   Peer Leadership – students learn to serve others around them
-*   Thought Leadership – students learn to influence others and create value to the community
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be a positive influencer and leader to help their friends
 
-In our school, we believe that&nbsp;<i>every SACPS student is a Service Leader</i>, thus the school’s core values of Charity, Humility, Forgiveness and Faith also serves as a foundation for the SACPS Service Leader.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alert a trusted adult (e.g. teacher) when their friends are in distress due cyber issues such as cyber bullying.
 
+  
+**Cyber Wellness (CW) Programmes @SACPS**
 
-<b>Cyber Wellness (CW) @SACPS</b>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CW Assembly talks
 
-Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CW Week
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safer Internet Day
 
-<b>What is Cyber Wellness (CW)?</b>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CW lessons in FTGP
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Termly CW sharing by Peer Support Leaders
 
-<b>MOE Cyber Wellness Framework</b>
-![](/images/SMD2.png)
+![](/images/sm%20-%20cyber%20wellness%20week%20library%20display.jpeg)
 
+![](/images/sm%20-%20cyber%20wellness%20library%20activities.jpeg)
 
-<b>Cyber Wellness (CW) Programmes @SACPS</b>
+![](/images/sm%20-%20prefects%20exco%20marching%20in%20v2.jpg)
 
-*   &nbsp;CW Assembly talks
-*   CW Week
-*   Safer Internet Day
-*   CW lessons in FTGP
-*   Termly CW sharing by CW ambassadors
-
-
-<b>SACPS Cyber Wellness (CW) Ambassadors</b>
-
-In SACPS, two CW ambassadors are identified from every Primary 4 to Primary 6 class. CW ambassadors are empowered and equipped with skills to build a culture of positive peer influence, support their peers in cyber issues and champion school-wide CW outreach efforts.
-
-The roles of CW ambassadors include:
-
-<b>Teach and Advocate:</b>&nbsp;Share CW knowledge with the class to promote greater awareness of the threats of the cyber world.
-
-<b>Lead and Inspire:</b>&nbsp;Being a positive influencers and leaders to help their friends or alert a trusted adult (e.g. teacher) when their friends are in distress due cyber issues such as cyber bullying.
-
-To find out more about&nbsp;<b>Cyber Wellness Curriculum</b>&nbsp;in schools, click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness).
-
-Note: Cyber Wellness Curriculum in schools page not found.
+To find out more about Cyber Wellness Curriculum in schools, click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness). 
 
 
 <b>Cyber Wellness resources for parents</b>
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:1563713285; mso-list-type:hybrid; mso-list-template-ids:844915842 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Symbol;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:"Courier New";} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-18.0pt; font-family:Wingdings;} ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} -->
 
-* [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf](/files/Parent%20Kit%20-%20Raising%20A%20Digitally%20Smart%20Child.pdf)
-* [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](/files/cyber-wellness-for-your-child.pdf)
-*   [https://www.schoolbag.edu.sg/story/cyber-wellness—useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
-*   [Parents, the Guardians of Internet Safety (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
-*   [Guide for Parents on Setting Parental Controls (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
-*   [Understanding Cyber Wellness (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
-*   [Navigating the Cyber World Safely (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
-*   [ICT in Schools: To Use or Not to Use? (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
-*   [Play safe – Avoid online gaming addiction (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
-*   [Safeguarding your child online (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
-*   [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
-*   [MLC I Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Parents, the Guardians of Internet Safety (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Guide for Parents on Setting Parental Controls (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Understanding Cyber Wellness (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Navigating the Cyber World Safely (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ICT in Schools: To Use or Not to Use? (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Play safe – Avoid online gaming addiction (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Safeguarding your child online (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
 
 
-![](/images/sm%20-%20empowering%20students%20to%20design%20the%20shout%20out%20wall.jpeg)
+<b>Positive Discipline</b><br> 
+In enacting a positive and proactive approach to discipline in school, there are three aspects we consider:<br> 
 
-![](/images/sm%20-%20prefects%20carry%20out%20walking%20challenge.jpeg)
+•	Promote and Prevent – In building strong teacher-student relationships and giving quality instruction, the school strives to promote a safe and supportive environment and thus prevent challenging behaviours from occurring and disrupting learning.<br> 
+•	Address and Correct – Despite preventive measures, students could still display inappropriate behaviours due to various reasons. These inappropriate behaviour will be addressed promptly by the teachers, Year Heads and Discipline Mistress. <br> 
+•	Replace and Restore - As the ultimate goal is for students to develop self-discipline and good character, teachers help misbehaving students to replace their inappropriate behaviours with prosocial, appropriate ones, and to restore relationships with others hurt by their actions. 
+ 
+<b>Student Leadership</b><br> 
+To achieve our school vision of “Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness”, the department looks into giving opportunities to all students in developing their leadership qualities. <br> 
 
-![](/images/sm%20-%20prefects%20facilitate%20the%20folding%20of%20origami%20at%20craft%20station.jpeg)
+In doing so, we want our student leaders to demonstrate the Canossian Attributes of Confidence, Curiosity, Commitment, Compassion and Cheerfulness in serving and leading others.<br> 
 
-![](/images/sm%20-%20prefects%20lead%20students%20in%20teacher's%20day%20celebration.jpeg)
+Student leadership development in SACPS focuses on three dimensions. <br> 
+•	Personal Leadership –  students learn to take ownership of their own actions and choices
+•	Peer Leadership – students learn to serve others around them<br> 
+•	Thought Leadership – students learn to influence others and create value to the community<br> 
+
+In our school, we believe that every SACPS student is a Service Leader, thus the school’s core values of Charity, Humility, Forgiveness and Faith also serves as a foundation for the SACPS Service Leader.<br> 
+
+
+<img style="max-width: 50%" src="/images/sm%20-%20empowering%20students%20to%20design%20the%20shout%20out%20wall.jpeg"> <br>
+
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20carry%20out%20walking%20challenge.jpeg"><br>
+
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20facilitate%20the%20folding%20of%20origami%20at%20craft%20station.jpeg"><br>
+
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20lead%20students%20in%20teacher's%20day%20celebration.jpeg">
