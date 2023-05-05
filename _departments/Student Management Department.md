@@ -88,7 +88,7 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents">MLC | Resources Listing (betterinternet.sg)</a>
 
 
 <b>Positive Discipline</b><br> 
