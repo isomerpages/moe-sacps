@@ -111,11 +111,10 @@ Student leadership development in SACPS focuses on three dimensions. <br>
 In our school, we believe that every SACPS student is a Service Leader, thus the school’s core values of Charity, Humility, Forgiveness and Faith also serves as a foundation for the SACPS Service Leader.<br> 
 
 
+<img style="max-width: 50%" src="/images/sm%20-%20empowering%20students%20to%20design%20the%20shout%20out%20wall.jpeg"> <br>
 
-![](/images/sm%20-%20empowering%20students%20to%20design%20the%20shout%20out%20wall.jpeg)
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20carry%20out%20walking%20challenge.jpeg"><br>
 
-![](/images/sm%20-%20prefects%20carry%20out%20walking%20challenge.jpeg)
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20facilitate%20the%20folding%20of%20origami%20at%20craft%20station.jpeg"><br>
 
-![](/images/sm%20-%20prefects%20facilitate%20the%20folding%20of%20origami%20at%20craft%20station.jpeg)
-
-![](/images/sm%20-%20prefects%20lead%20students%20in%20teacher's%20day%20celebration.jpeg)
+<img style="max-width: 50%" src="/images/sm%20-%20prefects%20lead%20students%20in%20teacher's%20day%20celebration.jpeg">
