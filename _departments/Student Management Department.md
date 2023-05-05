@@ -20,7 +20,7 @@ There are 3 broad domains <b>(Peer Bonding, Peer Helping and Peer Influencing)</
 
 ![](/images/SMD.png)
 
-<b>Cyber Wellness (CW) @SACPS</b> <br>
+<u><b>Cyber Wellness (CW) @SACPS</b> <br></u>
 Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace. 
 
 <b>Peer Support Leaders as Cyber Wellness (CW) Ambassadors</b> <br>
@@ -91,14 +91,14 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents">MLC | Resources Listing (betterinternet.sg)</a>
 
 
-<b>Positive Discipline</b><br> 
+<b><u>Positive Discipline</u></b><br> 
 In enacting a positive and proactive approach to discipline in school, there are three aspects we consider:<br> 
 
 •	Promote and Prevent – In building strong teacher-student relationships and giving quality instruction, the school strives to promote a safe and supportive environment and thus prevent challenging behaviours from occurring and disrupting learning.<br> 
 •	Address and Correct – Despite preventive measures, students could still display inappropriate behaviours due to various reasons. These inappropriate behaviour will be addressed promptly by the teachers, Year Heads and Discipline Mistress. <br> 
 •	Replace and Restore - As the ultimate goal is for students to develop self-discipline and good character, teachers help misbehaving students to replace their inappropriate behaviours with prosocial, appropriate ones, and to restore relationships with others hurt by their actions. 
  
-<b>Student Leadership</b><br> 
+<b><u>Student Leadership</u></b><br> 
 To achieve our school vision of “Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness”, the department looks into giving opportunities to all students in developing their leadership qualities. <br> 
 
 In doing so, we want our student leaders to demonstrate the Canossian Attributes of Confidence, Curiosity, Commitment, Compassion and Cheerfulness in serving and leading others.<br> 
