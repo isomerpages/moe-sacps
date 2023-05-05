@@ -100,7 +100,9 @@ In enacting a positive and proactive approach to discipline in school, there are
  
 <b>Student Leadership</b><br> 
 To achieve our school vision of “Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness”, the department looks into giving opportunities to all students in developing their leadership qualities. <br> 
+
 In doing so, we want our student leaders to demonstrate the Canossian Attributes of Confidence, Curiosity, Commitment, Compassion and Cheerfulness in serving and leading others.<br> 
+
 Student leadership development in SACPS focuses on three dimensions. <br> 
 •	Personal Leadership –  students learn to take ownership of their own actions and choices
 •	Peer Leadership – students learn to serve others around them<br> 
