@@ -23,7 +23,7 @@ There are 3 broad domains <b>(Peer Bonding, Peer Helping and Peer Influencing)</
 <b>Cyber Wellness (CW) @SACPS</b> <br>
 Guided by the MOE CW framework, we aim to educate our students to be responsible and knowledgeable Internet users and develop their instinct to protect and empower them to take responsibility for their own well-being and to make well-considered decisions in cyberspace. 
 
-Peer Support Leaders as Cyber Wellness (CW) Ambassadors
+<b>Peer Support Leaders as Cyber Wellness (CW) Ambassadors</b> <br>
 In SACPS, the peer support leaders are empowered and equipped with skills to build a culture of positive peer influence, support their peers in cyber issues and champion school-wide cyber wellness outreach efforts. 
 
 The roles of Peer Support Leaders include:
