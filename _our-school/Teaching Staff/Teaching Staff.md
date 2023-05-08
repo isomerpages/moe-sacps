@@ -24,5 +24,4 @@ Teaching Staff
     *   [Tamil](/our-school/Teaching-Staff/Teaching-Staff-Tamil-Language-Teachers/)
 *   [<b>PE, Art and PA Teachers</b>](/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/)
 *   [<b>LT &amp; ST</b>](/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/)
-*   [<b>FAJT</b>](https://stanthonyscanossianpri.moe.edu.sg/teaching-staff-fajt)
 *   [<b>AED</b>](/our-school/Teaching-Staff/Teaching-Staff-AED/)
