@@ -6,13 +6,13 @@ third_nav_title: Teaching Staff
 ---
 ![](/images/UsefulVideos.jpg)
 
-Teaching Staff – LT & ST
+Teaching Staff – LT &amp; ST
 ========================
 
 <table style="text-align: center; font-size: 12px; border-collapse: collapse;" border="1" width="100%">
 <tbody>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px;" colspan="3"><strong>Lead Teacher</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px; text-align: center" colspan="3"><strong>Lead&nbsp;Teacher</strong></td>
 </tr>
 <tr style="height: 26px;">
 <td style="width: 32%; height: 26px;">Ms Chua Lee Beng (LT Art)<br>
@@ -22,7 +22,7 @@ chua_chin_corinna@schools.gov.sg</td>
 <td style="width: 29.9491%; height: 26px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px;" colspan="3"><strong>Senior Teacher</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; width: 93%; height: 42px; text-align: center" colspan="3"><strong>Senior Teacher</strong></td>
 </tr>
 <tr style="height: 26px;">
 <td style="width: 32%; height: 26px;">Mrs Tan Bee Bee (ST Physical Education)<br>
