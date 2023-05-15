@@ -39,5 +39,4 @@ Chinese Language Department
   <iframe allow="fullscreen" allowfullscreen="allowfullscreen" src="https://www.canva.com/design/DAFi8GcviIw/watch?embed" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" loading="lazy">
   </iframe>
 </div>
-<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAFi8GcviIw/watch?utm_content=DAFi8GcviIw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">CL DEPT - PHOTO GALLERY</a> by NE KZ
 ```
