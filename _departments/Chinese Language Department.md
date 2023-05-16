@@ -15,19 +15,22 @@ Chinese Language Department
 *   To promote reading and to enhance Chinese Language literacy.
 *   To enhance pupil’s listening, speaking and writing skills.
 
-<b>Programmes & Activities:</b>
+<b>Programmes &amp; Activities:</b>
 
-*   Festival Celebrations
-*   Mother Tongue Library Week
-*   Mother Tongue Fortnight
-*   Guided Reading Programme
-*   Parent-Child Storytelling Competition (P1- P3)
-*   MTL Learning Journey to Taman Warisan and Kampung Gelam (P3)
-*   MTL Learning Journey to Chinatown Heritage Centre (P4)
-*   P3 MTL Cultural Camp
-*   Show & Tell (P1)
-*   Pick & Tell (P3)
-*   Reader’s Theatre (P3-P4)
-*   Voice Recording (P5-P6)
+* Festival Celebrations
+* Chinese Library Month
+* Mother Tongue Fortnight
+* Language &amp; Art Festival
+* Guided Reading Programme
+* Parent-Child Storytelling Competition (P1- P3)
+* MTL Learning Journey to Taman Warisan and Kampung Gelam (P3)
+*	MTL Learning Journey to Chinatown Heritage Centre (P4)
+* P3 MTL Cultural Camp
+*	Show &amp; Tell (P1)
+*	Pick &amp; Tell (P2)
+*	Reader’s Theatre (P3-P4)
+*	Voice Recording based on Video Stimulus (P5)
+*	Read A Story (P5)
 
-![](/images/ChineseLangDept.png)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbl4omi_ySLbhFun7nj54B7ll5fDvWiCwZoiy7MMWToibb5PMcREDFJUwOtaY7t9nTONwmpE5NBxUb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
