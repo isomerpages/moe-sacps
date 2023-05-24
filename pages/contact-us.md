@@ -9,7 +9,7 @@ locations:
       - Singapore 469701
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/qHNnhSmwaXkBJTCx7
     title: General Office
 contacts:
   - content:
