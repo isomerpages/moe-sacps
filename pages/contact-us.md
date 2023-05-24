@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: St Anthony's Canossian Primary School
+agency_name: us
 locations:
   - address:
       - 1602 Bedok North Ave 4
