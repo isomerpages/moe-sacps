@@ -18,6 +18,6 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      button: The SACPS Experience - Open House 2023. Click here to find out more!
+      button: The SACPS Experience - Open House 2023 🏫 Click here to find out more!
       url: https://go.gov.sg/sacpsopenhouse2023-resized
 ---
