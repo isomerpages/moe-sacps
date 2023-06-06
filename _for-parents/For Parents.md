@@ -9,5 +9,7 @@ For Parents
 ===========
 
 
+* [MOE FAS](/for-parents/moe-fas/)
+* [Student Insurance](/for-parents/insurance/)
 * [Useful Links](/for-parents/Useful-Links/)
 * [Useful Videos](/for-parents/Useful-Videos/)
