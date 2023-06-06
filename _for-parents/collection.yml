@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - MOE eFAS.md
       - For Parents.md
       - Useful Links.md
       - Useful Videos.md
