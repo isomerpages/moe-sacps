@@ -19,6 +19,5 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      button: Click here 🏫
       url: https://go.gov.sg/sacpsopenhouse2023-resized
 ---
