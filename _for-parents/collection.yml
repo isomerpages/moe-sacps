@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE FAS.md
-      - Student Insurance.md
       - Useful Links.md
       - Useful Videos.md
+      - MOE FAS.md
+      - Student Insurance.md
