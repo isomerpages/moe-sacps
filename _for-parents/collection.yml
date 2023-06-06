@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - For Parents.md
       - MOE FAS.md
       - Student Insurance.md
       - Useful Links.md
