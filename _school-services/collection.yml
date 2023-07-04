@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - School Services Overview.md
-      - School Dental Clinic.md
-      - Student Care Centre.md
-      - School Uniform.md
       - School Bookshop.md
       - School Bus Services.md
+      - Student Care Centre.md
+      - School Dental Clinic.md
+      - School Uniform.md
