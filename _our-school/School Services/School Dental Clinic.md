@@ -9,12 +9,12 @@ third_nav_title: School Services
 Contact No. For Appointment: 62410942 (Ms Syahirah)  
 Contact No. During School Holidays only: 6784 4076
 
-Operating Hours:  
+Operating Hours:<br>
 Mon – Wed: 8.00 am to 5.30pm  
 Thursday: Closed  
 Friday: 8.00 am to 5.00pm
 
-Nurses-In-Charge:  
+Nurses-In-Charge: <br>
 Tuesdays &amp; Thursdays: Mdm Dewi  
 Wednesday &amp; Friday: Ngeow Chye Fong
 
