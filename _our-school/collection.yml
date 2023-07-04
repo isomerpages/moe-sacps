@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Services/.keep
-      - School Bus Services.md
       - History.md
       - Our Foundress.md
       - The Educator.md
