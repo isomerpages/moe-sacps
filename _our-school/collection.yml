@@ -2,12 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Services/.keep
-      - School Services/School Bus Services.md
-      - School Services/School Bookshop.md
-      - School Services/School Uniform.md
-      - School Services/Student Care Centre.md
-      - School Services/School Dental Clinic.md
       - History.md
       - Our Foundress.md
       - The Educator.md
@@ -17,6 +11,12 @@ collections:
       - School Badge.md
       - School Song.md
       - School Rules.md
+      - School Services/.keep
+      - School Services/School Bus Services.md
+      - School Services/School Bookshop.md
+      - School Services/School Uniform.md
+      - School Services/Student Care Centre.md
+      - School Services/School Dental Clinic.md
       - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/School Executive Committee.md
