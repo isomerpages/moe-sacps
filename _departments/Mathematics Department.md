@@ -36,11 +36,10 @@ The MOE’s Mathematics Framework above sets direction and provides guidance for
 * E2K - to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach
 ![](/images/Dept_ma/madept-5.png)
 * National Math Competitions - to discover students’  talent through solving challenging problems and/or carry out innovative and creative work in math, different from those learnt in class.
-![](/images/Dept_ma/madept-6.png)
-Math Learning Experiences @ SACPS
-Learning Mathematics is more than just learning concepts and skills. Equally important are the cognitive and metacognitive process skills. These processes are learned through carefully constructed learning experiences.
-
-•	Learning Experience Activities in the Topical Worksheets - to discover mathematical results and be engaged with mathematical experiences using manipulative which allow them to see the relevance of what they learn in class with their daily lives.
+![](/images/Dept_ma/madept-6.png)<br>
+**Math Learning Experiences @ SACPS**<br>
+Learning Mathematics is more than just learning concepts and skills. Equally important are the cognitive and metacognitive process skills. These processes are learned through carefully constructed learning experiences.<br>
+•	Learning Experience Activities in the Topical Worksheets - to discover mathematical results and be engaged with mathematical experiences using manipulative which allow them to see the relevance of what they learn in class with their daily lives.<br>
 •	Mini Projects - to provide students with hands-on learning experiences that will give students an understanding of how math works in and around them and facilitate their creativity and knowledge in real life situations that involve mathematical concepts.
 ![](/images/Dept_ma/madept-7.jpg)
 •	P1 A-Math-zing Race - to challenge students’ ability to collaborate with others, think critically and solve Mathematical problems effectively. 

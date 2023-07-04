@@ -1,0 +1,10 @@
+collections:
+  school-services:
+    output: true
+    order:
+      - School Services Overview.md
+      - School Bookshop.md
+      - School Bus Services.md
+      - Student Care Centre.md
+      - School Dental Clinic.md
+      - School Uniform.md
