@@ -2,4 +2,5 @@ collections:
   school-services:
     output: true
     order:
+      - School Bookshop.md
       - School Bus Services.md
