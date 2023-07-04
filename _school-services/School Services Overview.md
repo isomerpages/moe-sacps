@@ -5,7 +5,7 @@ description: ""
 ---
 #### School Services Overview
 * [School Dental Clinic](https://www.stanthonyscanossianpri.moe.edu.sg/our-school/school-services/schooldentalclinic/)
-* Student Care Centre
+* [undefined](https://www.stanthonyscanossianpri.moe.edu.sg/our-school/school-services/studentcarecentre/)Student Care Centre
 * School Uniform
 * School Bookshop
 * School Bus Services
