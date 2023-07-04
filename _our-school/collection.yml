@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Bus.md
       - School Bus Services.md
       - History.md
       - Our Foundress.md
