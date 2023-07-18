@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/UsefulVideos.jpg)
 
-Financial & Non-Financial Information
+Financial &amp; Non-Financial Information
 =====================================
 
 <b>1\. Non-Financial Information</b>
@@ -62,7 +62,13 @@ Financial & Non-Financial Information
   </tr>
   <tr>
     <td class="tg-tsok"> </td>
-    <td class="tg-tsok">2020<br><span style="font-weight:bold">1.      </span> <span style="font-weight:bold">Go Green Movement</span><br>The Environment Service Committee was formed to focus on green efforts in 2020. Called Good Girls GO Green (GG2.0), the committee members inspire students to be good role models and spread the message of going green.<br> <br><span style="font-weight:bold">2.      </span> <span style="font-weight:bold">Supporting Special Needs Students</span> <br>A room was upgraded into a sensory trail to support Special Needs Students (SEN). As a Safe Space for SEN, the room was designed to allow these students to regulate their emotions and develop their social skills in a safe environment, with close guidance from our Allied Educators (Learning and Behaviour Support).<br> <br><span style="font-weight:bold">3.      </span> <span style="font-weight:bold">Church Bicentennial Project</span><br>The Roman Catholic Archdiocese of Singapore interviewed the Catholic students to share their views and experience of being in a Catholic school and how they reached out to non-Catholic friends in school.<br> <br>2021 and 2022<br><span style="font-weight:bold">1.      </span> <span style="font-weight:bold">Applied Learning Programme (ALP)</span><br>The school will implement the ALP which has been named ‘Inno-Eco-Creator’ (IEC) Programme and is based on STEM (Science, Technology, Engineering and Math). With the main theme of ‘Sustainability’, the programme’s objective is to empower students with knowledge, skills and tools, to be innovative in creating solutions to solve real-world issues for sustainability through inquiry-based learning.<br> </td>
+    <td class="tg-tsok">2023<br><b>1.	Transformative Learning to Strengthen Development of 21CC </b>
+The school is harnessing the potential of the Arts for multi-disciplinary learning. Performing Arts which has been the school’s niche will be integrated within the Learning for Life (LLP) curriculum. This shift will bring emphasis to visual-spatial and creativity skills, allowing the students to see connectedness across learning, and adopt new ways of seeing and learning. <br>
+<b>2.	Applied Learning Programme (ALP)</b>
+The ‘Inno-Eco-Creator’ (IEC) Programme is based on STEM (Science, Technology, Engineering and Math). With the main theme of ‘Sustainability’, the programme’s objective is to empower students with knowledge, skills and tools, to be innovative in creating solutions to solve real-world issues for sustainability through inquiry-based learning.<br>
+<b>3.	Math and Science Festival</b>
+The festival serves as a platform to create greater awareness about how Math and Science work in the world through various hands-on activities, further enriching students learning and lived experiences
+</td>
   </tr>
   <tr>
     <td class="tg-xyrl">6</td>
@@ -70,7 +76,17 @@ Financial & Non-Financial Information
   </tr>
   <tr>
     <td class="tg-tsok">7</td>
-    <td class="tg-tsok">Trustees/Board Members:<br>Dr Gerard Ee Hock Kim (Chairman)<br>Sr Elizabeth Tham (Supervisor)<br>Ms Martina Wong Yoke Lin (Treasurer)<br>Dr Wong Foong Lin, Angela (Member)<br>Ms Cheong May Aung Mamie (Member)<br>Mdm Yee May Kuen Peggy Sarah (Member)<br>Dr Janelene Leong Hoe Chng (Member)<br>Sr Yeo Sui Chin Christina (Member)<br>Sr Seow Lee Huang Theresa (Member)<br>Sr Wang Janet (Member)<br>Mr Yap Qi Rong, Timothy Charles (Member)<br>Mr Wilson Wong (Member)<br>Mr Fan Yue Soon Charles (Member)  </td>
+    <td class="tg-tsok">Trustees/Board Members:<br>Mr Beh Jit Han (Chairman)<br>
+Sr Elizabeth Tham (Supervisor)<br>
+Ms Cheong May Aung Mamie (Treasurer)<br>
+Ms Martina Wong Yoke Lin (Member)<br>
+Mdm Yee May Kuen Peggy Sarah (Member)<br>
+Dr Janelene Leong Hoe Chng (Member)<br>
+Sr Wang Janet (Member)<br>
+Mr Yap Qi Rong, Timothy Charles (Member)<br>
+Mr Wilson Wong (Member)<br>
+Mr Fan Yue Soon Charles (Member)
+   </td>
   </tr>
   <tr>
     <td class="tg-xyrl">8</td>
@@ -78,7 +94,7 @@ Financial & Non-Financial Information
   </tr>
   <tr>
     <td class="tg-1ppo"> </td>
-    <td class="tg-tsok">Principal: Mrs Chin Lai Yoke<br>Vice-Principal: Mrs Irene Goh<br>Vice-Principal: Ms Charmaine Ariken</td>
+    <td class="tg-tsok">Principal: Mrs Chin Lai Yoke<br>Vice-Principal: Mrs Irene Goh<br>Vice-Principal: Ms Felicia Lee Xingyun</td>
   </tr>
   <tr>
     <td class="tg-xyrl">9</td>
@@ -89,4 +105,4 @@ Financial & Non-Financial Information
 
 <b>2\. Financial Information</b>
 
-Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest information.
+Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
