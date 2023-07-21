@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rollingbannerhome1.gif
+      background: /images/slide1.PNG
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +18,6 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
+      url: https://www.moe.gov.sg/primary/p1-registration
+      button: P1 Registration
 ---
