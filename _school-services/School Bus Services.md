@@ -5,9 +5,7 @@ description: ""
 ---
 # **School Bus Services**
 * * *
-
 ##### School Bus Coordinator (2023)
-
 Rae Transport Services LLP <br>
 Contact Number:&nbsp;**8606 0845** <br>
 Bus fares applicable from 1 January 2023 to 31 December 2023:   <br>
