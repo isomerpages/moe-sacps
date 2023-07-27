@@ -1,6 +1,6 @@
 ---
-title: Financial Information
-permalink: /our-school/Financial-Information/
+title: Financial & Non Financial Information
+permalink: /our-school/financial-information/
 description: ""
 ---
 ![](/images/UsefulVideos.jpg)
