@@ -146,3 +146,8 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:   <br>
   padding:0cm 5.4pt 0cm 5.4pt;height:18.0pt" nowrap="" width="84"><p style="text-align:center;line-height:105%" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">300</span></p></td><td style="width:58.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:18.0pt" valign="bottom" nowrap="" width="78"><p style="text-align:center;line-height:105%" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">332</span></p></td></tr></tbody></table>
+
+	
+##### School Bus Coordinator (2024-2025)<br>
+School Bus Operator and Bus Fare (2024 to 2025)<br>
+[School Bus Services Award Notice](/files/school%20bus%20operator%20awarded%20(sacps%20final).pdf)
