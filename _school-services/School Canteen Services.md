@@ -29,7 +29,7 @@ description: ""
 
 <font size="4">**How to get there?**
 * Nearest MRT: Bedok MRT Station (EW5)– not within walking distance
-* Bus number: 17, 18 *(3 minutes walking distance)* </font>
+* Bus number: 17, 18 *(3 minutes walking distance from bus stop to school)* </font>
 
 <font size="4">**Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
