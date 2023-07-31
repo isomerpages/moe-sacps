@@ -5,9 +5,9 @@ description: ""
 ---
 #### School Canteen Advertisement
 
-| <font size="4">Type of Stall  </font>|  <font size="4">Closing Date  </font>|  <font size="4">Requirements  </font>|
-| -------- | -------- | -------- |
-|  <font size="4">Chinese Mixed Rice Stall  </font>|  <font size="4">1st Sept 2023  </font>| <font size="4"> Only Chinese Rice </font>|
+| Type of Stall | Closing Date | Requirements |
+| --- | --- | --- |
+| Chinese Mixed Rice Stall | 1st Sept 2023 | Only Chinese Rice |
 ##### Application Procedure<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Application Form]()
@@ -19,12 +19,12 @@ description: ""
 - Photocopy of relevant certificates such as Basic Food Hygiene Course, etc </font> <br>
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-| || |
-| -------- | -------- | -------- |
-|<font size="4">Address: 1602 Bedok North Ave 4 Singapore 469701</font>|
-|<font size="4">Contact No: 64492239 </font>|
-|<font size="4">Email: lai_kok_kuen@schools.gov.sg </font>|
-|<font size="4">Contact Person: Mr. Larry Lai </font>| 
+|  |  |  |
+| --- | --- | --- |
+| Address: 1602 Bedok North Ave 4 Singapore 469701 |  |  |
+| Contact No: 64492239 |  |  |
+| Email:&nbsp;[lai\_kok\_kuen@schools.gov.sg](mailto:lai_kok_kuen@schools.gov.sg) |  |  |
+| Contact Person: Mr. Larry Lai |
 
 
 <font size="4">**How to get there?**
