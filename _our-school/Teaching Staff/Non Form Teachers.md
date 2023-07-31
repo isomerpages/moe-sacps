@@ -19,7 +19,7 @@ third_nav_title: Teaching Staff
 <td width="333">Mrs Shirley Sim<br>sim_lee_noi_shirley@schools.gov.sg</td>
 </tr>
 <tr>
-<td width="333">Mrs Yogalakshmi (TL)<br>tamilselvan_yogalakshmi@schools.gov.sg</td>
+<td width="333">Mrs Yogalakshmi<br>tamilselvan_yogalakshmi@schools.gov.sg</td>
 <td width="333">Ms Wendy Yeo<br>yeo_wan_tin@schools.gov.sg</td>
 <td width="333">Mdm Heriana Fairus 
 Mohamed Ibrahim<br>heriana_fairus_mohamed_ibrahim_a@schools.gov.sg</td>
