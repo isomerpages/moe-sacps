@@ -9,7 +9,7 @@ third_nav_title: Teaching Staff
 Form Teachers – Primary Five
 ============================
 
-<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 123.248%;" border="1" width="100%">
+<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 711px;" border="1" width="100%">
 <tbody>
 <tr style="height: 69px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 69px; text-align: center" colspan="3"><strong>Temperance</strong></td>
@@ -67,8 +67,7 @@ yim_yoke_har@schools.gov.sg</td>
 tan_siew_chen_alicia@schools.gov.sg</td>
 <td style="width: 31%;" width="271">Ms Chua Lee Beng<br>
 chua_lee_beng@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;"></td>
-	<td style="width: 32.665%;" width="32%">Mrs Angeline Peh<br>
+<td style="width: 26%; height: 55px;">Mrs Angeline Peh<br>
 peh_angeline@schools.gov.sg</td>
 </tr>
 </tbody>
