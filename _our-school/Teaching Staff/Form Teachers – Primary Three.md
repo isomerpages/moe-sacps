@@ -65,7 +65,7 @@ beins_chantel_elena-marie@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 41px;" valign="top">
-<td style="width: 32.665%; height: 41px; text-align: center;">Mrs Janet Tan<br>lam_yit_ching@schools.gov.sg</td>
+<td style="width: 32.665%; height: 41px; text-align: center;">Mrs Daleen Ferro<br>ros_daleena_mazlan@ schools.gov.sg</td>
 <td style="width: 31.335%; height: 41px; text-align: center;">Mdm Huang Shansi<br>
 huang_shansi@schools.gov.sg</td>
 <td style="width: 25.1121%; height: 41px;"></td>
