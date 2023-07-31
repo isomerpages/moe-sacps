@@ -15,7 +15,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td width="333">Mdm Toh Hwee Choo<br>toh_hwee_choo@schools.gov.sg</td>
-<td width="333">Ms Teh Soo Chin<br>Teh_Soo_Chin@schools.gov.sg</td>
+<td width="333">Ms Teh Soo Chin<br>teh_soo_chin@schools.gov.sg</td>
 <td width="333">Mrs Shirley Sim<br>sim_lee_noi_shirley@schools.gov.sg</td>
 </tr>
 <tr>
