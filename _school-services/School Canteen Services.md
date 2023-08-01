@@ -19,12 +19,12 @@ description: ""
 - Photocopy of relevant certificates such as Basic Food Hygiene Course, etc. <br>
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-|  |  |  |
-| --- | --- | --- |
-| Address: 1602 Bedok North Ave 4 Singapore 469701 |  |  |
-| Contact No: 64492239 |  |  |
-| Email:&nbsp;[lai\_kok\_kuen@schools.gov.sg](mailto:lai_kok_kuen@schools.gov.sg) |  |  |
-| Contact Person: Mr. Larry Lai |
+<table><tbody>
+<tr><td>Address: 1602 Bedok North Ave 4 Singapore 469701</td></tr> 
+	<tr><td>Contact No: 64492239 </td></tr>  
+	<tr><td>Email: lai_kok_kuen@schools.gov.sg</td></tr>  
+	<tr><td>Contact Person: Mr. Larry Lai</td></tr>  
+</tbody></table>
 
 
 **How to get there?**
