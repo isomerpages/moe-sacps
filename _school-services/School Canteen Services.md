@@ -3,11 +3,20 @@ title: School Canteen Services
 permalink: /school-services/schoolcanteenservices/
 description: ""
 ---
-#### School Canteen Advertisement
+#### School Canteen Advertisement 
+  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;<table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
+<tr><td>Chinese Mixed Rice Stall</td><td>1st Sept 2023</td><td>Only Chinese Rice</td></tr>  
+</tbody></table>
 
-| Type of Stall | Closing Date | Requirements |
-| --- | --- | --- |
-| Chinese Mixed Rice Stall | 1st Sept 2023 | Only Chinese Rice |
 ##### Application Procedure<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Application Form]()
