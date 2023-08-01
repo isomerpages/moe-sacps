@@ -11,8 +11,7 @@ description: ""
 
 ##### Application Procedure<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Application Form]()
-
+[Application Form](/files/Attachments/form%20bf7%20-%20application%20for%20canteen%20stall%20in%20existing%20school%20(%20chinese%20mixed%20rice%20).pdf)
 2. Attach the following documents together with the application form:
 - Photocopy of the NRIC (front and back) <br>
 - List of proposed menu and pricing for all items <br>
