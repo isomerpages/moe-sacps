@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: St Anthony's Canossian Primary School
+title: St. Anthony's Canossian Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
