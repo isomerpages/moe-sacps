@@ -29,7 +29,7 @@ The Character and Citizenship Education and Student Leadership Department uses v
 *   Sexuality Education
    
 
-![](/images/CCE1.png)
+![](/images/CCE1.png) 
 
 <b>Pastoral Care</b>
 
