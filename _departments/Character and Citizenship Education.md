@@ -73,7 +73,27 @@ During the weekly FTGP lessons, teachers will conduct interactive sessions with 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys  
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 NE Show  
 
-<table style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color); border-collapse: collapse; width: 647.891px; margin-bottom: 1em; color: rgb(60, 71, 100); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><tr style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_1.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 190.969px;"></td><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_2.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 193.188px;"></td><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_3.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 191.734px;"></td></tr><tr style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_4.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 190.969px;"></td><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_5.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 193.188px;"></td><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_6.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 191.734px;"></td></tr></tbody></table>
+
+<table>
+	<tbody><tr>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_1.jpg">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_2.jpg">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_3.jpg">
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_4.jpg">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_5.jpg">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_6.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+
+
 
 \*\*Values in Action @ SACPS \*\* VIA are learning experiences which support students’ development as socially responsible citizens who contribute meaningfully to the community. As part of VIA, the students reflect on their experience, the values they have put into practice and how they can continue to contribute meaningfully.
 
@@ -83,7 +103,25 @@ By serving others as a Canossian Service Leader, we hope our students will grow 
 
 **Character &amp; Citizenship Education (CCE) Lessons**&nbsp;Students learn values through three overarching ideas – Identity, Relationships and Choices.
 
-<table style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color); border-collapse: collapse; width: 647.891px; margin-bottom: 1em; color: rgb(60, 71, 100); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><tr style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_1.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 190.969px;"></td><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_2.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 193.188px;"></td><td style="font-family: Lato; box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; overflow-wrap: break-word; border-color: rgb(214, 214, 214); border-image: initial; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_3.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 191.734px;"></td></tr><tr style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: solid; overflow-wrap: break-word; border-color: var(--chakra-colors-chakra-border-color);"><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_4.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 190.969px;"></td><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_5.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 193.188px;"></td><td style="font-family: Lato; box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;"><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_.jpg" style="font-family: Lato; box-sizing: border-box; border-width: 0px; border-style: none; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: var(--chakra-colors-chakra-border-color); margin: auto; width: 191.734px;"></td></tr></tbody></table>
+<table>
+	<tbody><tr>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_7.png">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_8.png">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_9.png">
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_10.png">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_11.png">
+		</td>
+		<td><img src="https://raw.githubusercontent.com/isomerpages/moe-sacps/staging/images/Dept_CCE/cce_img_12.png">
+		</td>
+	</tr>
+	</tbody></table>
+
 
 **MOE Sexuality Education in Schools**
 
@@ -123,7 +161,7 @@ b. &nbsp; &nbsp; &nbsp; Character and Citizenship Education (CCE)
 
 7\. &nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-**At St Anthony’s Canossian Primary School, the following lessons from the Growing Years Programme will be taught in**&nbsp;**2023**:
+**At. St Anthony’s Canossian Primary School, the following lessons from the Growing Years Programme will be taught in**&nbsp;**2023**:
 
 **2023 Sexuality Education Lessons in CCE 2021**
 
