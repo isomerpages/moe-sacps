@@ -18,6 +18,4 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      url: https://www.moe.gov.sg/primary/p1-registration
-      button: P1 Registration
 ---
