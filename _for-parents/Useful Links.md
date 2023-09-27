@@ -9,7 +9,7 @@ Useful Links
 ============
 
 
-*   [Official Facebook Page](https://www.facebook.com/SACPS.OFFICIAL2.0)
+*   [Official Facebook Page](https://www.facebook.com/SACPS.OFFICIAL)
 *   [Official Instagram Page](https://www.instagram.com/sacps.official/)
 *   [Official TikTok Page](https://www.tiktok.com/@sacps.official)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
