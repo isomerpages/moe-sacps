@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /our-school/Teaching-Staff/School-Executive-Committee/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -13,15 +14,15 @@ School Executive Committee
 <tbody>
 <tr style="height: 55px;">
 <td style="height: 55px;" height="55"><strong>Principal </strong></td>
-<td style="height: 55px;"  height="55">Mrs Chin Lai Yoke</td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px;" height="55"><strong>Vice Principal</strong></td>
-<td style="height: 55px;" height="55">Mrs Irene Goh</td>
+<td style="height: 55px;" height="55">Mrs&nbsp;Chin Lai Yoke</td>
 </tr>
 <tr style="height: 55px;">
 <td style="height: 55px;" height="55"><strong>Vice Principal</strong></td>
 <td style="height: 55px;" height="55">Ms Felicia Lee</td>
+</tr>
+<tr style="height: 55px;">
+<td style="height: 55px;" height="55"><strong>Vice Principal</strong></td>
+<td style="height: 55px;" height="55">Ms Sharon Thia</td>
 </tr>
 </tbody>
 </table>
