@@ -46,8 +46,8 @@ teoh_pei_pei@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Assistant Year Heads</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 35.1023%;">Mdm Hawalia (Lower Primary)
-siti_hawalia_abdullah@schools.gov.sg</td>
+<td style="height: 55px; width: 35.1023%;">Ms Sharon Yeo (Lower Primary)
+yeo_jiaxin_sharon@schools.gov.sg</td>
 <td style="width: 26.8977%; height: 55px;">Mrs Alicia Sim (Upper Primary)
 tan_siew_chen_alicia@schools.gov.sg</td>
 <td style="width: 28%; height: 55px;"></td>
@@ -65,7 +65,7 @@ vanessa_zh_tan@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mrs Perpetua Ho (HOD)
 ng_bei_shen_perpetua@schools.gov.sg</td>
-<td style="width: 26.8977%; height: 55px;">Ms Joey Low (LH)
+<td style="width: 26.8977%; height: 55px;">Ms Joey Low (SH)
 low_siying_joey@schools.gov.sg</td>
 <td style="width: 28%; height: 55px;"></td>
 </tr>
@@ -83,8 +83,10 @@ nur_hafiszah_mohamed_zin@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Science</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 90%;" colspan="3">Mrs Grace Lee (HOD)<br>
+<td style="height: 55px; width: 35.1023%;">Mrs Grace Lee (HOD)<br>
 tan_kime_mui_grace@schools.gov.sg</td>
+	<td style="height: 55px; width: 26.8977%;">Mrs Candice Chong (LH)</td>
+<td style="height: 55px; width: 28%;"></td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Mother Tongue Language</strong></td>
@@ -92,7 +94,7 @@ tan_kime_mui_grace@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mdm Huang Shansi (HOD)
 huang_shansi@schools.gov.sg</td>
-<td style="height: 55px; width: 26.8977%;">Ms Atiqah (SH - ML &amp; TL)
+<td style="height: 55px; width: 26.8977%;">Ms Nur Atiqah (SH - ML &amp; TL)
 nur_atiqah_rohaizad@moe.edu.sg</td>
 <td style="height: 55px; width: 28%;"></td>
 </tr>
@@ -107,14 +109,11 @@ cardoza_audra_juliana@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Student Management</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 35.1023%;">Mdm Shannen Goh (HOD)
+<td style="height: 55px; width: 90%;" colspan="3">Mdm Shannen Goh (HOD)
 goh_beng_hong@schools.gov.sg</td>
-<td style="width: 26.8977%; height: 55px;">Mrs Janice Yock (SH)
-yong_may_yuen_janice@schools.gov.sg</td>
-<td style="width: 28%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>InfoComm Technology</strong></td>
+<td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Educational Technology</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 90%;" colspan="3">Mdm Hannizah (HOD)<br>
@@ -128,7 +127,8 @@ siti_noorhannizah@schools.gov.sg</td>
 yim_yoke_har@schools.gov.sg</td>
 <td style="width: 26.8977%;" width="272">Mdm Caroline Toh (SH - PE)
 caroline_toh_hwee_fong@schools.gov.sg</td>
-<td style="width: 28%;">Ms Tan Kai Lin (SH - Aesthetics)</td>
+<td style="width: 28%;">Ms Tan Kai Lin (SH - Aesthetics)
+tan_kai_lin_a@schools.gov.sg</td>
 </tr>
 </tbody>
 </table>
