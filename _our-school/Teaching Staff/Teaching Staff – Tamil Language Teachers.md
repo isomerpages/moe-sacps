@@ -3,6 +3,7 @@ title: Teaching Staff – Tamil Language Teachers
 permalink: /our-school/Teaching-Staff/Teaching-Staff-Tamil-Language-Teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -29,7 +30,7 @@ Teaching Staff – Tamil Language Teachers
 <tbody>
   <tr>
     <td class="tg-gj5f">Mrs Yogalakshmi<br>tamilselvan_yogalakshmi@schools.gov.sg</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-gj5f"></td>
   </tr>
 </tbody>
 </table>
