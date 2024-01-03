@@ -46,9 +46,9 @@ teoh_pei_pei@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Assistant Year Heads</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 35.1023%;">Ms Sharon Yeo (Lower Primary)
+<td style="height: 55px; width: 45.1023%;">Ms Sharon Yeo (Lower Primary)
 yeo_jiaxin_sharon@schools.gov.sg</td>
-<td style="width: 26.8977%; height: 55px;">Mrs Alicia Sim (Upper Primary)
+<td style="width: 45%; height: 55px;">Mrs Alicia Sim (Upper Primary)
 tan_siew_chen_alicia@schools.gov.sg</td>
 <td style="width: 28%; height: 55px;"></td>
 </tr>
