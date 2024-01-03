@@ -3,6 +3,7 @@ title: Teaching Staff – Chinese Language Teachers
 permalink: /our-school/Teaching-Staff/Teaching-Staff-Chinese-Language-Teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -51,8 +52,8 @@ Teaching Staff – Chinese Language Teachers
     <td class="tg-a3j2">Ms Elspeth Tan<br>tan_pau_cheng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-gj5f">Ms Chelsia Ong<br>Ong_Su_Chuan_Chelsia@schools.gov.sg</td>
     <td class="tg-gj5f">Ms Li Fangqin<br>li_fangqin@schools.gov.sg</td>
+		<td class="tg-gj5f">Ms Julnise Ho<br>julnise_ho_zhiping@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>

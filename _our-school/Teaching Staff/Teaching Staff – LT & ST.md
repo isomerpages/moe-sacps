@@ -3,6 +3,7 @@ title: Teaching Staff – LT & ST
 permalink: /our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -37,6 +38,7 @@ ernie_salim@schools.gov.sg</td>
 siti_nurbaya_abdul_rahman@schools.gov.sg</td>
 <td style="width: 31.0509%; height: 26px;">Mrs Christine Yeo (ST Math)<br>
 lai_kai_ping@schools.gov.sg</td>
+	
 <td style="width: 29.9491%; height: 26px;"></td>
 </tr>
 </tbody>

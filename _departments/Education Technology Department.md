@@ -1,16 +1,17 @@
 ---
-title: InfoComm Technology Department
-permalink: /departments/InfoComm-Technology-Department/
+title: Education Technology Department
+permalink: /departments/education-technology-department/
 description: ""
+variant: markdown
 ---
 ![](/images/Departments.jpg)
 
 
-InfoComm Technology Department
+Education Technology Department
 ==============================
 
 
-<b>InfoComm Technology Department</b>
+<b>Education Technology Department</b>
 
 
 
@@ -44,4 +45,3 @@ With the e-Learning platform, Student Learning Space, SLS, our teachers and stud
 *   Infocomm Club (P3 to P6)
     
 ![](https://lh4.googleusercontent.com/YaXZdZwy5z8-IRzNvNXvXIszxCHwH37EAvtmzZ8VReSc7VeZptb-26wQvbEWl0hmOsw-imqNmQhdPEafXlEOcfEy2_MZ5kHy1bOntXVI8_Vj4_XWwueeNSpdgwjDsZnsVc34SWEabPx6K6_9ergdbw)
-

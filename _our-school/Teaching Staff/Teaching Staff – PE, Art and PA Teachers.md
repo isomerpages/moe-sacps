@@ -3,6 +3,7 @@ title: Teaching Staff – PE, Art and PA Teachers
 permalink: /our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -49,10 +50,6 @@ chee_sher_ping_catherine@
 schools.gov.sg</td>
 </tr>
 <tr>
-<td style="width: 33%;">Mdm Rahat Bano<br>
-rahat_bano_mohd_ashraf@schools.gov.sg</td>
-<td style="width: 33%;"></td>
-<td style="width: 33%;"></td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 99.478%; text-align: center" colspan="3"><strong>Performing Arts</strong></td>
