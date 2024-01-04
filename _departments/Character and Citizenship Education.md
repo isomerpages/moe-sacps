@@ -66,7 +66,7 @@ The FTGP is time set aside each week for teachers to engage in quality interacti
 
 During the weekly FTGP lessons, teachers will conduct interactive sessions with their students so as to develop strong class bonds, create quality teacher-student relationships and to explicitly teach social and emotional competencies.
 
-**National Education (NE)**&nbsp;NE is infused into the core and non-core curriculum at St Anthony’s Canossian Primary School. We aim to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students a sense of identity, pride and confidence in our nation’s future. To do this, we provide varied NE experiences:
+**National Education (NE)**<br>NE is infused into the core and non-core curriculum at St Anthony’s Canossian Primary School. We aim to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students a sense of identity, pride and confidence in our nation’s future. To do this, we provide varied NE experiences:
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commemoration of the 4 core NE events  
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Day  
@@ -98,13 +98,13 @@ During the weekly FTGP lessons, teachers will conduct interactive sessions with 
 
 
 
-\*\*Values in Action @ SACPS \*\* VIA are learning experiences which support students’ development as socially responsible citizens who contribute meaningfully to the community. As part of VIA, the students reflect on their experience, the values they have put into practice and how they can continue to contribute meaningfully.
+<b>Values in Action @ SACPS</b><br> VIA are learning experiences which support students’ development as socially responsible citizens who contribute meaningfully to the community. As part of VIA, the students reflect on their experience, the values they have put into practice and how they can continue to contribute meaningfully.
 
 By serving others as a Canossian Service Leader, we hope our students will grow as persons embracing the school’s core values of Charity, Humility, Faith and Forgiveness.
 
 [SACPS VIA Projects for P3-P6 Students](https://cms.isomer.gov.sg/sites/moe-sacps/folders/departments/editPage/Character%20and%20Citizenship%20Education.md)
 
-**Character &amp; Citizenship Education (CCE) Lessons**&nbsp;Students learn values through three overarching ideas – Identity, Relationships and Choices.
+**Character &amp; Citizenship Education (CCE) Lessons**<br>Students learn values through three overarching ideas – Identity, Relationships and Choices.
 
 <table>
 	<tbody><tr>
@@ -148,13 +148,13 @@ By serving others as a Canossian Service Leader, we hope our students will grow 
 
 (d) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) (please insert hyperlink: [https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)) for more information on MOE Sexuality Education.
+You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.
 
   
 
-Overview of St Anthony’s Canossian Primary School’s Sexuality Education Programme for 2024
+**Overview of St Anthony’s Canossian Primary School’s Sexuality Education Programme for 2024**
 
-4\. &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) (please insert hyperlink: [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)) for more information on the scope of Sexuality Education in the school curriculum.
+4\. &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope"> here</a> for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. &nbsp; The subjects that incorporate topics on sexuality include:
 
@@ -162,7 +162,7 @@ a. &nbsp; &nbsp; &nbsp; Science
 
 b. &nbsp; &nbsp; &nbsp; Character and Citizenship Education (CCE)
 
-Sexuality Education Lessons:
+**Sexuality Education Lessons:**
 
 6\. &nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
