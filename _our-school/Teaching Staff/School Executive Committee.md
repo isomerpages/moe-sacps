@@ -65,7 +65,7 @@ vanessa_zh_tan@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mrs Perpetua Ho (HOD)
 ng_bei_shen_perpetua@schools.gov.sg</td>
-<td style="width: 26.8977%; height: 55px;">Ms Joey Low (SH)
+<td style="width: 26.8977%; height: 55px;">Ms Joey Low (LH)
 low_siying_joey@schools.gov.sg</td>
 <td style="width: 28%; height: 55px;"></td>
 </tr>
@@ -75,7 +75,7 @@ low_siying_joey@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mdm Evi Mazlinda (HOD)
 evi_mazlinda_mazlan@schools.gov.sg</td>
-<td style="height: 55px; width: 26.8977%;">Mdm Hafiszah (SH)
+<td style="height: 55px; width: 26.8977%;">Mdm Hafiszah (LH)
 nur_hafiszah_mohamed_zin@schools.gov.sg</td>
 <td style="height: 55px; width: 28%;"></td>
 </tr>
@@ -85,7 +85,7 @@ nur_hafiszah_mohamed_zin@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mrs Grace Lee (HOD)<br>
 tan_kime_mui_grace@schools.gov.sg</td>
-	<td style="height: 55px; width: 26.8977%;">Mrs Candice Chong (SH)</td>
+	<td style="height: 55px; width: 26.8977%;">Mrs Candice Chong (LH)</td>
 <td style="height: 55px; width: 28%;"></td>
 </tr>
 <tr style="height: 42px;">
