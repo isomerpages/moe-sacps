@@ -3,6 +3,7 @@ title: Teaching Staff – Malay Language Teachers
 permalink: /our-school/Teaching-Staff/Teaching-Staff-Malay-Language-Teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -27,7 +28,7 @@ Teaching Staff – Malay Language Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gj5f">Ms Nur Atiqah<br>nur_atiqah_rohaizad@schools.gov.sg</td>
+    <td class="tg-gj5f">Mdm Nur Atiqah<br>nur_atiqah_rohaizad@schools.gov.sg</td>
     <td class="tg-gj5f">Ms Ilyana<br>ilyana_mohd_saad@schools.gov.sg</td>
   </tr>
 </tbody>
