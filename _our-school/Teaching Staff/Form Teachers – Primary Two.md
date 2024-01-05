@@ -27,7 +27,7 @@ tan_bee_bee@schools.gov.sg
 </tr>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;">Mrs Shirleen Chin<br>shirleen_chin@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;">Ms Atiqah (SH - ML &amp; TL)
+<td style="width: 31.335%; height: 55px;">Mdm Atiqah<br>
 nur_atiqah_rohaizad@schools.gov.sg
 </td>
 <td style="width: 26%; height: 55px;"></td>
