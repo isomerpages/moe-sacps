@@ -65,7 +65,7 @@ vanessa_zh_tan@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mrs Perpetua Ho (HOD)
 ng_bei_shen_perpetua@schools.gov.sg</td>
-<td style="width: 26.8977%; height: 55px;">Ms Joey Low (SH)
+<td style="width: 26.8977%; height: 55px;">Ms Joey Low (LH)
 low_siying_joey@schools.gov.sg</td>
 <td style="width: 28%; height: 55px;"></td>
 </tr>
