@@ -94,7 +94,7 @@ tan_kime_mui_grace@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mdm Huang Shansi (HOD)
 huang_shansi@schools.gov.sg</td>
-<td style="height: 55px; width: 26.8977%;">Ms Nur Atiqah (SH - ML &amp; TL)
+<td style="height: 55px; width: 26.8977%;">Mdm Nur Atiqah (SH - ML &amp; TL)
 nur_atiqah_rohaizad@moe.edu.sg</td>
 <td style="height: 55px; width: 28%;"></td>
 </tr>
