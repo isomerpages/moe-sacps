@@ -47,20 +47,20 @@ siti_noorhannizah@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42.7778px; text-align: center" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Mrs Dawn Tan<br>
-tan_thian_ser@schools.gov.sg</td>
-<td style="width: 31%;" width="31%">Mrs Tan Bee Bee<br>
-tan_bee_bee@schools.gov.sg</td>
+<td style="width: 32.665%; height: 55px;">Ms Joey Low
+low_siying_joey@schools.gov.sg
+</td>
+<td style="width: 31%; height: 55px;">Mrs Peters<br>xiujing_peters@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
-<td style="width: 32.665%; height: 55px;">Ms Joey Low
-low_siying_joey@schools.gov.sg
+<td style="width: 32.665%; height: 55px;">Mrs Catherine Lim
+catherine_lim@schools.gov.sg
 </td>
-<td style="width: 31%; height: 55px;">Mrs Peters<br>xiujing_peters@schools.gov.sg</td>
+<td style="width: 31%; height: 55px;">Mrs Alice Choo<br>long_alice@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
