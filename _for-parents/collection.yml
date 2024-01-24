@@ -1,0 +1,8 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Useful Links.md
+      - Useful Videos.md
+      - MOE FAS.md
+      - Student Insurance.md

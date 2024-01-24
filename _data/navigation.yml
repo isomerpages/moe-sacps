@@ -1,0 +1,14 @@
+logo: /images/schoolnamelogoforwebv2.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Departments
+    collection: departments
+  - title: Communities
+    collection: communities
+  - title: For Parents
+    collection: for-parents
+  - title: School Services
+    collection: school-services
+  - title: Contact Us
+    collection: contact-us

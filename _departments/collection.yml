@@ -1,0 +1,14 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Chinese Language Department.md
+      - Malay Department.md
+      - Tamil Department.md
+      - Education Technology Department.md
+      - PE, Aesthetics and CCA Department.md
+      - Character and Citizenship Education.md
+      - Student Management Department.md
