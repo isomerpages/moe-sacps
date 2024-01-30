@@ -2,6 +2,7 @@
 title: Financial & Non Financial Information
 permalink: /our-school/financial-information/
 description: ""
+variant: markdown
 ---
 ![](/images/UsefulVideos.jpg)
 
@@ -94,7 +95,7 @@ Mr Fan Yue Soon Charles (Member)
   </tr>
   <tr>
     <td class="tg-1ppo"> </td>
-    <td class="tg-tsok">Principal: Mrs Chin Lai Yoke<br>Vice-Principal: Mrs Irene Goh<br>Vice-Principal: Ms Felicia Lee Xingyun</td>
+    <td class="tg-tsok">Principal: Mrs Chin Lai Yoke<br>Vice-Principal: Ms Felicia Lee<br>Vice-Principal: Ms Sharon Thia</td>
   </tr>
   <tr>
     <td class="tg-xyrl">9</td>
