@@ -19,7 +19,7 @@ deprivation in the most desolating form. She was only five years old when
 her father met with sudden death. A little after, her mother left her to
 enter into a second marriage.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="2" src="/images/magdalene1.jpg">
+<img style="width: 40%;" height="auto" width="2" src="/images/magdalene1.jpg">
 </div>
 <p>At 17, she attempted an experience of cloistered life with the Carmelites
 but there she understood that life was not for her. She returned to her
