@@ -76,7 +76,6 @@ was in command. Even as health passed and physical health failed, her spirit
 grew brighter and stronger. Prayer was spent in the company of One “who
 had waited so long for me”. A characteristic topic of her meditation was
 “Jesus: to know Him better, so as to love Him more and more”.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita5.gif">
 </div>
