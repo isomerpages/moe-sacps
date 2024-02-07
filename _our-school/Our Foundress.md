@@ -71,7 +71,6 @@ the ignorant people. Twenty years after her death, her work began to spread
 out to the rest of the world. On 7 December 1941, Magdalene’s holiness
 was recognized by the Church and she was beatified. On 2 October 1988,
 Magdalene was proclaimed a Saint.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/magdalene8.png">
 </div>
