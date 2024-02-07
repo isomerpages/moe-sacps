@@ -18,7 +18,7 @@ and millet stalk-thatched, but happy and loving, with parents, three brothers
 and four sisters, one of whom was Bakhita’s own twin.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita1.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita1.gif">
 </div>
 <p>All was lost to her when the slave trades kidnapped her when she was but
 seven years old. Stripped of the most fundamental human right – personal
@@ -32,7 +32,7 @@ knew a certain sense of hope … in what or whom she could not say … then.
 But somewhere, she knew not how then, she found the strength to live each
 fearful, miserable, terror-filled day with courage.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita2.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita2.gif">
 </div>
 <p>Not even slavery, however, could destroy her natural sensitivity and gentleness,
 that quality of heart that knows compassion. In the midst of her own pain
@@ -50,7 +50,7 @@ offering a drink to a sister in community or a bowl of hot soup to the
 poor, watching over kindergarten children or tending the wounded during
 the war, every action was done with love, serenity and gentleness.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita3.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita3.gif">
 </div>
 <p></p>
 <p>This trait she carried with her even when her path led her out of Africa
@@ -63,9 +63,8 @@ wound, each traumatic memory, stepping stones in the path that led to God
 – hidden blessings every one. Hers was the gift of a “purified memory”,
 transformed and transfigured, experienced as a blessing.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita4.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita4.gif">
 </div>
 <p>This is why she was able to forgive her kidnappers and those who tortured
 her, why she bore no resentment towards them, and prayed with great passion
@@ -79,7 +78,7 @@ had waited so long for me”. A characteristic topic of her meditation was
 “Jesus: to know Him better, so as to love Him more and more”.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita5.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita5.gif">
 </div>
 <p>At the Canossian Convent in Schio, she was engaged in simple tasks in
 the kitchen, the needlework classroom, sacristy and as portress at the
@@ -93,7 +92,7 @@ to generation, have followed Christ through trial and tribulation, and
 who now take their place in the Kingdom of God.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita6.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita6.gif">
 </div>
 <p>Awakening to the knowledge and love of God, her “Master” above all masters
 and her response in faith, love and gratitude, Bakhita left this world
@@ -101,6 +100,6 @@ on 8 February 1947. She was declared “Blessed” on 17 May 1992, and proclaime
 a “Saint” on 1 October 2000 in Rome.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bakhita7.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/bakhita7.gif">
 </div>
 <p></p>
