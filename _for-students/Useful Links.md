@@ -5,4 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>Useful Links</h4>
-<p>* [Student Learning Space](<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+</ul>
+<p></p>
