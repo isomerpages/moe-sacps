@@ -7,12 +7,13 @@ variant: markdown
 #### School Canteen Advertisement 
   
 <table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
-<tr><td>Chinese Mixed Rice Stall</td><td>31 January 2024</td><td>Only Chinese Rice</td></tr>  
+<tr><td>Chinese Mixed Rice Stall</td><td>15 March 2024</td><td>Only Chinese rice</td></tr>  
+<tr><td>Halal Cuisine (Noodle/Rice)</td><td>15 March 2024</td><td>Halal noodle or rice</td></tr>  
 </tbody></table>
 
 ##### Application Procedure<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Application Form](/files/Attachments/form%20bf7%20-%20application%20for%20canteen%20stall%20in%20existing%20school%20(%20chinese%20mixed%20rice%20).pdf)
+[Application Form](/files/Attachments/FormBF7___Application_for_Canteen_Stall__SACPS_.pdf)<br>
 2. Attach the following documents together with the application form:
 - Photocopy of the NRIC (front and back) <br>
 - List of proposed menu and pricing for all items <br>
