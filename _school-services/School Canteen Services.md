@@ -7,7 +7,8 @@ variant: markdown
 #### School Canteen Advertisement 
   
 <table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
-<tr><td>Chinese Mixed Rice Stall</td><td>31 January 2024</td><td>Only Chinese Rice</td></tr>  
+<tr><td>Chinese Mixed Rice Stall</td><td>15 March 2024</td><td>Only Chinese Rice</td></tr>  
+<tr><td>Chinese Mixed Rice Stall</td><td>15 March 2024</td><td>Only Chinese Rice</td></tr>  
 </tbody></table>
 
 ##### Application Procedure<br>
