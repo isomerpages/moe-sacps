@@ -14,5 +14,9 @@ description: ""
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON (Google Classroom)</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.tinklefriend.sg/" rel="noopener noreferrer nofollow" target="_blank">Tinkle Friend</a>
+</p>
+</li>
 </ul>
 <p></p>
