@@ -10,9 +10,6 @@ Education Technology Department
 ==============================
 
 
-<b>Education Technology Department</b>
-
-
 
 ICT in classrooms is essential as it better prepares our current generation of students for a workplace where ICTs are becoming more ubiquitous. Therefore, in SACPS, we integrate ICT in the curriculum, focusing on learning about, with and through technology. Through this, we hope to increase our students’ motivation and engagement level and facilitate their acquisition of basic ICT skills, hence enhancing the quality of their learning. Appropriate ICT activities have been planned within each subject to promote the shift to a learner-centered environment that will empower our students for lifelong learning.
 
