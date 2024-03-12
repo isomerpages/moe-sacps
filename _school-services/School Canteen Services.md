@@ -4,6 +4,7 @@ permalink: /school-services/schoolcanteenservices/
 description: ""
 variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_23.jpg)
 #### School Canteen Advertisement 
   
 <table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
