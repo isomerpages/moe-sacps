@@ -2,9 +2,9 @@
 title: English Language Department
 permalink: /departments/English-Language-Department/
 description: ""
+variant: markdown
 ---
-![](/images/Departments.jpg)
-
+![](/images/Web_banners/webbanner2024_17.jpg)
 English Language Department
 ===========================
 **Objectives**
