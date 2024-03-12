@@ -2,8 +2,9 @@
 title: Contact Us
 permalink: /contact-us/Contact-Us/
 description: ""
+variant: markdown
 ---
-![](/images/banner-contactus.jpg)
+![](/images/Web_banners/webbanner2024_10.jpg)
 
 
 Contact Us
