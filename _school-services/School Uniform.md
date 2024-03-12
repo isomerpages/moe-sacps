@@ -2,7 +2,9 @@
 title: School Uniform
 permalink: /our-school/school-services/schooluniform/
 description: ""
+variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_23.jpg)
 # School Uniform and PE Attire
 School Uniform and PE Attire are sold at the school bookshop. Your daughter can purchase the items directly from the school bookshop during term time.<br>
 **Bookshop Operating Hours**<br>
