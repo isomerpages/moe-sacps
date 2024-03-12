@@ -2,8 +2,9 @@
 title: Tamil Department
 permalink: /departments/Tamil-Department/
 description: ""
+variant: markdown
 ---
-![](/images/Departments.jpg)
+![](/images/Web_banners/webbanner2024_24.jpg)
 
 Tamil Department
 ================
