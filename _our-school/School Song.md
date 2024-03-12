@@ -2,8 +2,9 @@
 title: School Song
 permalink: /our-school/School-Song/
 description: ""
+variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
+![](/images/Web_banners/webbanner2024_18.jpg)
 
 School Song
 ===========
@@ -14,7 +15,7 @@ At work and play, life’s lessons we learn
 Our youthful hearts are filled with ardour  
 For truth and wisdom we yearn
 
-<b>Chorus:</b>   
+<b>Chorus:</b>&nbsp;  
 Courageously with heads held high  
 We march ever on through life  
 Schooled in your spirit Canossa  
