@@ -2,8 +2,9 @@
 title: History
 permalink: /our-school/History/
 description: ""
+variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
+![](/images/Web_banners/webbanner2024_2.jpg)
 
 History
 =======
