@@ -4,8 +4,9 @@ permalink: /our-school/Our-Universal-Sister/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UsefulVideos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banners/webbanner2024_2.jpg">
 </div>
 <h1>Our Universal Sister</h1>
 <p><strong>St Josephine Bakhita, Our Universal Sister</strong>
