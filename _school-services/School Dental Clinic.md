@@ -2,7 +2,9 @@
 title: School Dental Clinic
 permalink: /our-school/school-services/schooldentalclinic/
 description: ""
+variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_23.jpg)
 ### **School Dental Clinic**
 
 Contact number for appointments *(call or WhatsApp)* : 9111 0760 *(operating hours only)*<br>
