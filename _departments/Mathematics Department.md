@@ -2,8 +2,9 @@
 title: Mathematics Department
 permalink: /departments/Mathematics-Department/
 description: ""
+variant: markdown
 ---
-![](/images/Departments.jpg)
+![](/images/Web_banners/webbanner2024_18.jpg)
 
 Mathematics Department
 ======================
