@@ -5,13 +5,9 @@ description: ""
 variant: markdown
 ---
 ![](/images/Web_banners/webbanner2024_24.jpg)
-
 Tamil Department
 ================
-
-
 ### Aim
-
 
 *   To instill love and appreciation for the Tamil language, arts and culture.
 *   To create a platform for students of different races to develop a greater understanding and appreciation of the Indian community in Singapore.
