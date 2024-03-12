@@ -2,8 +2,9 @@
 title: Communities
 permalink: /communities/Communities/
 description: ""
+variant: markdown
 ---
-![](/images/COmmunities.jpg)
+![](/images/Web_banners/webbanner2024_23.jpg)
 
 
 Communities
