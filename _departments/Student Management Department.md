@@ -4,7 +4,7 @@ permalink: /departments/Student-Management-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Departments.jpg)
+![](/images/Web_banners/webbanner2024_26.jpg)
 
 Student Management Department
 =============================
