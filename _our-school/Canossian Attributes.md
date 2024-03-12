@@ -2,8 +2,10 @@
 title: Canossian Attributes
 permalink: /our-school/canossian-attributes/
 description: ""
+variant: markdown
 ---
-<strong>Confidence</strong>
+
+![](/images/Web_banners/webbanner2024_24.jpg)<strong>Confidence</strong>
 in taking the lead, asking questions, and embracing uncertainty with <em>Humility</em>
 
 <strong>Curiosity</strong>
