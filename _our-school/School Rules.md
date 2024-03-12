@@ -2,9 +2,9 @@
 title: School Rules
 permalink: /our-school/School-Rules/
 description: ""
+variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
-
+![](/images/Web_banners/webbanner2024_16.jpg)
 School Rules
 ============
 
@@ -14,15 +14,15 @@ Our school rules describe how a pupil of St Anthony’s Canossian Primary behave
 ### Respect for self
 
 
-<b>1.  Dress code</b>
+<b>1.&nbsp; Dress code</b>
 
-(1.1) Pupils are to wear the prescribed school uniform.   Modification to the uniform is not allowed.
+(1.1) Pupils are to wear the prescribed school uniform. &nbsp; Modification to the uniform is not allowed.
 
 (1.2) Pupils are expected to be attired in white canvas shoes with white socks covering the ankle.
 
-(1.3) Pupils are to wear their house T-shirt on PE days.  Attire must be neatly tucked in.
+(1.3) Pupils are to wear their house T-shirt on PE days. &nbsp;Attire must be neatly tucked in.
 
-(1.4) Pupils should be neat and tidy at all times. Hair accessories must be plain and simple and restricted to blue, black or white only.
+(1.4) Pupils should be neat and tidy at all times. Hair accessories must be plain and&nbsp;simple and restricted to blue, black or white only.
 
 (1.5) Pupils are to ensure that their hair should not be coloured and fringe should be above eyebrows.
 
@@ -34,9 +34,9 @@ Our school rules describe how a pupil of St Anthony’s Canossian Primary behave
 
 (2.1) Pupils are to ensure that only one small ear stud is allowed on each ear.
 
-(2.2) Pupils are not allowed to put on fanciful, brightly coloured dangling earrings.
+(2.2) Pupils are not allowed to put on fanciful, brightly coloured dangling&nbsp;earrings.
 
-<b>3\. Daily work, homework and assignment</b> 
+<b>3\. Daily work, homework and assignment</b>&nbsp;
 
 (3.1) Pupils are to take pride in their work.
 
@@ -48,9 +48,9 @@ Our school rules describe how a pupil of St Anthony’s Canossian Primary behave
 
 <b>5\. Punctuality</b>
 
-(5.1) Pupils must be in the assembly area by 7.25 a.m. (5.2) Pupils must be punctual for all lessons. CCA and other school programmes. 6. Attendance (6.1) Pupils must attend school regularly. (6.2) Pupils must present a valid medical certificate or valid document when absent from school.
+(5.1) Pupils must be in the assembly area by 7.25 a.m. (5.2) Pupils must be punctual for all lessons. CCA and other school programmes. 6.&nbsp;Attendance (6.1) Pupils must attend school regularly. (6.2) Pupils must present a valid medical certificate or valid document when absent from school.
 
-<b>7. Integrity</b>
+<b>7.&nbsp;Integrity</b>
 
 (7.1) Cheating in examinations is a serious offence. Pupils must be honest at all times. Pupils must not cheat in daily work, examinations or tests.
 
@@ -78,6 +78,6 @@ Respect for teachers, other adults and fellow schoolmates
 
 (10.2) Pupils must be respectful in their observations of flag-rising, flag-lowering and other school ceremonies.
 
-(10.3) Pupils will take the Pledge with the right fist over the heart.
+(10.3)&nbsp;Pupils will take the Pledge with the right fist over the heart.
 
-(10.4) Pupils must be in respectful at prayer time.
+(10.4)&nbsp;Pupils must be in respectful at prayer time.
