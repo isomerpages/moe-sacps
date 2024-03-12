@@ -2,7 +2,10 @@
 title: MOE FAS
 permalink: /for-parents/moe-fas/
 description: ""
+variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_12.jpg)
+
 **MOE Financial Assistance Scheme (FAS)**
 -----------------------------------------
 #### Note: For more information on the MOE FAS, please [click here](https://www.moe.gov.sg/financial-matters/financial-assistance).
