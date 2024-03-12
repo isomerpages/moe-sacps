@@ -4,6 +4,10 @@ permalink: /for-students/permalink/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banners/webbanner2024_8.jpg">
+</div>
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
