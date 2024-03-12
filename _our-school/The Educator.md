@@ -2,9 +2,9 @@
 title: The Educator
 permalink: /our-school/The-Educator/
 description: ""
+variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
-
+![](/images/Web_banners/webbanner2024_3.jpg)
 The Educator
 ============
 
