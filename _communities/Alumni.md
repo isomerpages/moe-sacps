@@ -4,7 +4,7 @@ permalink: /communities/Alumni/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_23.jpg)
+![](/images/Web_banners/webbanner2024_7.jpg)
 
 **Alumni**
 ==========
