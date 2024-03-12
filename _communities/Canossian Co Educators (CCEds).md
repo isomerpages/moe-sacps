@@ -4,8 +4,8 @@ permalink: /communities/Canossian-Co-Educators-CCEds/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_23.jpg)
 
+![](/images/Web_banners/webbanner2024_5.jpg)
 Canossian Co-Educators (CCEds)
 ==============================
 
