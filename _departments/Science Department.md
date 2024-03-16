@@ -2,9 +2,9 @@
 title: Science Department
 permalink: /departments/Science-Department/
 description: ""
+variant: markdown
 ---
-![](/images/Departments.jpg)
-
+![](/images/Web_banners/webbanner2024_19.jpg)
 Science Department
 ==================
 

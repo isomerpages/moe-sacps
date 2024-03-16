@@ -2,9 +2,9 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
-![](/images/banner-announcements.jpg)
+![](/images/Web_banners/webbanner2024_17.jpg)
 
 Announcements
 =============
-

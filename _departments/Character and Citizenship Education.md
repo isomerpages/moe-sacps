@@ -4,7 +4,8 @@ permalink: /departments/Character-and-Citizenship-Education/
 description: ""
 variant: markdown
 ---
-The Character and Citizenship Education Department aims to provide our students with multiple opportunities to develop and acquire values, knowledge and skills through varied classroom lessons and school experiences. Various platforms are used to create authentic learning experiences so that students will be able to put their learning into action for the internalisation of skills and values.
+
+![](/images/Web_banners/webbanner2024_25.jpg)The Character and Citizenship Education Department aims to provide our students with multiple opportunities to develop and acquire values, knowledge and skills through varied classroom lessons and school experiences. Various platforms are used to create authentic learning experiences so that students will be able to put their learning into action for the internalisation of skills and values.
 
 **CCE Platforms**
 
@@ -260,4 +261,3 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 · &nbsp; &nbsp; &nbsp; [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 
 · &nbsp; &nbsp; &nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
-

@@ -4,7 +4,7 @@ permalink: /our-school/financial-information/
 description: ""
 variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
+![](/images/Web_banners/webbanner2024_4.jpg)
 
 Financial &amp; Non-Financial Information
 =====================================

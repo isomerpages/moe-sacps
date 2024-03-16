@@ -2,9 +2,9 @@
 title: Malay Department
 permalink: /departments/Malay-Department/
 description: ""
+variant: markdown
 ---
-![](/images/Departments.jpg)
-
+![](/images/Web_banners/webbanner2024_22.jpg)
 Malay Department
 ================
 

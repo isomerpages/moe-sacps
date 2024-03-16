@@ -2,9 +2,10 @@
 title: Canossian Co Educators (CCEds)
 permalink: /communities/Canossian-Co-Educators-CCEds/
 description: ""
+variant: markdown
 ---
-![](/images/COmmunities.jpg)
 
+![](/images/Web_banners/webbanner2024_5.jpg)
 Canossian Co-Educators (CCEds)
 ==============================
 

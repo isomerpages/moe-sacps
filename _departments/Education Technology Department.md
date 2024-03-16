@@ -4,14 +4,10 @@ permalink: /departments/education-technology-department/
 description: ""
 variant: markdown
 ---
-![](/images/Departments.jpg)
-
+![](/images/Web_banners/webbanner2024_12.jpg)
 
 Education Technology Department
 ==============================
-
-
-<b>Education Technology Department</b>
 
 
 

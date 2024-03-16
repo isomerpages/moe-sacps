@@ -2,7 +2,10 @@
 title: School Bookshop
 permalink: /our-school/school-services/schoolbookshop/
 description: ""
+variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_23.jpg)
+
 ### **School Bookshop**
 
 **Headquarters:** <br>                                                                       Pacific Bookstores Pte Ltd <br>

@@ -2,11 +2,11 @@
 title: Vision, Mission & Core Values
 permalink: /our-school/Mission-Vision-CoreValues/
 description: ""
+variant: markdown
 ---
+![](/images/Web_banners/webbanner2024_16.jpg)
 
-![](/images/UsefulVideos.jpg)
-
-Vision, Mission & Core Values
+Vision, Mission &amp; Core Values
 ================
 
 <strong><em>Vision Statement</em></strong>
