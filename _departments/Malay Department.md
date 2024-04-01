@@ -4,8 +4,8 @@ permalink: /departments/Malay-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_22.jpg)
-Malay Department
+
+![](/images/Banners/banner_dept__5_.jpg)Malay Department
 ================
 
 <b>Aim</b>
