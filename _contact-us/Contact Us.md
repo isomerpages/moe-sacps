@@ -4,9 +4,7 @@ permalink: /contact-us/Contact-Us/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_11.jpg)
-
-
+![](/images/Banners/banner_contact.jpg)
 Contact Us
 ==========
 
