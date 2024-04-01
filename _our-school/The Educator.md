@@ -4,7 +4,7 @@ permalink: /our-school/The-Educator/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_3.jpg)
+![](/images/Banners/banner_ourschool__4_.jpg)
 The Educator
 ============
 
