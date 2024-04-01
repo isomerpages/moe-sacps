@@ -4,7 +4,7 @@ permalink: /departments/Chinese-Language-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_20.jpg)
+![](/images/Banners/banner_dept__10_.jpg)
 Chinese Language Department
 ===========================
 
