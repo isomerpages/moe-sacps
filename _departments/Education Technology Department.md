@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 
-![](/images/Banners/banner_dept__3_.jpg)Education Technology Department
+![](/images/Banners/banner_dept__7_.jpg)Education Technology Department
 ==============================
 
 
