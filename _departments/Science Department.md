@@ -4,8 +4,8 @@ permalink: /departments/Science-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_19.jpg)
-Science Department
+
+![](/images/Banners/banner_dept__9_.jpg)Science Department
 ==================
 
 The Science departmental programmes have been designed to develop students with a strong fundamental in scientific knowledge, practices and values. Opportunities are provided where students can physically explore, investigate and discover knowledge. With the development of positive attitudes such as curiosity, confidence, perseverance and a concern for living things, students will be able to effectively integrate and link new concepts to their prior experiences.
