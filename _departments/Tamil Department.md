@@ -4,8 +4,8 @@ permalink: /departments/Tamil-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_24.jpg)
-Tamil Department
+
+![](/images/Banners/banner_dept__10_.jpg)Tamil Department
 ================
 ### Aim
 
