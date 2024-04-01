@@ -4,8 +4,9 @@ permalink: /our-school/Our-Foundress/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banners/webbanner2024_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__7_.jpg">
 </div>
 <h1>Our Foundress</h1>
 <p><strong>St Magdalene of Canossa, Our Foundress Life of The Foundress</strong>&nbsp;</p>
