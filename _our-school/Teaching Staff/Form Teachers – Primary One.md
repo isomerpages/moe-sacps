@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Teaching Staff
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_12.jpg)
-
+![](/images/Banners/banner_ourschool__5_.jpg)
 Form Teachers – Primary One
 ===========================
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 90%; height: 620px;" border="1" width="100%">
