@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 
-![](/images/Web_banners/webbanner2024_26.jpg)**Alumni**
+![](/images/Banners/banner_comm__1_.jpg)**Alumni**
 ==========
 
 https://www.canossianalumni.com
