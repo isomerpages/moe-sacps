@@ -4,9 +4,8 @@ permalink: /for-parents/Useful-Links/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_8.jpg)
 
-Useful Links
+![](/images/Banners/banner_forparents__2_.jpg)Useful Links
 ============
 
 
