@@ -4,7 +4,7 @@ permalink: /communities/Communities/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_7.jpg)
+![](/images/Banners/banner_comm__3_.jpg)
 Communities
 ===========
 
