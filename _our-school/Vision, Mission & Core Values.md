@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__1_.jpg)
-
 Vision, Mission &amp; Core Values
 ================
 
