@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 
-![](/images/Web_banners/webbanner2024_25.jpg)School Badge
+![](/images/Banners/banner_ourschool__8_.jpg)School Badge
 ============
 
 Our school badge is meant for all Canossian Schools. On a dark-blue background there shines a four-pointed star with rays cast on to a book symbolizing the Star of wisdom radiating on Knowledge.
