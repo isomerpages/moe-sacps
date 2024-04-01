@@ -4,8 +4,7 @@ permalink: /our-school/School-Song/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_18.jpg)
-
+![](/images/Banners/banner_ourschool__13_.jpg)
 School Song
 ===========
 
