@@ -4,7 +4,7 @@ permalink: /our-school/school-services/studentcarecentre/
 description: ""
 variant: markdown
 ---
-![](/images/Banners/banner_schoolservices__3_.jpg)
+![](/images/Banners/banner_schoolservices__5_.jpg)
 ### **School-based Student Care Centre @ SACPS**
 <b>YMCA</b><br>
 Staff-in-charge: Miss Vida  
