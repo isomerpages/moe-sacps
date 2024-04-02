@@ -2,9 +2,9 @@
 title: Non Teaching Staff
 permalink: /our-school/Non-Teaching-Staff/
 description: ""
+variant: markdown
 ---
-![](/images/UsefulVideos.jpg)
-
+![](/images/Banners/banner_ourschool__11_.jpg)
 Non-Teaching Staff
 ==================
 
