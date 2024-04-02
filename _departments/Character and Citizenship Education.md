@@ -4,8 +4,8 @@ permalink: /departments/Character-and-Citizenship-Education/
 description: ""
 variant: markdown
 ---
-
-![](/images/Web_banners/webbanner2024_25.jpg)The Character and Citizenship Education Department aims to provide our students with multiple opportunities to develop and acquire values, knowledge and skills through varied classroom lessons and school experiences. Various platforms are used to create authentic learning experiences so that students will be able to put their learning into action for the internalisation of skills and values.
+![](/images/Banners/banner_dept__6_.jpg)
+The Character and Citizenship Education Department aims to provide our students with multiple opportunities to develop and acquire values, knowledge and skills through varied classroom lessons and school experiences. Various platforms are used to create authentic learning experiences so that students will be able to put their learning into action for the internalisation of skills and values.
 
 **CCE Platforms**
 

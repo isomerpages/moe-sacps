@@ -4,7 +4,7 @@ permalink: /for-parents/Useful-Videos/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_12.jpg)
+![](/images/Banners/banner_forparents__1_.jpg)
 
 
 Useful Videos

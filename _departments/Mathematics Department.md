@@ -4,9 +4,8 @@ permalink: /departments/Mathematics-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_18.jpg)
 
-Mathematics Department
+![](/images/Banners/banner_dept__4_.jpg)Mathematics Department
 ======================
 
 <b>Objectives</b>

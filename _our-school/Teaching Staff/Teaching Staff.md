@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Teaching Staff
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_12.jpg)
 
-Teaching Staff
+![](/images/Banners/banner_ourschool__5_.jpg)Teaching Staff
 ==============
 
 

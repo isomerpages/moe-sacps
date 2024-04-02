@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Teaching Staff
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_12.jpg)
-
+![](/images/Banners/banner_ourschool__5_.jpg)
 Teaching Staff – PE, Art and PA Teachers
 ========================================
 <table style="text-align: center; font-size: 12px; border-collapse: collapse;" border="1" width="100%">

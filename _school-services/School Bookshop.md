@@ -4,7 +4,7 @@ permalink: /our-school/school-services/schoolbookshop/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_23.jpg)
+![](/images/Banners/banner_schoolservices__6_.jpg)
 
 ### **School Bookshop**
 

@@ -4,7 +4,7 @@ permalink: /our-school/School-Rules/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_16.jpg)
+![](/images/Banners/banner_ourschool__3_.jpg)
 School Rules
 ============
 

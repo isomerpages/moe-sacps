@@ -4,8 +4,7 @@ permalink: /departments/English-Language-Department/
 description: ""
 variant: markdown
 ---
-![](/images/Web_banners/webbanner2024_17.jpg)
-English Language Department
+![](/images/Banners/banner_dept__2_.jpg)English Language Department
 ===========================
 **Objectives**
 

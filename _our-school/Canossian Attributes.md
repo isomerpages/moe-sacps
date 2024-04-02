@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 
-![](/images/Web_banners/webbanner2024_24.jpg)<strong>Confidence</strong>
+![](/images/Banners/banner_ourschool__10_.jpg)
+<strong>Confidence</strong>
 in taking the lead, asking questions, and embracing uncertainty with <em>Humility</em>
 
 <strong>Curiosity</strong>
