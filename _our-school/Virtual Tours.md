@@ -4,7 +4,7 @@ permalink: /our-school/Virtual-Tours/
 description: ""
 variant: markdown
 ---
-![](/images/UsefulVideos.jpg)![](/images/Web_banners/webbanner2024_19.jpg)
+![](/images/Banners/banner_ourschool__6_.jpg)
 
 Virtual Tours
 =============
