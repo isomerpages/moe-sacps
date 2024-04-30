@@ -2,9 +2,23 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_spare_7.jpg)
-
-Announcements
-=============
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_spare_7.jpg">
+</div>
+<h1>Announcements</h1>
+<h3>SACPS Experience - Open House 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sacpsopenhouse2024.jpg">
+</div>
+<p>Join us at our Open House on June 26 at 2:30 p.m. to learn more about
+the SACPS Experience!</p>
+<p>SACPS is dedicated to providing a holistic Canossian education that nurtures
+every child's confidence, curiosity, commitment, compassion, and cheerfulness.
+We believe in empowering young minds and forming hearts that will make
+a positive impact in the world.</p>
+<p>Come and see what we have to offer!</p>
+<p>Scan the QR code to register or use this link https://form.gov.sg/6627289b8a43cfae60099153</p>
+<p>We hope to see you!</p>
