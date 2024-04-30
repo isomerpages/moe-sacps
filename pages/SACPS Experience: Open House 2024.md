@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sacpsexp2024bannerv2.jpg">
-</div>
-<p></p>
 <p>Join us at our Open House on June 26 at 2:30 p.m. to learn more about
 the SACPS Experience!</p>
 <p>SACPS is dedicated to providing a holistic Canossian education that nurtures
