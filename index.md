@@ -19,6 +19,6 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      url: https://form.gov.sg/6627289b8a43cfae60099153
+      url: https://stanthonyscanossianpri.moe.edu.sg/sacps-experience-open-house-2024/
       button: Click Here
 ---
