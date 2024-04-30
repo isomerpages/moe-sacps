@@ -16,7 +16,8 @@ a positive impact in the world.</p>
 </p>
 <p>We hope to see you!</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sacpsopenhouse2024.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sacps_exp2024_bannerFINAL.jpg">
 </div>
 <p></p>
