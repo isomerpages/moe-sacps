@@ -8,7 +8,7 @@ notification: The SACPS Experience - Open House 2024 🏫 Click the button below
   to find out more!
 sections:
   - hero:
-      background: /images/slide1.PNG
+      background: /images/sacpsexp2024bannerv2.jpg
       key_highlights:
         - title: Announcements
           description: ""
