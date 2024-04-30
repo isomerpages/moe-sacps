@@ -4,10 +4,6 @@ permalink: /sacps-experience-open-house-2024/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sacpsopenhouse2024.jpg">
-</div>
 <p>Join us at our Open House on June 26 at 2:30 p.m. to learn more about
 the SACPS Experience!</p>
 <p>SACPS is dedicated to providing a holistic Canossian education that nurtures
@@ -18,3 +14,8 @@ a positive impact in the world.</p>
 <p>Scan the QR code to register or use this link <a href="https://form.gov.sg/6627289b8a43cfae60099153" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6627289b8a43cfae60099153</a>
 </p>
 <p>We hope to see you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sacpsopenhouse2024.jpg">
+</div>
+<p></p>
