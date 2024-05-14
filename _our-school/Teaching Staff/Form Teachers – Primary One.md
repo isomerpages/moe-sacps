@@ -6,8 +6,7 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-Form Teachers – Primary One
-===========================
+## Form Teachers – Primary One
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 90%; height: 620px;" border="1" width="100%">
 <tbody>
 <tr style="height: 42px;">
