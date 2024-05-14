@@ -6,8 +6,7 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-School Executive Committee
-==========================
+## School Executive Committee
 
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 165px;" border="1">
 <tbody>
