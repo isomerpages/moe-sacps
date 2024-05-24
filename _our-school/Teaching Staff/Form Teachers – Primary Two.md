@@ -15,7 +15,7 @@ variant: markdown
 </tr>
 <tr style="height: 9px;">
 <td style="width: 32.665%; height: 9px;">Mrs Rowena Yap <br>rowena_lau_chor_jgyin@schools.gov.sg</td>
-<td style="width: 31.335%; height: 9px;">
+<td style="width: 31.335%; height: 9px;">Mrs Tan Bee Bee
 </td>
 <td style="width: 26%; height: 9px;"></td>
 </tr>
