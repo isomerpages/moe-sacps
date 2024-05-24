@@ -33,7 +33,7 @@ ng_bei_shen_perpetua@schools.gov.sg
 <td style="width: 20.8966%; height: 26px;" width="32%">Ms Veron Yap
 yap_puei_fong@schools.gov.sg
 </td>
-	<td style="width: 20.8966%; height: 26px;" width="32%">Ms Ho Hui Ting
+	<td style="width: 20.8966%; height: 26px;" width="32%">
 </td>
 
 </tr>
