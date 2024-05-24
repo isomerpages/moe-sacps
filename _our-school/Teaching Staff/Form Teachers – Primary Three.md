@@ -32,7 +32,6 @@ beins_chantel_elena-marie@schools.gov.sg
 </td>
 <td style="width: 31.335%; height: 60px;">Ms Cai Meifang<br>
 cai_meifang@schools.gov.sg</td>
-	<td style="width: 31.335%; height: 60px;">Mrs Pauline Cheong</td>
 <td style="width: 25.1121%; height: 60px;"></td>
 </tr>
 <tr style="height: 42px;">
