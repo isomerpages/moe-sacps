@@ -20,7 +20,6 @@ woo_shu_xian_victoria@schools.gov.sg
 <td style="width: 31.335%; height: 26px;">Mdm Huang Shansi<br>
 huang_shansi@schools.gov.sg
 </td>
-<td style="width: 25.1121%; height: 26px;">Ms Teh Soo Chin<br>teh_soo_chin@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
