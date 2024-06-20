@@ -52,11 +52,8 @@ honey_hui@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Steadfast</strong></td>
 </tr>
 <tr style="height: 55px;" valign="top">
-<td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Hawalia
+<td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Hawalia<br>
 siti_hawalia_abdullah@schools.gov.sg
-</td>
-<td style="width: 14.0542%; height: 55px; text-align: center;">Mrs Michelle Lim<br>
-goh_joo_ping_michelle@schools.gov.sg
 </td>
 <td style="width: 14.0542%; height: 55px; text-align: center;">Ms Norazlin<br>
 norazlin_abu_bakar@schools.gov.sg
