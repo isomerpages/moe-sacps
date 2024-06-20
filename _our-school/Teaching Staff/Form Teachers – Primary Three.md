@@ -6,8 +6,7 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-Form Teachers – Primary Three
-=============================
+## Form Teachers – Primary Three
 &nbsp;
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 544px;" border="1" width="100%">
 <tbody>
@@ -32,7 +31,7 @@ beins_chantel_elena-marie@schools.gov.sg
 </td>
 <td style="width: 31.335%; height: 60px;">Ms Cai Meifang<br>
 cai_meifang@schools.gov.sg</td>
-	<td style="width: 31.335%; height: 60px;">Mrs Pauline Cheong</td>
+
 <td style="width: 25.1121%; height: 60px;"></td>
 </tr>
 <tr style="height: 42px;">
@@ -60,9 +59,9 @@ lim_liqing_crystal@schools.gov.sg
 <td style="width: 32.665%; height: 55px;">Ms Vanessa Chin<br>
 chin_elyn_vanessa@schools.gov.sg
 </td>
-<td style="width: 31.335%; height: 55px;">Miss Michelle Peh
+<td style="width: 31.335%; height: 55px;">Miss Michelle Peh<br>peh_tzu_fern_michelle_a@schools.gov.sg
 </td>
-<td style="width: 25.1121%; height: 55px;">Mrs Eliza Han</td>
+<td style="width: 25.1121%; height: 55px;">Mrs Eliza Han<br>eliza_tan_har@schools.gov.sg</td>
 </tr>
 <tr style="height: 42.6667px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>

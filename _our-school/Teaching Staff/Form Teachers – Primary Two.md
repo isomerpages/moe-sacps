@@ -15,8 +15,7 @@ variant: markdown
 </tr>
 <tr style="height: 9px;">
 <td style="width: 32.665%; height: 9px;">Mrs Rowena Yap <br>rowena_lau_chor_jgyin@schools.gov.sg</td>
-<td style="width: 31.335%; height: 9px;">Mrs Tan Bee Bee<br>
-tan_bee_bee@schools.gov.sg
+<td style="width: 31.335%; height: 9px;">Mrs Tan Bee Bee<br>tan_bee_bee@schools.gov.sg
 </td>
 <td style="width: 26%; height: 9px;"></td>
 </tr>
@@ -37,7 +36,7 @@ nur_atiqah_rohaizad@schools.gov.sg
 <td style="width: 32.665%; height: 36px;" width="295">Mdm Caroline Toh
 caroline_toh_hwee_fong@schools.gov.sg
 </td>
-<td style="width: 31.335%; height: 36px;" width="32%">Ms Koh Shu Hui Celina</td>
+<td style="width: 31.335%; height: 36px;" width="32%">Ms Koh Shu Hui Celina<br>koh_shu_hui_celina@schools.gov.sg</td>
 <td style="width: 26%; height: 36px;" width="32%"></td>
 </tr>
 <tr style="height: 42px;">

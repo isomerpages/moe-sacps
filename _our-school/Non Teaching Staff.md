@@ -35,18 +35,18 @@ Non-Teaching Staff
   </tr>
   <tr>
     <td class="tg-h5mn">Corporate Support Officers:</td>
-    <td class="tg-h5mn">Mdm Mashita<br>Mdm Jessie Teo<br>Mdm Siti</td>
+    <td class="tg-h5mn">Mdm Jessie Teo<br>Mdm Siti</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Operations Support Officers:</td>
-    <td class="tg-1ppo">Mdm Ng Sok Chin<br>Mdm Leong Sook Lin<br>Mdm Tan Siew Cheng<br>Mr Rahmat Bin Juma’at<br>Mr Rosli</td>
+    <td class="tg-1ppo">Mdm Leong Sook Lin<br>Mr Rahmat Bin Juma’at<br>Mr Rosli<br>Mdm Jamie Lim</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Desktop Engineers:</td>
     <td class="tg-h5mn">Mr Taylor Chong<br>Mr Azmeen Afandi</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">ICT Associate:</td>
+    <td class="tg-1ppo">ICT Manager:</td>
     <td class="tg-1ppo">Ms Erfa</td>
   </tr>
 </tbody>

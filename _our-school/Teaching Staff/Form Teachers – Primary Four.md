@@ -6,8 +6,7 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-Form Teachers – Primary Four
-============================
+## Form Teachers – Primary Four
 
 <table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 628px;" border="1" width="100%">
 <tbody>
@@ -33,7 +32,7 @@ ng_bei_shen_perpetua@schools.gov.sg
 <td style="width: 20.8966%; height: 26px;" width="32%">Ms Veron Yap
 yap_puei_fong@schools.gov.sg
 </td>
-	<td style="width: 20.8966%; height: 26px;" width="32%">Ms Ho Hui Ting
+	<td style="width: 20.8966%; height: 26px;" width="32%">
 </td>
 
 </tr>
