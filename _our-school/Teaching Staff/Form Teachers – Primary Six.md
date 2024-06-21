@@ -43,7 +43,7 @@ siti_nurbaya_abdul_rahman@schools.gov.sg
 <td style="width: 31.335%; height: 26px;"></td>
 </tr>
 <tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 95.335%; height: 42px; text-align: center" colspan="3">Justice</td>
+<td style="font-size: 16px; background-color: #cccccc; width: 95.335%; height: 42px; text-align: center" colspan="3"><strong>Justice</strong></td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;" width="31%">Mrs Dawn Tan<br>

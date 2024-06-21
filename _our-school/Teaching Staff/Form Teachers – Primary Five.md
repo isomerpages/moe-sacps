@@ -39,6 +39,9 @@ gomez_evelyn@schools.gov.sg
 <td style="width: 31%; height: 55px;">Mdm Siti Noorhannizah<br>
 siti_noorhannizah@schools.gov.sg
 </td>
+<td style="width: 31%; height: 55px;">Ms Tan Yuan Xia<br>
+tan_yuan_xia@schools.gov.sg
+</td>
 <td style="width: 31.335%; height: 55px;"></td>
 </tr>
 <tr style="height: 42.7778px;">

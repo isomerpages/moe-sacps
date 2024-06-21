@@ -15,7 +15,7 @@ variant: markdown
 </tr>
 <tr style="height: 9px;">
 <td style="width: 32.665%; height: 9px;">Mrs Rowena Yap <br>rowena_lau_chor_jgyin@schools.gov.sg</td>
-<td style="width: 31.335%; height: 9px;">Mrs Tan Bee Bee<br>tan_bee_bee@schools.gov.sg
+<td style="width: 31.335%; height: 9px;">Ms Lei Yun<br>lei_yun@schools.gov.sg
 </td>
 <td style="width: 26%; height: 9px;"></td>
 </tr>
@@ -45,8 +45,8 @@ caroline_toh_hwee_fong@schools.gov.sg
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;" width="284">Mrs Ren Hwee Lan<br>
 quek_hwee_lan@schools.gov.sg</td>
-<td style="width: 31.335%; height: 55px;">Mrs Tan Hui Ling<br>
-lee_hui_ling_c@schools.gov.sg
+<td style="width: 31.335%; height: 55px;">Ms Chua Lee Beng<br>
+chua_lee_beng@schools.gov.sg
 </td>
 <td style="width: 26%; height: 55px;"></td>
 </tr>
@@ -67,9 +67,6 @@ jia_yu_tan@schools.gov.sg
 <tr style="height: 55px;">
 <td style="width: 32.665%; height: 55px;">Ms Nuryazida<br>
 nuryazida_naim@schools.gov.sg
-</td>
-<td style="width: 31.335%; height: 55px;">Ms Chua Lee Beng<br>
-chua_lee_beng@schools.gov.sg
 </td>
 	<td style="width: 31.335%; height: 55px;">Mrs Ravi Selvarani<br>s_selvarani@schools.gov.sg
 </td>
