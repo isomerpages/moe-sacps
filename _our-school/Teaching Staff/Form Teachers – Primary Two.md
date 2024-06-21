@@ -48,9 +48,6 @@ quek_hwee_lan@schools.gov.sg</td>
 <td style="width: 31.335%; height: 55px;">Ms Chua Lee Beng<br>
 chua_lee_beng@schools.gov.sg
 </td>
-<td style="width: 31.335%; height: 55px;">Mrs Tan Hui Ling<br>
-lee_hui_ling_c@schools.gov.sg
-</td>
 <td style="width: 26%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
