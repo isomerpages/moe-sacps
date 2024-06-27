@@ -8,8 +8,8 @@ variant: markdown
 #### School Canteen Advertisement 
   
 <table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
-<tr><td>Chinese Mixed Rice Stall</td><td>30 April 2024</td><td>Chinese mixed rice or Non-halal (open to proposal)</td></tr>  
-<tr><td>Halal Cuisine (Noodle/Rice)</td><td>30 April 2024</td><td>Halal noodle or rice</td></tr>  
+<tr><td>Chinese Mixed Rice Stall</td><td>31 July 2024</td><td>Chinese mixed rice or Non-halal (open to proposal)</td></tr>  
+<tr><td>Halal Cuisine (Noodle/Rice)</td><td>31 July 2024</td><td>Halal noodle or rice</td></tr>  
 </tbody></table>
 
 ##### Application Procedure<br>
