@@ -11,7 +11,11 @@ variant: tiptap
 <h1>PE, Aesthetics and CCA Department</h1>
 <h4><strong>Physical Education (PE)</strong></h4>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,7 +56,11 @@ portfolios.</p>
 <p>Programmes and Activities:</p>
 <p>The school has a range of sports programmes and activities to enhance
 the development of the physical aspect of the students at different levels.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,7 +86,11 @@ the development of the physical aspect of the students at different levels.</p>
 to build a creative and vibrant environment which cultivates confident
 individuals with an appreciation for music. The aim of the Music Programme
 is to cultivate a passion for and engagement with music.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -103,7 +115,11 @@ The Music Programme is designed to enhance the holistic development of
 students by instilling values and promoting social-emotional well-being.
 It also facilitates the development of psychomotor skills and lays the
 groundwork for future educational pursuits in music.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -122,7 +138,11 @@ groundwork for future educational pursuits in music.</p>
 </tbody>
 </table>
 <h4>Visual Art</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -146,7 +166,12 @@ To experience art making and art discussion meaningfully, these artworks
 are organised under three focus areas and four themes:
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -193,7 +218,11 @@ each cohort will exhibit their artworks at least once a year. The upper
 primary students will have an opportunity to curate their own exhibition.</p>
 <p></p>
 <h4><strong>CCA</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -221,7 +250,11 @@ their character, learn values, social emotional competencies and other
 relevant skills to become future-ready learners. During CCA, students from
 diverse backgrounds are also brought together to interact, learn, develop
 friendships and a sense of belonging to the school and community.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -245,7 +278,11 @@ would help our girls to learn more about the various CCAs offered by the
 school. The programme will also give students opportunities to discover
 their areas of interest and then choose a CCA which they would like to
 commit to in Primary 3.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -265,7 +302,13 @@ commit to in Primary 3.</p>
 </table>
 <p><strong>Current List of CCAs</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -302,12 +345,6 @@ commit to in Primary 3.</p>
 </li>
 <li>
 <p>Floorball</p>
-</li>
-<li>
-<p>Tennis (till June 2024)</p>
-</li>
-<li>
-<p>Rope Skipping (till June 2024)</p>
 </li>
 </ol>
 </td>
