@@ -38,7 +38,7 @@ cai_meifang@schools.gov.sg</td>
 </tr>
 <tr style="height: 55px;">
 <td style="width: 31.335%; height: 55px;">Ms Tan Kai Lin<br>tan_kai_lin_a@schools.gov.sg</td>
-<td style="width: 32.665%; height: 55px;">Ms Syaza<br></td>
+<td style="width: 32.665%; height: 55px;">Ms Syaza<br>nursyaza_muhd_abbas_lim@schools.gov.sg</td>
 	<td style="width: 25.1121%; height: 55px;"></td>
 </tr>
 <tr style="height: 42px;">
