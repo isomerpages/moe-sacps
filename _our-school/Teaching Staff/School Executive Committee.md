@@ -83,7 +83,7 @@ nur_hafiszah_mohamed_zin@schools.gov.sg</td>
 <tr style="height: 55px;">
 <td style="height: 55px; width: 35.1023%;">Mrs Grace Lee (HOD)<br>
 tan_kime_mui_grace@schools.gov.sg</td>
-	<td style="height: 55px; width: 26.8977%;">Mrs Candice Chong (LH)</td>
+	<td style="height: 55px; width: 26.8977%;">Mrs Candice Chong (LH)<br>candice_chong_a_l@schools.gov.sg</td>
 <td style="height: 55px; width: 28%;"></td>
 </tr>
 <tr style="height: 42px;">
@@ -107,7 +107,7 @@ cardoza_audra_juliana@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 90%;" colspan="3"><strong>Student Management</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="height: 55px; width: 90%;" colspan="3">Mdm Shannen Goh (HOD)
+<td style="height: 55px; width: 90%;" colspan="3">Mdm Shannen Goh (HOD)<br>
 goh_beng_hong@schools.gov.sg</td>
 </tr>
 <tr style="height: 42px;">
