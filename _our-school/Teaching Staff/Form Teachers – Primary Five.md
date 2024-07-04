@@ -23,11 +23,9 @@ tay_shu_xia_cassandra@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 16px;">
-<td style="width: 32.665%; height: 16px;">Ms Vanessa Tan<br>
-vanessa_zh_tan@schools.gov.sg
-</td>
 <td style="width: 31%; height: 16px;">Ms Julnise Ho<br>julnise_ho_zhiping@schools.gov.sg</td>
-<td style="width: 31.335%; height: 16px;"></td>
+	<td style="height: 55px; width: 26.8977%;">Ms Candice Chong<br>candice_chong_a_l@schools.gov.sg</td>
+	<td style="width: 31.335%; height: 16px;"></td>
 </tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; width: 95%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
