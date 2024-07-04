@@ -18,7 +18,10 @@ table {
 	<tr>
 <td width="333">Mdm Chen Yanshan<br>chen_yanshan@schools.gov.sg</td>
 <td width="333">Ms Wendy Yeo<br>yeo_wan_tin@schools.gov.sg</td>
+		</tr>
+	<tr>
 <td width="333">Ms Julia Toh<br>toh_bee_bee_julia@schools.gov.sg</td>
+<td width="333">Ms Ashley Chong<br>penny_ashley_chong_gin@schools.gov.sg</td>
 </tr>
 </tbody>
 </table>
