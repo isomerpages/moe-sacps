@@ -9,5 +9,5 @@ variant: tiptap
 </div>
 <h1>Announcements</h1>
 <h3>SACPS Experience - Open House 2024</h3>
-<p>Click <a href="https://stanthonyscanossianpri.moe.edu.sg/sacps-experience-open-house-2024/https://stanthonyscanossianpri.moe.edu.sg/sacps-experience-open-house-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>to
+<p>Click <a href="https://www.stanthonyscanossianpri.moe.edu.sg/sacps-experience-open-house-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>to
 find out more.</p>
