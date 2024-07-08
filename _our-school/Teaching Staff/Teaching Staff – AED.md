@@ -6,9 +6,7 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-Teaching Staff – AED
-==========================================
-
+# Teaching Staff – AED
 <table style="text-align: center; font-size: 12px; border-collapse: collapse;" border="1" width="100%">
 <tbody>
 <tr>
