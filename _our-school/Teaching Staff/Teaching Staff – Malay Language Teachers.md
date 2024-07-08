@@ -6,8 +6,8 @@ third_nav_title: Teaching Staff
 variant: markdown
 ---
 ![](/images/Banners/banner_ourschool__5_.jpg)
-Teaching Staff – Malay Language Teachers
-==========================================
+# Teaching Staff – Malay Language Teachers
+# 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
