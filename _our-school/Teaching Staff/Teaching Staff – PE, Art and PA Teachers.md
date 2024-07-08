@@ -33,11 +33,7 @@ xiujing_peters@schools.gov.sg</td>
 chin_elyn_vanessa@schools.gov.sg</td>
 <td style="height: 31.8889px; width: 33%;"></td>
 </tr>
-<tr style="height: 31.8889px;">
-<td style="height: 31.8889px; width: 33%;">Mrs Tan Hui Ling<br>
-lee_hui_ling_c@schools.gov.sg</td>
 
-</tr>
 <tr style="height: 42px;">
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 99.478%; text-align: center" colspan="3"><strong>Art</strong></td>
 </tr>
