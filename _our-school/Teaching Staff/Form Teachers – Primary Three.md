@@ -3,76 +3,133 @@ title: Form Teachers – Primary Three
 permalink: /our-school/Teaching-Staff/Form-Teachers-Primary-Three/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_ourschool__5_.jpg)
-## Form Teachers – Primary Three
-&nbsp;
-<table style="text-align: center; font-size: 12px; border-collapse: collapse; width: 100%; height: 544px;" border="1" width="100%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
+</div>
+<h2>Form Teachers – Primary Three</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Temperance</strong></td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 32.665%; height: 26px;">Ms Victoria Woo
-woo_shu_xian_victoria@schools.gov.sg
-</td>
-<td style="width: 31.335%; height: 26px;">Mdm Huang Shansi<br>
-huang_shansi@schools.gov.sg
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Temperance</strong>
+</p>
 </td>
 </tr>
-<tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
-</tr>
-<tr style="height: 60px;">
-<td style="width: 32.665%; height: 60px;" width="272">Ms Chantel Beins<br>
-beins_chantel_elena-marie@schools.gov.sg
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Victoria Woo woo_shu_xian_victoria@schools.gov.sg</p>
 </td>
-<td style="width: 31.335%; height: 60px;">Ms Cai Meifang<br>
-cai_meifang@schools.gov.sg</td>
-
-<td style="width: 25.1121%; height: 60px;"></td>
-</tr>
-<tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
-</tr>
-<tr style="height: 55px;">
-<td style="width: 31.335%; height: 55px;">Ms Tan Kai Lin<br>tan_kai_lin_a@schools.gov.sg</td>
-<td style="width: 32.665%; height: 55px;">Ms Syaza<br>nursyaza_muhd_abbas_lim@schools.gov.sg</td>
-	<td style="width: 25.1121%; height: 55px;"></td>
-</tr>
-<tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Justice</strong></td>
-</tr>
-<tr style="height: 55px;">
-<td style="width: 32.665%; height: 55px;">Ms Crystal Lim<br>
-lim_liqing_crystal@schools.gov.sg
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Shansi
+<br>huang_shansi@schools.gov.sg</p>
 </td>
-<td style="width: 31.335%; height: 55px;">Ms Suhanthi<br>Suhanthi_thirignasambhantham@schools.gov.sg</td>
-<td style="width: 25.1121%; height: 55px;"></td>
-</tr>
-<tr style="height: 42px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Steadfast</strong></td>
-</tr>
-<tr style="height: 55px;" valign="top">
-<td style="width: 32.665%; height: 55px;">Ms Vanessa Chin<br>
-chin_elyn_vanessa@schools.gov.sg
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td style="width: 31.335%; height: 55px;">Miss Michelle Peh<br>peh_tzu_fern_michelle_a@schools.gov.sg
-</td>
-<td style="width: 25.1121%; height: 55px;">Mrs Eliza Han<br>eliza_tan_har@schools.gov.sg</td>
 </tr>
-<tr style="height: 42.6667px;">
-<td style="font-size: 16px; background-color: #cccccc; width: 89.1121%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Courage</strong>
+</p>
+</td>
 </tr>
-<tr style="height: 41px;" valign="top">
-<td style="width: 32.665%; height: 41px; text-align: center;">Ms Nuraishah<br>
-nuraishah_ramdan@schools.gov.sg
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chantel Beins
+<br>beins_chantel_elena-marie@schools.gov.sg</p>
 </td>
-<td style="width: 31.335%; height: 41px; text-align: center;">Ms Elspeth Tan<br>
-tan_pau_cheng@schools.gov.sg
+<td rowspan="1" colspan="1">
+<p>Ms Cai Meifang
+<br>cai_meifang@schools.gov.sg</p>
 </td>
-<td style="width: 25.1121%; height: 41px;"></td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Prudence</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Kai Lin
+<br>tan_kai_lin_a@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Syaza
+<br>nursyaza_muhd_abbas_lim@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Justice</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Crystal Lim
+<br>lim_liqing_crystal@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suhanthi
+<br>Suhanthi_thirignasambhantham@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Steadfast</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Chin
+<br>chin_elyn_vanessa@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Michelle Peh
+<br>peh_tzu_fern_michelle_a@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Eliza Han
+<br>eliza_tan_har@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Piety</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nuraishah
+<br>nuraishah_ramdan@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elspeth Tan
+<br>tan_pau_cheng@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
