@@ -39,7 +39,7 @@ Non-Teaching Staff
   </tr>
   <tr>
     <td class="tg-1ppo">Operations Support Officers:</td>
-    <td class="tg-1ppo">Mdm Leong Sook Lin<br>Mr Rahmat Bin Juma’at<br>Mr Rosli<br>Mdm Jamie Lim</td>
+    <td class="tg-1ppo">Mdm Leong Sook Lin<br>Mr Rahmat Bin Juma’at<br>Mr Rosli<br>Mdm Jamie Lim<br>Mdm Tan Poh Choo</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Desktop Engineers:</td>
