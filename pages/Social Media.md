@@ -20,22 +20,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 20px; height: 20px; float: left" height="auto" width="100%" src="/images/instagram.png">
 </div>
-<p>&nbsp;<a href="https://www.instagram.com/sacps.official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20px; height: 20px; float: left" height="auto" width="100%" src="/images/facebookicon.png">
 </div>
-<p>&nbsp;<a href="https://www.facebook.com/SACPS.OFFICIAL2.0" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20px; height: 20px; float: left" height="auto" width="100%" src="/images/tiktok.png">
 </div>
-<p>&nbsp;<a href="https://www.tiktok.com/@sacps.official" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
-</p>
 </th>
 </tr>
 <tr>
@@ -55,6 +49,21 @@ variant: tiptap
 </div>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>&nbsp;<a href="https://www.instagram.com/sacps.official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;<a href="https://www.facebook.com/SACPS.OFFICIAL2.0" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;<a href="https://www.tiktok.com/@sacps.official" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
+</p>
+</th>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
