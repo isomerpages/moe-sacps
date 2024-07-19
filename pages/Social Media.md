@@ -40,7 +40,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Socialmedia/qrcode-fb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Socialmedia/qrcode_fbv1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://www.facebook.com/SACPS.OFFICIAL2.0" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p>&nbsp;<a href="https://www.facebook.com/SACPS.OFFICIAL/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
