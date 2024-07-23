@@ -17,6 +17,6 @@ Tel: 6464 0111
 Fax: 6464 0110 
 
 **School Branch** <br>
-Tel: 6247 5605
+Tel: 9091 9267
 
 Website: <a href="https://www.pacificbookstores.com/"> https://www.pacificbookstores.com/</a>
