@@ -4,7 +4,6 @@ permalink: /departments/Science-Department/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Banners/banner_dept__9_.jpg)Science Department
 ==================
 
@@ -39,9 +38,6 @@ This programme serves to help students construct fundamental concepts of electri
 P6 students will be taught field techniques to catch and observe a variety of aquatic plants and animals which make up the pond community. In the process, they will learn about relationships between organisms in the pond ecosystem which is teeming with life forms, from microscopic algae to pond skaters and even the occasional water monitor!
 ![](/images/Dept_sc/scdept-5.png)
 
-**Physics Learning Trail**<br>
-This learning trail curated for P6 students is meant to engage them in meaningful joyful learning. It incorporated Science concepts on Energy Conversion, Forces and Sound, as well as, basic scientific report writing and graphing skills.
-![](/images/Dept_sc/scdept-6.png)
 
 **Learning Journeys**<br>
 Students will also embark on learning journeys that will expand their learning beyond the confines of the classroom, providing opportunities to connect the concepts they have learnt with real-life experiences they encounter in their surroundings. Some of the learning journeys planned include the following:
