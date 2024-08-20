@@ -33,7 +33,7 @@ nur_atiqah_rohaizad@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 90%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 36px;">
-<td style="width: 32.665%; height: 36px;" width="295">Mdm Caroline Toh
+<td style="width: 32.665%; height: 36px;" width="295">Mdm Caroline Toh<br>
 caroline_toh_hwee_fong@schools.gov.sg
 </td>
 <td style="width: 31.335%; height: 36px;" width="32%">Ms Koh Shu Hui Celina<br>koh_shu_hui_celina@schools.gov.sg</td>
