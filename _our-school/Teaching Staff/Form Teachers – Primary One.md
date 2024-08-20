@@ -14,7 +14,7 @@ variant: markdown
 </tr>
 <tr style="height: 55px;">
 <td style="width: 43.5516%; text-align: center; height: 55px;" width="32%">Ms Sharon Yeo <br>yeo_jiaxin_sharon@schools.gov.sg</td>
-<td style="height: 55px; width: 14.0542%; text-align: center;">Mdm Jennifer Lim
+<td style="height: 55px; width: 14.0542%; text-align: center;">Mdm Jennifer Lim<br>
 lim_ping_hoon@schools.gov.sg
 </td>
 <td style="width: 24.4395%; height: 55px;"></td>
@@ -23,7 +23,7 @@ lim_ping_hoon@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Courage</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Leong Foong Pheng
+<td style="width: 43.5516%; height: 55px; text-align: center;">Mdm Leong Foong Pheng<br>
 leong_foong_pheng@schools.gov.sg
 </td>
 <td style="width: 14.0542%; height: 55px; text-align: center;">Mrs Shirley Koh<br>sim_lee_noi_shirley@schools.gov.sg</td>
@@ -33,7 +33,7 @@ leong_foong_pheng@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Prudence</strong></td>
 </tr>
 <tr style="height: 55px;">
-<td style="width: 43.5516%; height: 55px; text-align: center;">Mrs Tricia Teo
+<td style="width: 43.5516%; height: 55px; text-align: center;">Mrs Tricia Teo<br>
 png_shi_tieng_tricia@schools.gov.sg
 </td>
 <td style="width: 14.0542%; height: 10px; text-align: center;" width="32%">Mdm Honey Hui<br>
@@ -63,7 +63,7 @@ norazlin_abu_bakar@schools.gov.sg
 <td style="font-size: 16px; background-color: #cccccc; width: 82.0453%; height: 42px; text-align: center" colspan="3"><strong>Piety</strong></td>
 </tr>
 <tr style="height: 41px;" valign="top">
-<td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Catherine Tang
+<td style="width: 43.5516%; height: 41px; text-align: center;">Mrs Catherine Tang<br>
 chee_sher_ping_catherine@
 schools.gov.sg
 </td>
