@@ -9,4 +9,4 @@ variant: tiptap
 </div>
 <h1>News &amp; Events</h1>
 <p><strong>– Parents’ Connection</strong>
-<br>Dear Parents, please access Parents Gateway for Parents’ Connection.</p>
+<br>Dear Parents, please access <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a> for Parents’ Connection.</p>
