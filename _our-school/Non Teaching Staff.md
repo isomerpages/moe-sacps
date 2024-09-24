@@ -20,7 +20,7 @@ Non-Teaching Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo">Administrative Manager:</th>
+    <th class="tg-1ppo">Administrative Manager(s):</th>
     <th class="tg-1ppo">Mdm Hikmah<br>Mdm June Chua</th>
   </tr>
 </thead>
@@ -30,15 +30,15 @@ Non-Teaching Staff
     <td class="tg-h5mn">Mr Larry Lai</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Administrative Executive:</td>
-    <td class="tg-1ppo">Ms Nadiah Abdullah</td>
+    <td class="tg-1ppo">Administrative Executive(s):</td>
+    <td class="tg-1ppo">Ms Nadiah Abdullah<br>Ms Casline Chua</td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Corporate Support Officers:</td>
-    <td class="tg-h5mn">Mdm Jessie Teo<br>Mdm Siti</td>
+    <td class="tg-h5mn">Corporate Support Officer(s):</td>
+    <td class="tg-h5mn">Mdm Jessie Teo</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Operations Support Officers:</td>
+    <td class="tg-1ppo">Operations Support Officer(s):</td>
     <td class="tg-1ppo">Mdm Leong Sook Lin<br>Mr Rahmat Bin Juma’at<br>Mr Rosli<br>Mdm Jamie Lim<br>Mdm Tan Poh Choo</td>
   </tr>
   <tr>
