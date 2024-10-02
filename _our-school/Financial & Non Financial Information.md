@@ -121,6 +121,13 @@ programme will equip every student from Primary 3 to Primary 5 with skills
 for a variety of block-based programming in a progressive manner. Through
 this exposure, the students will be empowered to apply these skills to
 complete their projects based on the respective areas of focus on the theme.</p>
+<p><u>Upcoming school’s activities/programmes:</u>
+<br>School will continue to develop Positive Student Experiences through Canossian
+Spirituality, Pastoral Care and Character Development Porgrammes. Students
+will be empowered with knowledge, skills and tools to develop competencies
+that are aligned with MOE’s 21<sup>st</sup> Century Competencies to create
+solutions and solve real-world issues through inquiry-based learning. There
+will also be ongoing staff development to cultivate Quality Canossian Educators.</p>
 </li>
 </ul>
 </td>
@@ -182,4 +189,6 @@ complete their projects based on the respective areas of focus on the theme.</p>
 <p><strong>2. Financial Information</strong>
 </p>
 <p>Please click&nbsp;<a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the latest information.</p>
+view the latest information.
+<br>
+</p>
