@@ -80,8 +80,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Vision: </strong><em>Every SACPS girl a confident and curious learner who serves with commitment, compassion and cheerfulness</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Mission: </strong><em>Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in </em><strong><em>The Way, The Truth and The Life</em></strong>
 </p>
 <p></p>
@@ -99,21 +98,11 @@ be understood</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Programmes/Activities (2024)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>&nbsp;Activities/Programmes (2024)</u></strong>
-</p>
-<p>The school is committed to developing students’ potential through quality
-education and holistic</p>
-<p>school experiences. The school’s mission-driven staff aim to provide an
-inclusive experience for all students, including diverse learners and those
-with special educational needs (SEN).</p>
+<p><strong><u>&nbsp;Activities/Programmes (2024) </u></strong>
+<br>The school is committed to developing students’ potential through quality
+education and holistic school experiences. The school’s mission-driven
+staff aim to provide an inclusive experience for all students, including
+diverse learners and those with special educational needs (SEN).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Staff leverage on the Growth Mindset (GM) language in the daily interactions
