@@ -11,12 +11,15 @@ variant: markdown
 <tbody>
 <tr>
 <td>Mrs Ram Anusuya (Counselling)</td>
-<td>Mr Kavikumar (SWO)</td>
+	<td>Mrs Jasmine Ng (Counselling)</td>
 </tr>
 <tr>
 <td height="55">Mdm Aishah (Learning &amp; Behavioural Support)</td>
 <td height="55">Ms Desiree Celine Nonis (Learning &amp; Behavioural Support)</td>
+	</tr><tr>
+	<td>Mr Kavikumar (SWO)</td>
+	</tr>
 
-</tr>
+
 </tbody>
 </table>
