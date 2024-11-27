@@ -107,8 +107,7 @@ variant: tiptap
 <br>peh_tzu_fern_michelle_a@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eliza Han
-<br>eliza_tan_har@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
