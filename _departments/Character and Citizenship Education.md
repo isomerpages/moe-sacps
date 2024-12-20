@@ -241,4 +241,4 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 
 · &nbsp; &nbsp; &nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
-· &nbsp; &nbsp; &nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
+· &nbsp; &nbsp; &nbsp;[MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
