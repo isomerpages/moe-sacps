@@ -233,7 +233,6 @@ Lead and Inspire:
 **![](https://lh7-us.googleusercontent.com/lK-uY-TiH3i9xdvBSgdSngwheuCDnmI3upXl5IL5vNIGjeUPgflteRcYF8lQ7Sv7Lq4kL_TYVfSIrIkm_sV8ZiANQx5M5LndBLsoLiE3bMWEXrgbR9tqK0DXE6YbUgDFaZaFnGbpy_Rib6ofACk--bA)**
 
 
-
 To find out more about Cyber Wellness Curriculum in schools, click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness).
 
 **Cyber Wellness resources for parents**
@@ -241,23 +240,5 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 · &nbsp; &nbsp; &nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
 
 · &nbsp; &nbsp; &nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
-
-· &nbsp; &nbsp; &nbsp; [https://www.schoolbag.edu.sg/story/cyber-wellness—useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
-
-· &nbsp; &nbsp; &nbsp; [Parents, the Guardians of Internet Safety (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
-
-· &nbsp; &nbsp; &nbsp; [Guide for Parents on Setting Parental Controls (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
-
-· &nbsp; &nbsp; &nbsp; [Understanding Cyber Wellness (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
-
-· &nbsp; &nbsp; &nbsp; [Navigating the Cyber World Safely (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
-
-· &nbsp; &nbsp; &nbsp; [ICT in Schools: To Use or Not to Use? (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
-
-· &nbsp; &nbsp; &nbsp; [Play safe – Avoid online gaming addiction (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
-
-· &nbsp; &nbsp; &nbsp; [Safeguarding your child online (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
-
-· &nbsp; &nbsp; &nbsp; [Exploring Online, Safely and Confidently (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 
 · &nbsp; &nbsp; &nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
