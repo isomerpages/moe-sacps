@@ -233,7 +233,6 @@ Lead and Inspire:
 **![](https://lh7-us.googleusercontent.com/lK-uY-TiH3i9xdvBSgdSngwheuCDnmI3upXl5IL5vNIGjeUPgflteRcYF8lQ7Sv7Lq4kL_TYVfSIrIkm_sV8ZiANQx5M5LndBLsoLiE3bMWEXrgbR9tqK0DXE6YbUgDFaZaFnGbpy_Rib6ofACk--bA)**
 
 
-
 To find out more about Cyber Wellness Curriculum in schools, click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness).
 
 **Cyber Wellness resources for parents**
@@ -241,6 +240,5 @@ To find out more about Cyber Wellness Curriculum in schools, click [here](https:
 · &nbsp; &nbsp; &nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
 
 · &nbsp; &nbsp; &nbsp; [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
-
 
 · &nbsp; &nbsp; &nbsp; [MLC | Resources Listing (betterinternet.sg)](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
