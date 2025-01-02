@@ -3,23 +3,34 @@ title: Teaching Staff – AED
 permalink: /our-school/Teaching-Staff/Teaching-Staff-AED/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_ourschool__5_.jpg)
-# Teaching Staff – AED
-<table style="text-align: center; font-size: 12px; border-collapse: collapse;" border="1" width="100%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
+</div>
+<h1>Teaching Staff – AED</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Mrs Ram Anusuya (Counselling)</td>
-	<td>Mrs Jasmine Ng (Counselling)</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kavikumar (SWO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Ng (Counselling)</p>
+</td>
 </tr>
 <tr>
-<td height="55">Mdm Aishah (Learning &amp; Behavioural Support)</td>
-<td height="55">Ms Desiree Celine Nonis (Learning &amp; Behavioural Support)</td>
-	</tr><tr>
-	<td>Mr Kavikumar (SWO)</td>
-	</tr>
-
-
+<td rowspan="1" colspan="1">
+<p>Mdm Aishah (Learning &amp; Behavioural Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Desiree Celine Nonis (Learning &amp; Behavioural Support)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
