@@ -9,7 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
 <h2>Form Teachers – Primary Two</h2>
-<h4></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
