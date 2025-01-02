@@ -38,9 +38,7 @@ chin_elyn_vanessa@schools.gov.sg</td>
 <td style="font-size: 16px; background-color: #cccccc; height: 42px; width: 99.478%; text-align: center" colspan="3"><strong>Art</strong></td>
 </tr>
 <tr style="height: 12px;">
-<td style="height: 12px; width: 33%;">Ms Chua Lee Beng<br>
-chua_lee_beng@schools.gov.sg</td>
-<td style="height: 12px; width: 33%;">Ms Tan Kai Lin<br>tan_kai_lin_a@schools.gov.sg</td>
+
 <td style="height: 12px; width: 33%;">Mrs Catherine Tang<br>
 chee_sher_ping_catherine@
 schools.gov.sg</td>
