@@ -19,7 +19,9 @@ Teaching Staff – Chinese Language Teachers
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+
+ **   **
+    <table class="tg">
 <thead>
   <tr>
     <th class="tg-a3j2">Mdm Huang Shansi<br>huang_shansi@schools.gov.sg</th>
@@ -43,9 +45,7 @@ Teaching Staff – Chinese Language Teachers
     <td class="tg-a3j2">Mrs Lotus Koh<br>ong_lian_mui@schools.gov.sg</td>
     <td class="tg-a3j2">Ms Tan Jia Yu<br>jia_yu_tan@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-gj5f">Mrs Jennifer Lim<br>lim_ping_hoon@schools.gov.sg</td>
-    <td class="tg-gj5f">Mdm Leong Foong Pheng<br>leong_foong_pheng@schools.gov.sg</td>
+  <tr><td class="tg-gj5f">Mrs Jennifer Lim<br>lim_ping_hoon@schools.gov.sg</td><td class="tg-gj5f">Mdm Leong Foong Pheng<br>leong_foong_pheng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-a3j2">Ms Poh Sio Hoon<br>poh_sio_hoon@schools.gov.sg</td>
@@ -53,7 +53,7 @@ Teaching Staff – Chinese Language Teachers
   </tr>
   <tr>
     <td class="tg-gj5f">Ms Li Fangqin<br>li_fangqin@schools.gov.sg</td>
-		<td class="tg-gj5f">Ms Julnise Ho<br>julnise_ho_zhiping@schools.gov.sg</td>
+
   </tr>
 </tbody>
 </table>
