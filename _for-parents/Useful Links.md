@@ -2,16 +2,33 @@
 title: Useful Links
 permalink: /for-parents/Useful-Links/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
-![](/images/Banners/banner_forparents__2_.jpg)Useful Links
-============
-
-
-*   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [Official Facebook Page](https://www.facebook.com/SACPS.OFFICIAL)
-*   [Official Instagram Page](https://www.instagram.com/sacps.official/)
-*   [Official TikTok Page](https://www.tiktok.com/@sacps.official)
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-*   [MOE Website](https://www.moe.gov.sg/)
+<h1>Useful Links</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/SACPS.OFFICIAL" rel="noopener noreferrer nofollow" target="_blank">Official Facebook Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/sacps.official/" rel="noopener noreferrer nofollow" target="_blank">Official Instagram Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tiktok.com/@sacps.official" rel="noopener noreferrer nofollow" target="_blank">Official TikTok Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
+</p>
+</li>
+</ul>
+<p></p>
