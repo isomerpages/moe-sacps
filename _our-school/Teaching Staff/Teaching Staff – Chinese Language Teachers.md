@@ -3,57 +3,114 @@ title: Teaching Staff – Chinese Language Teachers
 permalink: /our-school/Teaching-Staff/Teaching-Staff-Chinese-Language-Teachers/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_ourschool__5_.jpg)
-
-Teaching Staff – Chinese Language Teachers
-==========================================
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
-</style>
-
- **   **
-    <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a3j2">Mdm Huang Shansi<br>huang_shansi@schools.gov.sg</th>
-    <th class="tg-a3j2">Mdm Shannen Goh<br>goh_beng_hong@schools.gov.sg</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
+</div>
+<h1>Teaching Staff – Chinese Language Teachers</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-gj5f">Mrs Cassandra Lee<br>tay_shu_xia_cassandra@schools.gov.sg</td>
-    <td class="tg-gj5f">Mdm Luo Dong Hua<br>luo_dong_hua@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">Ms Cai Meifang<br>cai_meifang@schools.gov.sg</td>
-    <td class="tg-a3j2">Ms Lei Yun<br>lei_yun@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Mrs Grace Lim<br>yeo_min_si_grace@schools.gov.sg</td>
-    <td class="tg-gj5f">Mrs Ren Hwee Lan<br>quek_hwee_lan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">Mrs Lotus Koh<br>ong_lian_mui@schools.gov.sg</td>
-    <td class="tg-a3j2">Ms Tan Jia Yu<br>jia_yu_tan@schools.gov.sg</td>
-  </tr>
-  <tr><td class="tg-gj5f">Mrs Jennifer Lim<br>lim_ping_hoon@schools.gov.sg</td><td class="tg-gj5f">Mdm Leong Foong Pheng<br>leong_foong_pheng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">Ms Poh Sio Hoon<br>poh_sio_hoon@schools.gov.sg</td>
-    <td class="tg-a3j2">Ms Elspeth Tan<br>tan_pau_cheng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">Ms Li Fangqin<br>li_fangqin@schools.gov.sg</td>
-
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Shansi
+<br><a href="mailto:huang_shansi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_shansi@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shannen Goh
+<br><a href="mailto:goh_beng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_beng_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Cassandra Lee
+<br><a href="mailto:tay_shu_xia_cassandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shu_xia_cassandra@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Luo Dong Hua
+<br><a href="luo_dong_hua@schools.gov.sg" rel="noopener nofollow" target="_blank">luo_dong_hua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cai Meifang
+<br><a href="mailto:cai_meifang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_meifang@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lei Yun
+<br><a href="lei_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">lei_yun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Grace Lim
+<br><a href="mailto:yeo_min_si_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_min_si_grace@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ren Hwee Lan
+<br><a href="quek_hwee_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">quek_hwee_lan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lotus Koh
+<br><a href="mailto:ong_lian_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lian_mui@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jia Yu
+<br><a href="jia_yu_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">jia_yu_tan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jennifer Lim
+<br><a href="mailto:lim_ping_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ping_hoon@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Foong Pheng
+<br><a href="leong_foong_pheng@schools.gov.sg" rel="noopener nofollow" target="_blank">leong_foong_pheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Poh Sio Hoon
+<br><a href="mailto:poh_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_sio_hoon@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elspeth Tan
+<br><a href="tan_pau_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_pau_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Fangqin
+<br><a href="mailto:li_fangqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_fangqin@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Seah</p>
+<p><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
