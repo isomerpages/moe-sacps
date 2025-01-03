@@ -161,6 +161,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Catherine Chung</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_yin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rachel Yim</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yim_yoke_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_yoke_har@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>4 Temperance</strong></h4>
 </td>
 </tr>
