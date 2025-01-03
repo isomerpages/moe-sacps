@@ -8,7 +8,7 @@ variant: tiptap
 <h1>Teaching Staff</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/School-Executive-Committee/" rel="noopener noreferrer nofollow" target="_blank">School Executive Committee</a></strong>
+<p><a href="https://www.stanthonyscanossianpri.moe.edu.sg/our-school/teaching-staff/school-executive-committee/" rel="noopener nofollow" target="_blank">School Executive Committee</a>
 </p>
 </li>
 <li>
