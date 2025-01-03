@@ -44,6 +44,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
