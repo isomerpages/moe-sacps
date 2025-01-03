@@ -161,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Catherine Chung	</strong>
+<p><strong>Mdm Catherine Chung</strong>
 </p>
 </td>
 </tr>
