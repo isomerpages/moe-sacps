@@ -3,7 +3,7 @@ title: School Executive Committee
 permalink: /our-school/teaching-staff/school-executive-committee/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="maxWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
