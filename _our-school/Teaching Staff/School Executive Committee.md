@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="maxWidth: 100px">
 <colgroup>
 <col>
 <col>
