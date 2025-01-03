@@ -65,13 +65,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Daleen Ferro (Middle Primary)
+<br><a href="mailto:ros_daleena_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ros_daleena_mazlan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Perpetua Ho (Upper Primary)
+<br><a href="mailto:ng_bei_shen_perpetua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bei_shen_perpetua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Assistant Year Heads</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Yeo (Lower Primary) <a href="mailto:yeo_jiaxin_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jiaxin_sharon@schools.gov.sg</a>
+<p>Ms Sharon Yeo (Lower Primary)
+<br><a href="mailto:yeo_jiaxin_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jiaxin_sharon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Alicia Sim (Upper Primary)
+<br><a href="mailto:tan_siew_chen_alicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_chen_alicia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -90,13 +112,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Joey Low (LH)
+<br><a href="mailto:low_siying_joey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_siying_joey@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Evi Mazlinda (HOD) <a href="mailto:evi_mazlinda_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
+<p>Mdm Evi Mazlinda (HOD)
+<br><a href="mailto:evi_mazlinda_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafiszah (LH)
+<br><a href="mailto:nur_hafiszah_mohamed_zin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafiszah_mohamed_zin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,13 +152,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Candice Chong (LH)
+<br><a href="mailto:candice_chong_a_l@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">candice_chong_a_l@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Language</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Huang Shansi (HOD) <a href="mailto:huang_shansi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_shansi@schools.gov.sg</a>
+<p>Mdm Huang Shansi (HOD)
+<br><a href="mailto:huang_shansi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_shansi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Atiqah (SH - ML &amp; TL)
+<br><a href="mailto:nur_atiqah_rohaizad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_rohaizad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
