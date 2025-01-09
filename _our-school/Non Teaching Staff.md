@@ -12,13 +12,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Administrative Manager(s):</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Hikmah
 <br>Mdm June Chua</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,6 @@ variant: tiptap
 <p>Mdm Leong Sook Lin
 <br>Mr Rahmat Bin Juma’at
 <br>Mr Rosli
-<br>Mdm Jamie Lim
 <br>Mdm Tan Poh Choo</p>
 </td>
 </tr>
