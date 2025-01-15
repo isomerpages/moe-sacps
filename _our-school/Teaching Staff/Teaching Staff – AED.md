@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aishah (Learning &amp; Behavioural Support)</p>
+<p>Mdm Aishah (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Desiree Celine Nonis (Learning &amp; Behavioural Support)</p>
+<p>Ms Desiree Celine Nonis (SENO)</p>
 </td>
 </tr>
 </tbody>
