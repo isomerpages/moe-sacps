@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan
+<p>Ms Vanessa Tan (HOD)
 <br><a href="mailto:vanessa_zh_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanessa_zh_tan@schools.gov.sg</a>
 </p>
 </td>
