@@ -178,9 +178,7 @@ and Choices.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
-<p>&nbsp;</p>
+<p><strong>Moe Sexuality Education in Schools</strong>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
@@ -190,17 +188,12 @@ on the importance of the family as the basic unit of society. This means
 encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
+communities in Singapore on sexuality issues.&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(b)&nbsp;Guide students to make wise, informed and responsible decisions on sexuality matters.</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>
-</p>
-<p>&nbsp;</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">(b)&nbsp;Guide students to make wise, informed and responsible decisions on sexuality matters.</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
@@ -212,8 +205,7 @@ for strong families);</p>
 decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
-pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
+pregnancies. Casual sex can harm and hurt you and your loved ones.&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>Overview of ST ANTHONY’S CANOSSIAN PRIMARY SCHOOL Sexuality Education Programme for 2025</strong>
@@ -222,9 +214,8 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a>
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"></a>for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a>for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
@@ -254,7 +245,9 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/moelogo.jpg">
 </div>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br>Primary 5</h4>
+<hr>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -348,7 +341,9 @@ and how to seek help for themselves and their friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/moelogo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br>Primary 6</h4>
+<hr>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
