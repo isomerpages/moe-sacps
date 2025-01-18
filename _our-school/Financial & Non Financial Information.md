@@ -171,7 +171,7 @@ will also be ongoing staff development to cultivate Quality Canossian Educators.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal: Mrs Chin Lai Yoke
+<p>Principal: Mrs Sharon Foo
 <br>Vice-Principal: Ms Felicia Lee
 <br>Vice-Principal: Ms Sharon Thia</p>
 </td>
