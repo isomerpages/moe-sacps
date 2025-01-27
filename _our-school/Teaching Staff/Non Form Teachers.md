@@ -23,8 +23,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julia Toh</p>
-<p><a href="mailto:toh_bee_bee_julia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_bee_bee_julia@schools.gov.sg</a>
+<p>Ms Julia Toh
+<br><a href="mailto:toh_bee_bee_julia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_bee_bee_julia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
