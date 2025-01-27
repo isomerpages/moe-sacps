@@ -53,8 +53,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Chin</p>
-<p><a href="mailto:chin_elyn_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_elyn_vanessa@schools.gov.sg</a>
+<p>Ms Vanessa Chin
+<br><a href="mailto:chin_elyn_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_elyn_vanessa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Catherine Chung</p>
+<p><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
