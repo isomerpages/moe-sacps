@@ -60,8 +60,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Chung</p>
-<p><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_yin@schools.gov.sg</a>
+<p>Mdm Catherine Chung
+<br><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
