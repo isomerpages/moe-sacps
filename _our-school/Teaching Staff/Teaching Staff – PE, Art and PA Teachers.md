@@ -6,18 +6,15 @@ third_nav_title: Teaching Staff
 variant: tiptap
 ---
 <h1>Teaching Staff – PE, ART &amp; PA Teachers</h1>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Physical Education</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Physical Education</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -25,14 +22,18 @@ variant: tiptap
 <br><a href="mailto:yim_yoke_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_yoke_har@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mrs Judith Peh
 <br><a href="mailto:koh_hsieh_ling_judith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hsieh_ling_judith@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Caroline Toh
-<br><a href="caroline_toh_hwee_fong@ schools.gov.sg" rel="noopener nofollow" target="_blank">caroline_toh_hwee_fong@ schools.gov.sg</a>
+<br><a href="mailto:caroline_toh_hwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_toh_hwee_fong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -42,19 +43,23 @@ variant: tiptap
 <br><a href="mailto:woo_shu_xian_victoria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_shu_xian_victoria@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Peters
 <br><a href="mailto:xiujing_peters@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xiujing_peters@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Chin
-<br><a href="mailto:chin_elyn_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_elyn_vanessa@schools.gov.sg</a>
+<p>Ms Vanessa Chin</p>
+<p><a href="mailto:chin_elyn_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_elyn_vanessa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Art</strong>
 </p>
 </td>
@@ -62,15 +67,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Catherine Tang
-<br><a href="chee_sher_ping_catherine@ schools.gov.sg" rel="noopener nofollow" target="_blank">chee_sher_ping_catherine@ schools.gov.sg</a>
+<br><a href="mailto:chee_sher_ping_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_sher_ping_catherine@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Cathleen Leow
 <br><a href="mailto:leow_wan_jing_cathleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_wan_jing_cathleen@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Abigail Goh
 <br><a href="mailto:goh_wenmei_abigail_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wenmei_abigail_a@schools.gov.sg</a>
@@ -78,7 +86,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Performing Arts</strong>
 </p>
 </td>
@@ -86,14 +94,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Veron Yap
-<br><a href="yap_puei_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
+<br><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Catherine Lim
-<br><a href="catherine_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">catherine_lim@schools.gov.sg</a>
+<br><a href="mailto:catherine_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_lim@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Peggy Yeo
 <br><a href="mailto:chan_pei_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_pei_gee@schools.gov.sg</a>
