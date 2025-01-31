@@ -2,96 +2,163 @@
 title: Malay Department
 permalink: /departments/Malay-Department/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
-![](/images/Banners/banner_dept__5_.jpg)Malay Department
-================
-
-<b>Aim</b>
-
-*   To instill interest and passion in the learning of the Malay Language.
-
-*   To create a platform for students of different races to develop a greater understanding and appreciation of the Malay community in Singapore.
-*   To nurture students’ Cultural Intelligence such as Global Awareness, Cross- Cultural Skills and Sensitivities through authentic, engaging and fun hands-on activities.
-
-<b>Programmes And Activities 2022:</b>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">PROGRAMMES</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">LEVEL</span></th>
-  </tr>
-</thead>
+<h1>Malay Department</h1>
+<p><strong>Aim</strong>
+</p>
+<ul>
+<li>
+<p>To instill interest and passion in the learning of the Malay Language.</p>
+</li>
+<li>
+<p>To create a platform for students of different races to develop a greater
+understanding and appreciation of the Malay community in Singapore.</p>
+</li>
+<li>
+<p>To nurture students’ Cultural Intelligence such as Global Awareness, Cross-
+Cultural Skills and Sensitivities through authentic, engaging and fun hands-on
+activities.</p>
+</li>
+</ul>
+<p><strong>Programmes And Activities 2022:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-h5mn">Extensive Reading Programme- Programme ‘RIANG’</td>
-    <td class="tg-h5mn">P1 – P6</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">MTL Library Week</td>
-    <td class="tg-1ppo">P1 – P6</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Show and Tell</td>
-    <td class="tg-h5mn">P1-P2</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Readers Theatre</td>
-    <td class="tg-1ppo">P3-P4</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Problem-Based Assessment (PBA)</td>
-    <td class="tg-h5mn">P5-P6</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">MTL Fortnight Activities</td>
-    <td class="tg-1ppo">P1 – P6</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Cultural and Language Camp</td>
-    <td class="tg-h5mn">P3 &amp; P4 (Selected Students)</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">MTL Learning Journeys (Cultural Immersion Programme)<br><br>Virtual Learning Journey to Kampong Glam (P3)<br>Virtual Learning Journey to Chinatown (P4)</td>
-    <td class="tg-1ppo">P3 &amp; P4</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Hari Raya Concert Celebration</td>
-    <td class="tg-h5mn">P1-P6</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">ML  Enhanced Learning Programme (ELP)</td>
-    <td class="tg-1ppo">P5 – P6</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">ML Mother Tongue Support Programme (MTSP)</td>
-    <td class="tg-h5mn">P3 &amp; P4 (Selected Students)</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Displaying of Students’ Work at the Mother Tongue Learning Wall<br><br>(MTL Wall)</td>
-    <td class="tg-1ppo"> P1-P6</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Internal and External ML Related Competitions</td>
-    <td class="tg-h5mn">P1-P5</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Languages and Arts Festival</td>
-    <td class="tg-1ppo">P1-P4</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>PROGRAMMES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>LEVEL</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Extensive Reading Programme- Programme ‘RIANG’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 – P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL Library Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 – P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Show and Tell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Readers Theatre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Problem-Based Assessment (PBA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL Fortnight Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 – P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cultural and Language Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4 (Selected Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL Learning Journeys (Cultural Immersion Programme)
+<br>
+<br>Virtual Learning Journey to Kampong Glam (P3)
+<br>Virtual Learning Journey to Chinatown (P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Concert Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML Enhanced Learning Programme (ELP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 – P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML Mother Tongue Support Programme (MTSP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4 (Selected Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Displaying of Students’ Work at the Mother Tongue Learning Wall
+<br>
+<br>(MTL Wall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Internal and External ML Related Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Languages and Arts Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P4</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/MalayDept.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MalayDept.png">
+</div>
+<p></p>
