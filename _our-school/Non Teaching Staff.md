@@ -33,8 +33,7 @@ variant: tiptap
 <p>Administrative Executive(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah Abdullah
-<br>Ms Casline Chua</p>
+<p>Ms Nadiah Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -43,6 +42,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jessie Teo</p>
+<p>Mdm Doreen Chin</p>
 </td>
 </tr>
 <tr>
