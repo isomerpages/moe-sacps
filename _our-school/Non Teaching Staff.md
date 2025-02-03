@@ -41,8 +41,8 @@ variant: tiptap
 <p>Corporate Support Officer(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessie Teo</p>
-<p>Mdm Doreen Chin</p>
+<p>Mdm Jessie Teo
+<br>Mdm Doreen Chin</p>
 </td>
 </tr>
 <tr>
