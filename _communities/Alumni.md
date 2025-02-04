@@ -2,9 +2,7 @@
 title: Alumni
 permalink: /communities/Alumni/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_comm__1_.jpg)**Alumni**
-==========
-
-https://www.canossianalumni.com
+<h1><strong>Alumni</strong></h1>
+<p>https://www.canossianalumni.com</p>
