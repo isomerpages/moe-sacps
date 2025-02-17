@@ -385,8 +385,7 @@ commit to in Primary 3.</p>
 </tbody>
 </table>
 <p><strong>CCA Schedule and Teachers-in-charge</strong>
-</p>
-<p>Click <strong><a href="https://docs.google.com/spreadsheets/d/1GPxHa3FKxgddWksVkzo7ZIcpeNYU8HS_DhAhpwp15s0/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<br>Click <a href="/files/Attachments/2025_CCA_Schedule_and_Teachers_in_charge.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <p><s>&nbsp;</s>
 </p>
