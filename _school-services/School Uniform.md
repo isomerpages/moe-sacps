@@ -13,6 +13,5 @@ Techplace II<br>
 #05-09<br>
 Singapore 569870<br>
 Tel/Fax: 6293 5840  <br>
-<b>Opening Hours  </b><br>
-Weekdays: 9 am – 5 pm  
-Saturdays: 9 am – 1 pm
+<b>Website  </b><br>
+[https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
