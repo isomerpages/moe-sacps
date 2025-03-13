@@ -10,9 +10,10 @@ School Uniform and PE Attire are sold at the school bookshop. Your daughter can 
 **Bookshop Operating Hours**<br>
 Mon - Fri: 9am - 3pm<br>
 <b>Magdalene Sewing Centre Pte Ltd</b>  
-45 Kallang Pudding Road  
-#08-03, Alpha Building  
-Singapore 349317  <br>
+5000 Ang Mo Kio Ave 5 <br>
+Techplace II<br>
+#05-09<br>
+Singapore 569870<br>
 Tel/Fax: 6293 5840  <br>
 <b>Opening Hours  </b><br>
 Weekdays: 9 am – 5 pm  
