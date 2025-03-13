@@ -7,8 +7,6 @@ variant: markdown
 ![](/images/Banners/banner_schoolservices__1_.jpg)
 # School Uniform and PE Attire
 School Uniform and PE Attire are sold at the school bookshop. Your daughter can purchase the items directly from the school bookshop during term time.<br>
-**Bookshop Operating Hours**<br>
-Mon - Fri: 9am - 3pm<br>
 <b>Magdalene Sewing Centre Pte Ltd</b>  
 5000 Ang Mo Kio Ave 5 <br>
 Techplace II<br>
