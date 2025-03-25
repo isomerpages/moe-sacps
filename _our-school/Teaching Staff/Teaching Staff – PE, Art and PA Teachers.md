@@ -80,15 +80,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cathleen Leow
-<br><a href="mailto:leow_wan_jing_cathleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_wan_jing_cathleen@schools.gov.sg</a>
+<p>Ms Abigail Goh
+<br><a href="mailto:goh_wenmei_abigail_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wenmei_abigail_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Abigail Goh
-<br><a href="mailto:goh_wenmei_abigail_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wenmei_abigail_a@schools.gov.sg</a>
+<p>Mdm Suhaili
+<br><a href="mailto:suhaili_a_latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaili_a_latif@schools.gov.sg</a>
 </p>
 </td>
 </tr>
