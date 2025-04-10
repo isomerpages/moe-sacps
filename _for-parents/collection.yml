@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - "SACPS Experience: Open House 2024.md"
       - Useful Links.md
       - Useful Videos.md
       - MOE FAS.md

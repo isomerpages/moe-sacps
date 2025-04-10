@@ -34,6 +34,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Shama</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sharifah_Shama_Syed_Ahmad_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharifah_Shama_Syed_Ahmad_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Stephanie Teng&nbsp;</strong>
 </p>
 </td>
