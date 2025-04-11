@@ -8,7 +8,7 @@ notification: The SACPS Experience - Open House 2025 🏫 Click the button below
   to find out more!
 sections:
   - hero:
-      background: /images/Banners/homebanner2_sacpsopenhouse2025.png
+      background: /images/Banners/homebanner2b_sacpsopenhouse2025.png
       key_highlights:
         - title: Announcements
           description: ""
