@@ -11,7 +11,7 @@ description: ""
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MIMS Portal (Note: If you have set up your security questions, you may click on 'Forgot Password?' for self-reset)</a>
 </p>
 </li>
 <li>
