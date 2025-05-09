@@ -149,18 +149,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Evelyn Gomez</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gomez_evelyn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Catherine Chung</strong>
 </p>
 </td>

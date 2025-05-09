@@ -11,6 +11,10 @@ description: ""
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MIMS Portal (Note: If you have set up your security questions, you may click on 'Forgot Password?' for self-reset)</a>
+</p>
+</li>
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
