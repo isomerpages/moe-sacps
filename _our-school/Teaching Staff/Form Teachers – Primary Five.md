@@ -162,13 +162,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Selvarani Ravi</strong>
+<p><strong>Ms Ilyana</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">s_selvarani@schools.gov.sg</a>
+<p><a href="mailto:ilyana_mohd_saad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ilyana_mohd_saad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
