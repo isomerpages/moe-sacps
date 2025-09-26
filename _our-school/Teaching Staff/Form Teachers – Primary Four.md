@@ -202,13 +202,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Victoria Woo&nbsp;</strong>
+<p><strong>Ms Rina Pok</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">woo_shu_xian_victoria@schools.gov.sg</a>
+<p><a href="pok_oi_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">pok_oi_ling_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
