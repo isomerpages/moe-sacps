@@ -5,13 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/Banners/banner_schoolservices__4_.jpg)
-#### School Canteen Advertisement 
-  
-<table><tbody><tr><th>Type of Stall</th><th>Closing Date</th><th>Requirements</th></tr>
-<tr><td>Chinese Mixed Rice Stall</td><td>5 September 2025</td><td>Chinese mixed rice or Non-halal (open to proposal)</td></tr>  
-<tr><td>Halal Cuisine (Noodle/Rice)</td><td>5 September 2025</td><td>Halal noodle or rice</td></tr>  
-</tbody></table>
-
 ##### Application Procedure<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Application Form](/files/Attachments/FormBF7___Application_for_Canteen_Stall__SACPS_.pdf)<br>
