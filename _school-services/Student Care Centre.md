@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/Banners/banner_schoolservices__5_.jpg)
 ### **School-based Student Care Centre @ SACPS**
 <b>YMCA</b><br>
-Staff-in-charge: Miss Vida  
+Staff-in-charge: Ms Aqilah
 Contact Number: 6282 8893
 
 <u>Operating Hours:</u>  
