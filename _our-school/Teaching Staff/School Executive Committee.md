@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Thia</p>
+<p>Ms Shawna Lim</p>
 </td>
 </tr>
 </tbody>
@@ -65,8 +65,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Daleen Ferro (Middle Primary)
-<br><a href="mailto:ros_daleena_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ros_daleena_mazlan@schools.gov.sg</a>
+<p>Mrs Alicia Sim (Middle Primary)
+<br><a href="mailto:tan_siew_chen_alicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_chen_alicia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -92,13 +92,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Alicia Sim (Upper Primary)
-<br><a href="mailto:tan_siew_chen_alicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_chen_alicia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>English Language</strong>
 </p>
 </td>
@@ -112,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joey Low (LH)
+<p>Ms Joey Low (SH)
 <br><a href="mailto:low_siying_joey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_siying_joey@schools.gov.sg</a>
 </p>
 </td>
@@ -120,13 +113,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Evi Mazlinda (HOD)
-<br><a href="mailto:evi_mazlinda_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -226,6 +212,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Yim (HOD)
 <br><a href="mailto:yim_yoke_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_yoke_har@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Almira Binte Farid
+<br><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
