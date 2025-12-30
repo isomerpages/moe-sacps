@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Siti Nur Nabilah&nbsp;</p>
+<p>Ms Yeo (Siti Nur Nabilah)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
