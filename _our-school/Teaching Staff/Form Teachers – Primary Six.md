@@ -22,18 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Audra Cardoza</p>
+<p>Mdm Siti Noorhannizah Syed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cardoza_audra_juliana@schools.gov.sg</p>
+<p>siti_noorhannizah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Tang</p>
+<p>Mdm Caroline Toh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_sher_ping_catherine@schools.gov.sg</p>
+<p>caroline_toh_hwee_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
