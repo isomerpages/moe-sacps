@@ -18,13 +18,24 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Yanshan
-<br><a href="mailto:chen_yanshan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yanshan@schools.gov.sg</a>
+<p>Mrs Revinder Chopra
+<br><a href="mailto:revinder_kaur_dhillon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">revinder_kaur_dhillon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Julia Toh
 <br><a href="mailto:toh_bee_bee_julia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_bee_bee_julia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rina Pok
+<br><a href="mailto:pok_oi_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pok_oi_ling_a@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chong Soh Lim	<a href="mailto:chong_soh_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_soh_lim_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
