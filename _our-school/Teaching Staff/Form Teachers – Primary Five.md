@@ -10,195 +10,144 @@ variant: tiptap
 </div>
 <h2>Form Teachers – Primary Five</h2>
 <h4></h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Courage</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Perpetua Ho</strong>
-</p>
+<p>Ms Audrey Phang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_bei_shen_perpetua@schools.gov.sg</a>
-</p>
+<p>Ms Vanessa Chin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chin_elyn_vanessa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Shama</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Sharifah_Shama_Syed_Ahmad_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharifah_Shama_Syed_Ahmad_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Stephanie Teng&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_rui_jia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Justice</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Hafiszah Mohd Zin</strong>
-</p>
+<p>Ms Ilyana Binte Mohd Saad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ilyana_mohd_saad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hafiszah_mohamed_zin@schools.gov.sg</a>
-</p>
+<p>Ms Eileen Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Vanessa Chin</strong>
-</p>
+<p>Ms Stephanie Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chin_elyn_vanessa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Piety</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Caroline Toh&nbsp;</strong>
-</p>
+<p>Mrs Emelyn&nbsp; Ho&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_shea_ling_emelyn@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">caroline_toh_hwee_fong@schools.gov.sg</a>
-</p>
+<p>Mdm Shannen Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_beng_hong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Alice Choo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">long_alice@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Prudence</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cheng Manli</strong>
-</p>
+<p>Ms Grace Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vanessa_zh_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheng_manli@schools.gov.sg</a>
-</p>
+<p>Mrs Grace Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kime_mui_grace@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Siew Heng</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siew_heng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Steadfast</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Corinna Foo</strong>
-</p>
+<p>Ms Veron Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_puei_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_chin_corinna@schools.gov.sg</a>
-</p>
+<p>Ms Teh Soo Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teh_soo_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ilyana</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ilyana_mohd_saad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ilyana_mohd_saad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>5 Temperance</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Audra Cardoza</strong>
-</p>
+<p>Ms Celeste Yong&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yong_ching_ying_celeste_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cardoza_audra_juliana@schools.gov.sg</a>
-</p>
+<p>Ms Nuraishah Ramdan&nbsp;</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Catherine Tang</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_sher_ping_catherine@schools.gov.sg</a>
-</p>
+<p>nuraishah_ramdan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
