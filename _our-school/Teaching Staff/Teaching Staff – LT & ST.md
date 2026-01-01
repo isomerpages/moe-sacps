@@ -39,13 +39,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Veron Yap (ST Music)</p>
-<p><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
+<p>Ms Veron Yap (ST Music)
+<br><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nurbaya (ST Malay Language)</p>
-<p><a href="mailto:siti_nurbaya_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
+<p>Mdm Siti Nurbaya (ST Malay Language)
+<br><a href="mailto:siti_nurbaya_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
