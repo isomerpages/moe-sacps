@@ -33,7 +33,7 @@ variant: tiptap
 <p>Ms Yeo (Siti Nur Nabilah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_nur_nabilah_yeo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
