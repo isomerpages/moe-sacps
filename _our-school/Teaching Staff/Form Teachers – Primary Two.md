@@ -37,6 +37,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Foong Pheng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_foong_pheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4><strong>2 Justice</strong></h4>
 </td>
