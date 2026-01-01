@@ -16,24 +16,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shankar
+<br>shankar_selvam@schools.gov.sg</p>
+</td>
 <th rowspan="1" colspan="1">
-<p><strong>Mrs Yogalakshmi</strong>
-</p>
-<p><strong><a href="mailto:tamilselvan_yogalakshmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tamilselvan_yogalakshmi@schools.gov.sg</a></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ms Suhanthi</p>
-<p><a href="mailto:Suhanthi_thirignasambhantham@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhanthi_thirignasambhantham@schools.gov.sg</a>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Shankar</strong>
-</p>
-<p><strong><a href="mailto:shankar_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shankar_selvam@schools.gov.sg</a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
