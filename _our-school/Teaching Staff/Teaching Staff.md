@@ -59,7 +59,7 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/" rel="noopener noreferrer nofollow" target="_blank">PE, Art and PA Teachers</a></strong>
+<p><a href="https://www.stanthonyscanossianpri.moe.edu.sg/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/" rel="noopener nofollow" target="_blank">PE, Art and Music Teachers</a>
 </p>
 </li>
 <li>
