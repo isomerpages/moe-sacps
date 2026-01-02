@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Technology</strong>
+<p><strong>Information Technology</strong>
 </p>
 </td>
 </tr>
@@ -210,14 +210,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Yim (HOD)
+<p>Ms Rachel Yim (HOD/PE)
 <br><a href="mailto:yim_yoke_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_yoke_har@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Caroline Toh (PE coordinator)
+<p>Mdm Caroline Toh (PE Coordinator)
 <br><a rel="noopener noreferrer nofollow" target="_blank">caroline_toh_hwee_fong@schools.gov.sg</a>
 </p>
 </td>
