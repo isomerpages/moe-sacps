@@ -77,8 +77,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Lim
-<br><a href="mailto:lim_ping_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ping_hoon@schools.gov.sg</a>
+<p>Ms Grace Seah</p>
+<p><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,9 +106,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Seah</p>
-<p><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
