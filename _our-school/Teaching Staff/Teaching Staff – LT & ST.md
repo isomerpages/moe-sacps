@@ -28,7 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chua Lee Beng (LT Art)</p>
+<p>chua_lee_beng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
