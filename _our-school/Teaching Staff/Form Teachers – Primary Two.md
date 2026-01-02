@@ -30,18 +30,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo (Siti Nur Nabilah)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nur_nabilah_yeo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Leong Foong Pheng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_foong_pheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur Nabilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_nabilah_yeo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

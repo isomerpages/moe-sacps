@@ -1,11 +1,11 @@
 ---
-title: Teaching Staff – PE, Art and PA Teachers
-permalink: /our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/
+title: Teaching Staff – PE, Art and Music Teachers
+permalink: /our-school/teaching-staff/teaching-staff-pe-art-and-music-teachers/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h1>Teaching Staff – PE, ART &amp; PA Teachers</h1>
+<h1>Teaching Staff – PE, ART &amp; MUSIC Teachers</h1>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -60,14 +60,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Chung
-<br><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_yin@schools.gov.sg</a>
+<p><strong>Art</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art</strong>
+<p>Ms Chua Lee Beng</p>
+<p><a href="mailto:chua_lee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lee_beng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -87,14 +87,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaili
-<br><a href="mailto:suhaili_a_latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaili_a_latif@schools.gov.sg</a>
+<p><strong>Music</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
+<p>Ms Almira Bte Farid</p>
+<p><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
