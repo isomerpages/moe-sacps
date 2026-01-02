@@ -172,8 +172,8 @@ will also be ongoing staff development to cultivate Quality Canossian Educators.
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal: Mrs Sharon Foo
-<br>Vice-Principal: Ms Felicia Lee
-<br>Vice-Principal: Ms Sharon Thia</p>
+<br>Vice-Principal: Ms Sharon Thia
+<br>Vice-Principal: Ms Shawna Lim</p>
 </td>
 </tr>
 <tr>
