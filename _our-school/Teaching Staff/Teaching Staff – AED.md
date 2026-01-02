@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kavikumar (SWO)</p>
+<p>Mr Kavikumar (RSWO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jasmine Ng (Counselling)</p>
