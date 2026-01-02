@@ -8,19 +8,20 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__3_.jpg">
 </div>
 <h2>School Rules</h2>
-<p>Our school rules describe how a pupil of St Anthony’s Canossian Primary
-behaves. Our school believes in positive discipline. Students are to adhere
-to school rules at all times while they are in school. To be truly Canossian,
-our students must learn to respect for self, school and nation.</p>
+<p>Our school rules describe how a student of St Anthony’s Canossian Primary
+should behave. Our school believes in positive discipline. Students are
+to adhere to school rules at all times while they are in school. To be
+truly Canossian, our students must learn to respect self, school and nation.</p>
 <h3>Respect for self</h3>
 <p><strong>1.&nbsp; Dress code</strong>
 </p>
-<p>(1.1) Students are to wear the prescribed school uniform. &nbsp; Modification
+<p>(1.1) Students must wear the prescribed school uniform. &nbsp; Modification
 to the uniform is not allowed.</p>
-<p>(1.2) Students are expected to be attired in white canvas shoes with white
+<p>(1.2) Students are expected to be attired in plain white shoes with white
 socks covering the ankle.</p>
-<p>(1.3) Students are to wear their house T-shirt on PE days. &nbsp;Attire
-must be neatly tucked in.</p>
+<p>(1.3) Students are allowed to wear track shoes only on CCA days(sports-related
+CCAs). The sport shoes must be 50% predominantly white, with white laces
+and white soles.</p>
 <p>(1.4) Students should be neat and tidy at all times. Hair accessories
 must be plain and&nbsp;simple and restricted to blue, black or white only.</p>
 <p>(1.5) Students are to ensure that their hair should not be coloured and
