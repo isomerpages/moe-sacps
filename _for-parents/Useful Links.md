@@ -19,10 +19,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.tiktok.com/@sacps.official" rel="noopener noreferrer nofollow" target="_blank">Official TikTok Page</a>
-</p>
-</li>
-<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
 </li>
