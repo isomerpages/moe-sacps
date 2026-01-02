@@ -85,44 +85,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Manli</p>
+<p>Ms Chua Lee Beng&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheng_manli@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Almira Binte Farid&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>almira_farid@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>1 Periwinkle</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Shirley Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_lee_noi_shirley@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Julnise Ho&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>julnise_ho_zhiping@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>1 Sunflower</strong></h4>
+<p>chua_lee_beng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -134,11 +100,45 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Periwinkle</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Lee Beng&nbsp;&nbsp;</p>
+<p>Ms Almira Binte Farid&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_lee_beng@schools.gov.sg</p>
+<p>almira_farid@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Manli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheng_manli@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Sunflower</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Julnise Ho&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>julnise_ho_zhiping@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shirley Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_lee_noi_shirley@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
