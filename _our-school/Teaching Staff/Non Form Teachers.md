@@ -23,8 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julia Toh
-<br><a href="mailto:toh_bee_bee_julia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_bee_bee_julia@schools.gov.sg</a>
+<p>Mrs Chong Soh Lim <a href="mailto:chong_soh_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_soh_lim_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -35,8 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong Soh Lim	<a href="mailto:chong_soh_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_soh_lim_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
