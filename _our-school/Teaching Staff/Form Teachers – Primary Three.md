@@ -9,154 +9,115 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
 <h2>Form Teachers – Primary Three</h2>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>3 Courage</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Poh Sio Hoon</strong>
-</p>
+<p>Mrs Angeline Peh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_angeline@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">poh_sio_hoon@schools.gov.sg</a>
-</p>
+<p>Ms Lei Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lei_yun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Marie Thomas</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">marie_celine_ovinis@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>3 Justice</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Crystalbelle Teo</strong>
-</p>
+<p>Ms Candice Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>candice_chong_a_l@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">crystalbelle_chang@schools.gov.sg</a>
-</p>
+<p>Ms Zeng Xiujing (Mrs Peters)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xiujing_peters@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Elspeth Tan Pau Cheng</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_pau_cheng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>3 Prudence</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Siti Hawalia Abdullah</strong>
-</p>
+<p>Mrs Catherine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>catherine_lim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_hawalia_abdullah@schools.gov.sg</a>
-</p>
+<p>Ms Cai Meifang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cai_meifang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Grace Lim</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_min_si_grace@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>3 Steadfast</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Evi Mazlinda Mazlan</strong>
-</p>
+<p>Mrs Yap Yah Lian&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>han_yah_lian@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
-</p>
+<p>Ms Norazlin Abu Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norazlin_abu_bakar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Grace Seah</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>3 Temperance</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Huang Shansi</strong>
-</p>
+<p>Ms Chantel Beins&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>beins_chantel_elena-marie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_shansi@schools.gov.sg</a>
-</p>
+<p>Ms Li Fangqin</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teh Soo Chin</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh_soo_chin@schools.gov.sg</a>
-</p>
+<p>li_fangqin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

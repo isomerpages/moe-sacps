@@ -39,13 +39,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ernie Salim (ST Lower Primary EL)
-<br><a href="ernie_salim@schools.gov.sg" rel="noopener nofollow" target="_blank">ernie_salim@schools.gov.sg</a>
+<p>Ms Veron Yap (ST Music)
+<br><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christine Yeo (ST Math)</p>
-<p><a href="mailto:lai_kai_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_kai_ping@schools.gov.sg</a>
+<p>Mdm Siti Nurbaya (ST Malay Language)
+<br><a href="mailto:siti_nurbaya_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,18 +53,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Grace Seah (ST Chinese Language)
 <br><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nurbaya (ST Malay Language)
-<br><a href="siti_nurbaya_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Veron Yap (ST Music)
-<br><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -16,7 +16,7 @@ variant: tiptap
 <p>Administrative Manager(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hikmah
+<p>Mdm Nur Hikmah Amir
 <br>Mdm June Chua</p>
 </td>
 </tr>
@@ -33,7 +33,8 @@ variant: tiptap
 <p>Administrative Executive(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah Abdullah</p>
+<p>Ms Nadiah Abdullah
+<br>Ms Nooraisah Binte Ambiah</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +43,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jessie Teo
-<br>Mdm Doreen Chin</p>
+<br>Mdm Winnie Cheo</p>
 </td>
 </tr>
 <tr>
@@ -52,8 +53,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Leong Sook Lin
 <br>Mr Rahmat Bin Juma’at
-<br>Mr Rosli
-<br>Mdm Tan Poh Choo</p>
+<br>Mr Rosli Bin Mahmood
+<br>Mr Phuang Yaw Hwee</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +71,7 @@ variant: tiptap
 <p>ICT Manager:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Erfa</p>
+<p>Ms Nur Erfa Binte Kamarul Zaman</p>
 </td>
 </tr>
 </tbody>

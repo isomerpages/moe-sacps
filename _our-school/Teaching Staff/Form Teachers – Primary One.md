@@ -9,183 +9,157 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
 <h2>Form Teachers – Primary One</h2>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<h4><strong>1 Courage</strong></h4>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Cassia</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Leong Foong Pheng&nbsp;</strong>
-</p>
+<p>Mrs Tricia Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>png_shi_tieng_tricia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_foong_pheng@schools.gov.sg</a>
-</p>
+<p>Ms Nuryazida Binte Naim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nuryazida_naim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Freesia</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Angela Tan</strong>
-</p>
+<p>Mr Tham Kok Wing (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_kok_wing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lai_aun_kay_angela@schools.gov.sg</a>
-</p>
+<p>Ms Stephanie Yong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yong_wei_min_stephanie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Jasmine</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>1 Justice</strong></h4>
+<p>Mdm Wong Fong Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_fong_lai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ernie Salim</strong>
-</p>
+<p>Mrs Cassandra Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_shu_xia_cassandra@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Peony</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ernie_salim@schools.gov.sg</a>
-</p>
+<p>Mdm Cheng Manli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheng_manli@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Lotus Koh</strong>
-</p>
+<p>Ms Almira Binte Farid&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>almira_farid@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Periwinkle</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_lian_mui@schools.gov.sg</a>
-</p>
+<p>Mrs Shirley Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_lee_noi_shirley@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>1 Piety</strong></h4>
+<p>Ms Julnise Ho&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>julnise_ho_zhiping@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Sunflower</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Siti Nurbaya Abdul Rahman</strong>
-</p>
+<p>Mrs Shirleen Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shirleen_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
-</p>
+<p>Ms Chua Lee Beng&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_lee_beng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>1 Tulip</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nursyaza Lim</strong>
-</p>
+<p>Ms Joey Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_siying_joey@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursyaza_muhd_abbas_lim@schools.gov.sg</a>
-</p>
+<p>Mrs Dawn Tan</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<h4><strong>1 Prudence</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Cassandra Lee</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tay_shu_xia_cassandra@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Rowena Yap</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rowena_lau_chor_jgyin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>1 Steadfast</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Luo Donghua&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">luo_dong_hua@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nuryazida Naim&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nuryazida_naim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>1 Temperance</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Judith Peh&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_hsieh_ling_judith@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Cai Meifang</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cai_meifang@schools.gov.sg</a>
-</p>
+<p>tan_thian_ser@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

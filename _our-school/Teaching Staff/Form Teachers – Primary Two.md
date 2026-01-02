@@ -9,219 +9,152 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
 <h2>Form Teachers – Primary Two</h2>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Courage</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Dawn Tan</strong>
-</p>
+<p>Mrs Peggy Yeo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_pei_gee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_thian_ser@schools.gov.sg</a>
-</p>
+<p>Ms Yeo (Siti Nur Nabilah)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_nabilah_yeo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Shirley Koh&nbsp;</strong>
-</p>
+<p>Mdm Leong Foong Pheng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_foong_pheng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sim_lee_noi_shirley@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Veron Yap</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Justice</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lei Yun</strong>
-</p>
+<p>Mdm Ernie Bte Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ernie_salim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lei_yun@schools.gov.sg</a>
-</p>
+<p>Mrs Lotus Koh&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_lian_mui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Serene Soh Guat Eng</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_guat_eng_serene@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Piety</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Peggy Yeo</strong>
-</p>
+<p>Ms Nursyaza Binti Muhd Abbas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nursyaza_muhd_abbas_lim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_pei_gee@schools.gov.sg</a>
-</p>
+<p>Mdm Siti Nurbaya Binte A Rahman&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nurbaya_abdul_rahman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Revinder Chopra</strong>
-</p>
+<p>Mdm Heriana Fairus Binte Mohamed Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>heriana_fairus_mohamed_ibrahim_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">revinder_kaur_dhillon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Cathleen Leow</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leow_wan_jing_cathleen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Prudence</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Tricia Teo</strong>
-</p>
+<p>Mrs Rowena Yap&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rowena_lau_chor_jgyin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">png_shi_tieng_tricia@schools.gov.sg</a>
-</p>
+<p>Ms Tan Jia Yu&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jia_yu_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Jia Yu</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">jia_yu_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Steadfast</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Shirleen Chin</strong>
-</p>
+<p>Mrs Marie Thomas&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marie_celine_ovinis@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shirleen_chin@schools.gov.sg</a>
-</p>
+<p>Mdm Luo Dong Hua&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>luo_dong_hua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Julnise Ho Zhiping</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">julnise_ho_zhiping@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Norazlin Abu Bakar</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">norazlin_abu_bakar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>2 Temperance</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Li Fangqin</strong>
-</p>
+<p>Ms Sharon Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_jiaxin_sharon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_fangqin@schools.gov.sg</a>
-</p>
+<p>Mrs Judith Peh&nbsp;&nbsp;</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sharon Yeo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_jiaxin_sharon@schools.gov.sg</a>
-</p>
+<p>koh_hsieh_ling_judith@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
