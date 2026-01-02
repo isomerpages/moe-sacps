@@ -217,7 +217,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Almira Binte Farid
+<p>Mdm Caroline Toh (PE coordinator)
+<br><a rel="noopener noreferrer nofollow" target="_blank">caroline_toh_hwee_fong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Almira Binte Farid (SH/Aesthetics)
 <br><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
 </p>
 </td>
