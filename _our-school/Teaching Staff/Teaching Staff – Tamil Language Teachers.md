@@ -20,9 +20,9 @@ variant: tiptap
 <p>Mr Shankar
 <br>shankar_selvam@schools.gov.sg</p>
 </td>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Raj</p>
+</td>
 </tr>
 </tbody>
 </table>
