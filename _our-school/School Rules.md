@@ -27,8 +27,8 @@ must be plain and&nbsp;simple and restricted to blue, black or white only.</p>
 fringe should be above eyebrows.</p>
 <p>(1.6) Students are expected to tie up their hair once it reaches shoulder
 length.</p>
-<p>(1.7) Students are to keep finger nails short and clean. Pupils are not
-allowed to apply nail polish on their fingernails.</p>
+<p>(1.7) Students are to keep finger nails short and clean. Students are
+not allowed to apply nail polish on their fingernails.</p>
 <p><strong>2. Accessories</strong>
 </p>
 <p>(2.1) Students are to ensure that only one small ear stud is allowed on
@@ -44,10 +44,10 @@ as stated by the teacher.</p>
 forging a parent’s, guardian’s signature. Forgery is a serious offence.</p>
 <p><strong>5. Punctuality</strong>
 </p>
-<p>(5.1) Students must be in the assembly area by 7.25 a.m. (5.2) Pupils
+<p>(5.1) Students must be in the assembly area by 7.25 a.m. (5.2) Students
 must be punctual for all lessons. CCA and other school programmes. 6.&nbsp;Attendance
-(6.1) Pupils must attend school regularly. (6.2) Pupils must present a
-valid medical certificate or valid document when absent from school.</p>
+(6.1) Students must attend school regularly. (6.2) Students must present
+a valid medical certificate or valid document when absent from school.</p>
 <p><strong>7.&nbsp;Integrity</strong>
 </p>
 <p>(7.1) Cheating in examinations is a serious offence. Students must be
