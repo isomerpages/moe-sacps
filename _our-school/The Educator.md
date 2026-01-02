@@ -2,32 +2,112 @@
 title: The Educator
 permalink: /our-school/The-Educator/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/Banners/banner_ourschool__4_.jpg)
-The Educator
-============
-
-<b>St Magdelene of Canossa The Educator</b>
-
-If we study deeply into Magdalene’s life, we take note of how her love for God and for her brothers and sisters was always growing, building her up, moulding her in increasing measure. A real, concrete, practical love that never stopped at words, but like any real love was shown in deeds. This love for God and her brothers and sisters will be the soul of all Magdalene’s apostolic activity, the thrust that will catapult her into action, the energy that will sustain everything in her missionary dynamism.
-
-It is only from this point of reference, of a knowledge clear and sure that one can understand Magdalene’s commitment to the human and Christian formation of girls and youth. It was not born of philantrophy. It was not a need for activism. It was charity. Another strong entreaty came to her from the daily sight of many children living in misery and abandoned. She was sadly depressed by their ignorance and malice. She wrote to her friend, Countess Caroline Durini-Trotti: “Dear Caroline, I do not know if it is the same in Milan. Here we have horrible cases of girls’ ignorance and malice, that I do not know if I am to say, it is growing or that I am discovering it everyday …”
-
-Magdalene was concerned about it. The girls had to be helped at the human level, grow as persons, so that they became women in their deepest and fullest self, and at the same time be deeply Christian. Magdalene did not divide these two aims. Her method as an educator was based on the conviction that to grow as a person, it was necessary to grow as a Christian, and vice versa, to grow as a Christian is to grow as a woman. She writes in the Rules: ” The aim of our school is not to train good efficient workers but to help in the education of good and God-fearing mothers and families” At school, the growing girls learned the art of living: family, home, school, church, work, play, friendship. Magdalene proposed an itinerary to the young girls that would help them rid their ‘rough manners’ since they were without a family, without any training and deprived of religious education.
-
-From many of Magdalene’s letters that are published, we can deduce some pedagogical norms. These are the fundamental principles that she transmitted to her companions and to the teachers who were trained in the seminaries which Magdalene began. She gave the utmost importance in knowing the pupil and respecting her personality. The attention given to the person, to her rate of growth, to her responses to situations she is living out, is a pedagogical system Magdalene encourages her daughters to follow. Every young girl should feel accepted, loved and understood as an individual. After knowing her well, she could then be formed adequately to meet her individual needs. It is likewise important to consider the young girl in her historical context and the particular moment she lives in, to study her reactions, which are often obscure and unpredictable.
-
-The educator knows that hers is not a job. She will never be able to fulfil her mission, by considering that she knows the girls sufficiently. Rather she must be aware of the great respect she must have for these girls because these girls are best known, as they move along life’s path by one who is able to deal with them with loving and generous dedication. “Education is the moulding of the heart”. Magdalene writes, “in order to pursue such an aim, it is necessary to use kindness with one, firmness with another, to reason with the third.” But everyone has to be dealt with great love especially the poor girls, who do not enjoy any affection in the family. “The wealthy girls,” Magdalene used to explain to her Sisters, “have all the care and attention they want.
-
-These little ones lack all these, and must find that we are mothers to them.” Magdalene took pains to foster a family spirit to obtain a union of hearts, to bring the educator and the educated. The love of the educator had to be directed to the total formation of the young girl through a serene attitude and in an atmosphere of optimism, of wisdom and discipline, of kindness and faith. The reciprocal love existing between the educator and the pupils should not lead to a permissive rashness or degenerate into weakness. Rather the educator, firmly but patiently has to inculcate those values which are the spring-board for “good and God fearing mothers of families.” The goal to be attained requires order and discipline, observance of the rules and programmes.
-
-Sometime tensions may arise. It will be necessary then to remind, to correct and even to punish. Magdalene however used to state, “that it must be done with great discretion and not under the impetus of passion, but with the aim of the greater spiritual good of the girl.” She absolutely forbade “beating” and concluded : “Look forward to the correction of the girl, not punishing her.” Magdalene was convinced that girls themselves realised the necessity of corrections, even if firm and severe, provided they are the outcome of an impartial judgement and disapproval of their behaviour. When a correction was prompted by passion, the pupil will not accept it and if the punished girl is timid she would become downcast, if proud she would rebel, and nobody will be better in any way.
-
-Another characteristic of the pedagogy of Magdalene is found in including work experience in the educational programme. In the rules for the schools she recommended that teachers used all possible care “to encourage all girls to love work and to be proficient in it.” This was something new introduced by Magdalene in the school, and not yet forseen in any government programme or elementary school. Magdalene wanted the girls to practise everyday: “sewing, patching, knitting and mending stockings and such things, and also to make linen, embroider in gold or on cardigans and knitting of all types and different kinds of embroidery, etc according to the needs and capacity of each girl. She considered the school as the best environment for the formation of the women and wives tomorrow, that they may be hardworking and exemplary, “well-balanced” and of sound judgement, not capricious, able to bring up a family with dignity, ability and decorum.
-
-To reach this goal, it was necessary to accustom the pupils to work presenting it not as heavy duty or punishment but as a valid means to reach future freedom, gradual maturation of their human and Christian personality and a condition for economic security. An important part of Magdalene’s pedagogy was the need to create an atmosphere of joy and a serene environment for the girls. She wanted the girls to be treated with the “utmost joviality, gentleness and joy.” She was convinced that a person who does not know how to become a child among children, who does not understand childhood needs or the enthusiasm of adolescence is not a good educator.
-
-Magdalene is without doubt a great educator of the 19th century, a woman dedicated to her neighbour, but above all to the education and formation of the young generation, often abandoned and alone. She was a woman who had a “talent” for education, a woman extraordinarily intelligent, realistic. An enterprising organiser, her institutions have remained and still function today.
-
-Excerpts taken from “Magdalene of Canossa the Educator” by Fr Modesto Giancon, FCC – Superior General Canossian Sons of Charity.
+<h1>The Educator</h1>
+<p><strong>St Magdelene of Canossa The Educator</strong>
+</p>
+<p>If we study deeply into Magdalene’s life, we take note of how her love
+for God and for her brothers and sisters was always growing, building her
+up, moulding her in increasing measure. A real, concrete, practical love
+that never stopped at words, but like any real love was shown in deeds.
+This love for God and her brothers and sisters will be the soul of all
+Magdalene’s apostolic activity, the thrust that will catapult her into
+action, the energy that will sustain everything in her missionary dynamism.</p>
+<p>It is only from this point of reference, of a knowledge clear and sure
+that one can understand Magdalene’s commitment to the human and Christian
+formation of girls and youth. It was not born of philantrophy. It was not
+a need for activism. It was charity. Another strong entreaty came to her
+from the daily sight of many children living in misery and abandoned. She
+was sadly depressed by their ignorance and malice. She wrote to her friend,
+Countess Caroline Durini-Trotti: “Dear Caroline, I do not know if it is
+the same in Milan. Here we have horrible cases of girls’ ignorance and
+malice, that I do not know if I am to say, it is growing or that I am discovering
+it everyday …”</p>
+<p>Magdalene was concerned about it. The girls had to be helped at the human
+level, grow as persons, so that they became women in their deepest and
+fullest self, and at the same time be deeply Christian. Magdalene did not
+divide these two aims. Her method as an educator was based on the conviction
+that to grow as a person, it was necessary to grow as a Christian, and
+vice versa, to grow as a Christian is to grow as a woman. She writes in
+the Rules: ” The aim of our school is not to train good efficient workers
+but to help in the education of good and God-fearing mothers and families”
+At school, the growing girls learned the art of living: family, home, school,
+church, work, play, friendship. Magdalene proposed an itinerary to the
+young girls that would help them rid their ‘rough manners’ since they were
+without a family, without any training and deprived of religious education.</p>
+<p>From many of Magdalene’s letters that are published, we can deduce some
+pedagogical norms. These are the fundamental principles that she transmitted
+to her companions and to the teachers who were trained in the seminaries
+which Magdalene began. She gave the utmost importance in knowing the pupil
+and respecting her personality. The attention given to the person, to her
+rate of growth, to her responses to situations she is living out, is a
+pedagogical system Magdalene encourages her daughters to follow. Every
+young girl should feel accepted, loved and understood as an individual.
+After knowing her well, she could then be formed adequately to meet her
+individual needs. It is likewise important to consider the young girl in
+her historical context and the particular moment she lives in, to study
+her reactions, which are often obscure and unpredictable.</p>
+<p>The educator knows that hers is not a job. She will never be able to fulfil
+her mission, by considering that she knows the girls sufficiently. Rather
+she must be aware of the great respect she must have for these girls because
+these girls are best known, as they move along life’s path by one who is
+able to deal with them with loving and generous dedication. “Education
+is the moulding of the heart”. Magdalene writes, “in order to pursue such
+an aim, it is necessary to use kindness with one, firmness with another,
+to reason with the third.” But everyone has to be dealt with great love
+especially the poor girls, who do not enjoy any affection in the family.
+“The wealthy girls,” Magdalene used to explain to her Sisters, “have all
+the care and attention they want.</p>
+<p>These little ones lack all these, and must find that we are mothers to
+them.” Magdalene took pains to foster a family spirit to obtain a union
+of hearts, to bring the educator and the educated. The love of the educator
+had to be directed to the total formation of the young girl through a serene
+attitude and in an atmosphere of optimism, of wisdom and discipline, of
+kindness and faith. The reciprocal love existing between the educator and
+the pupils should not lead to a permissive rashness or degenerate into
+weakness. Rather the educator, firmly but patiently has to inculcate those
+values which are the spring-board for “good and God fearing mothers of
+families.” The goal to be attained requires order and discipline, observance
+of the rules and programmes.</p>
+<p>Sometime tensions may arise. It will be necessary then to remind, to correct
+and even to punish. Magdalene however used to state, “that it must be done
+with great discretion and not under the impetus of passion, but with the
+aim of the greater spiritual good of the girl.” She absolutely forbade
+“beating” and concluded : “Look forward to the correction of the girl,
+not punishing her.” Magdalene was convinced that girls themselves realised
+the necessity of corrections, even if firm and severe, provided they are
+the outcome of an impartial judgement and disapproval of their behaviour.
+When a correction was prompted by passion, the pupil will not accept it
+and if the punished girl is timid she would become downcast, if proud she
+would rebel, and nobody will be better in any way.</p>
+<p>Another characteristic of the pedagogy of Magdalene is found in including
+work experience in the educational programme. In the rules for the schools
+she recommended that teachers used all possible care “to encourage all
+girls to love work and to be proficient in it.” This was something new
+introduced by Magdalene in the school, and not yet forseen in any government
+programme or elementary school. Magdalene wanted the girls to practise
+everyday: “sewing, patching, knitting and mending stockings and such things,
+and also to make linen, embroider in gold or on cardigans and knitting
+of all types and different kinds of embroidery, etc according to the needs
+and capacity of each girl. She considered the school as the best environment
+for the formation of the women and wives tomorrow, that they may be hardworking
+and exemplary, “well-balanced” and of sound judgement, not capricious,
+able to bring up a family with dignity, ability and decorum.</p>
+<p>To reach this goal, it was necessary to accustom the pupils to work presenting
+it not as heavy duty or punishment but as a valid means to reach future
+freedom, gradual maturation of their human and Christian personality and
+a condition for economic security. An important part of Magdalene’s pedagogy
+was the need to create an atmosphere of joy and a serene environment for
+the girls. She wanted the girls to be treated with the “utmost joviality,
+gentleness and joy.” She was convinced that a person who does not know
+how to become a child among children, who does not understand childhood
+needs or the enthusiasm of adolescence is not a good educator.</p>
+<p>Magdalene is without doubt a great educator of the 19th century, a woman
+dedicated to her neighbour, but above all to the education and formation
+of the young generation, often abandoned and alone. She was a woman who
+had a “talent” for education, a woman extraordinarily intelligent, realistic.
+An enterprising organiser, her institutions have remained and still function
+today.</p>
+<p>Excerpts taken from “Magdalene of Canossa the Educator” by Fr Modesto
+Giancon, FCC – Superior General Canossian Sons of Charity.</p>
