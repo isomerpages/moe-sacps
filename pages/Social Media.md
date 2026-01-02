@@ -8,9 +8,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_spare_4.jpg">
 </div>
 <h3>Social Media</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -26,11 +25,6 @@ variant: tiptap
 <img style="width: 20px; height: 20px; float: left" height="auto" width="100%" src="/images/facebookicon.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20px; height: 20px; float: left" height="auto" width="100%" src="/images/tiktok.png">
-</div>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,11 +37,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Socialmedia/qrcode_fbv1.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Socialmedia/qrcode-tktk2.png">
-</div>
-</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,10 +45,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;<a href="https://www.facebook.com/SACPS.OFFICIAL/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://www.tiktok.com/@sacps.official" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
 </p>
 </th>
 </tr>
