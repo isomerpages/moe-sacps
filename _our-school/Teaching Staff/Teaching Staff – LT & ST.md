@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead&nbsp;Teacher</strong>
+<p><strong>Lead&nbsp;Teacher(s)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher</strong>
+<p><strong>Senior Teacher(s)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Seah (ST Chinese Language)
-<br> <a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
