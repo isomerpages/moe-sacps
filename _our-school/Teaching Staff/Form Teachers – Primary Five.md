@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Seah</p>
+<p>Ms Grace Seah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
