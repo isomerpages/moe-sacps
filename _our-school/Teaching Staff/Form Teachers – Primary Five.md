@@ -105,8 +105,7 @@ variant: tiptap
 <p>Ms Grace Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
-</p>
+<p>seah_pei_ru_grace@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
