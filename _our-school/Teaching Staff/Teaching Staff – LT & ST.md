@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead&nbsp;Teacher(s)</strong>
+<p><strong>Lead&nbsp;Teachers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher(s)</strong>
+<p><strong>Senior Teachers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
