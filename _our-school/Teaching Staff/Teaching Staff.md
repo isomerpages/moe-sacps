@@ -63,15 +63,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/" rel="noopener noreferrer nofollow" target="_blank">LT &amp; ST</a></strong>
+<p><a href="/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/" rel="noopener noreferrer nofollow" target="_blank">LT &amp; ST</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/Teaching-Staff-AED/" rel="noopener noreferrer nofollow" target="_blank">AED</a></strong>
+<p><a href="/our-school/Teaching-Staff/Teaching-Staff-AED/" rel="noopener noreferrer nofollow" target="_blank">AED</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/teaching-staff/nonformteachers/" rel="noopener noreferrer nofollow" target="_blank">Non-Form Teachers</a></strong>
+<p><a href="/our-school/teaching-staff/nonformteachers/" rel="noopener noreferrer nofollow" target="_blank">Non-Form Teachers</a>
 </p>
 </li>
 </ul>
