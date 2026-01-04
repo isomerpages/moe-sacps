@@ -66,8 +66,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Lee Beng</p>
-<p><a href="mailto:chua_lee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lee_beng@schools.gov.sg</a>
+<p>Ms Chua Lee Beng
+<br><a href="mailto:chua_lee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lee_beng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -75,6 +75,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Catherine Tang
 <br><a href="mailto:chee_sher_ping_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_sher_ping_catherine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurulhaziyah (Mrs Surin)
+<br><a href="mailto:nurulhaziyah_jumiran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhaziyah_jumiran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -93,8 +100,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Almira Bte Farid</p>
-<p><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
+<p>Ms Almira Bte Farid
+<br><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
