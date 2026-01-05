@@ -59,19 +59,19 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p><a href="https://www.stanthonyscanossianpri.moe.edu.sg/our-school/Teaching-Staff/Teaching-Staff-PE-Art-and-PA-Teachers/" rel="noopener nofollow" target="_blank">PE, Art and Music Teachers</a>
+<p><a href="https://www.stanthonyscanossianpri.moe.edu.sg/our-school/teaching-staff/teaching-staff-pe-art-and-music-teachers/" rel="noopener nofollow" target="_blank">PE, Art and Music Teachers</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/" rel="noopener noreferrer nofollow" target="_blank">LT &amp; ST</a></strong>
+<p><a href="/our-school/Teaching-Staff/Teaching-Staff-LT-and-ST/" rel="noopener noreferrer nofollow" target="_blank">LT &amp; ST</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/Teaching-Staff/Teaching-Staff-AED/" rel="noopener noreferrer nofollow" target="_blank">AED</a></strong>
+<p><a href="/our-school/Teaching-Staff/Teaching-Staff-AED/" rel="noopener noreferrer nofollow" target="_blank">AED</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/our-school/teaching-staff/nonformteachers/" rel="noopener noreferrer nofollow" target="_blank">Non-Form Teachers</a></strong>
+<p><a href="/our-school/teaching-staff/nonformteachers/" rel="noopener noreferrer nofollow" target="_blank">Non-Form Teachers</a>
 </p>
 </li>
 </ul>

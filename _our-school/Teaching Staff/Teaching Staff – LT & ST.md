@@ -16,32 +16,39 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Lead&nbsp;Teacher</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Lead&nbsp;Teachers</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Corinna Foo (LT CCE)
-<br><a href="chua_chin_corinna@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_chin_corinna@schools.gov.sg</a>
+<br><a href="mailto:chua_chin_corinna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chin_corinna@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Lee Beng (LT Art)</p>
-<p>chua_lee_beng@schools.gov.sg</p>
+<p>Ms Chua Lee Beng (LT Art)
+<br><a rel="noopener noreferrer nofollow" target="_blank">chua_lee_beng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Senior Teacher</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teachers</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Veron Yap (ST Music)
-<br><a href="mailto:yap_puei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">yap_puei_fong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +60,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Seah (ST Chinese Language)
-<br><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
