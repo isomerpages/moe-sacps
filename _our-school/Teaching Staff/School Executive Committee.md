@@ -98,8 +98,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Almira Bte Farid</p>
-<p><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
+<p>Ms Stephanie Yong
+<br><a href="mailto:yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_wei_min_stephanie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
