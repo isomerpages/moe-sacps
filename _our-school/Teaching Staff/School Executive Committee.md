@@ -92,6 +92,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Staff Developer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Almira Bte Farid</p>
+<p><a href="mailto:almira_farid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almira_farid@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English Language</strong>
 </p>
 </td>
