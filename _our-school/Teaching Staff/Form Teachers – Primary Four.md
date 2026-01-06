@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia Toh</p>
+<p>Mrs Julia Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toh_bee_bee_julia@schools.gov.sg</p>
