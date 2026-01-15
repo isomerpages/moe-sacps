@@ -96,7 +96,7 @@ variant: tiptap
 <p>Mdm Hasanah Hasan&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>hasanah_hassan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
