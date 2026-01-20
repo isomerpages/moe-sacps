@@ -159,7 +159,7 @@ variant: tiptap
 <p>Mrs Dawn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_thian_ser@schools.gov.sg</p>
+<p>tan_thian_ser_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
