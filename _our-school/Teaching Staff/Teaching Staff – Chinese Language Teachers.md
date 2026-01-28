@@ -34,8 +34,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Seah</p>
-<p><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
+<p>Ms Grace Seah
+<br><a href="mailto:seah_pei_ru_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -77,8 +77,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Luo Dong Hua</p>
-<p><a href="mailto:luo_dong_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_dong_hua@schools.gov.sg</a>
+<p>Mdm Luo Dong Hua
+<br><a href="mailto:luo_dong_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_dong_hua@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,6 +109,16 @@ variant: tiptap
 <p>Ms Julnise Ho
 <br><a href="mailto:julnise_ho_zhiping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julnise_ho_zhiping@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Manli
+<br><a href="mailto:cheng_manli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_manli@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
