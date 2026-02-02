@@ -34,7 +34,7 @@ variant: tiptap
 <p>Ms Audrey Phang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>audrey_phang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
