@@ -144,10 +144,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aisyah</p>
+<p>Ms Siti Aisyah Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_aisyah_rahman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
