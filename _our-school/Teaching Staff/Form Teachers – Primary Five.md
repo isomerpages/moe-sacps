@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms Eileen Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>eileen_goh_jia_shi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
