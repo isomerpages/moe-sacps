@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Cassia</strong></h4>
+<h4><strong>1 Courage</strong></h4>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Freesia</strong></h4>
+<h4><strong>1 Fortitude</strong></h4>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Jasmine</strong></h4>
+<h4><strong>1 Justice</strong></h4>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Peony</strong></h4>
+<h4><strong>1 Piety</strong></h4>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Periwinkle</strong></h4>
+<h4><strong>1 Prudence</strong></h4>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Sunflower</strong></h4>
+<h4><strong>1 Steadfast</strong></h4>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Tulip</strong></h4>
+<h4><strong>1 Temperance</strong></h4>
 </td>
 </tr>
 <tr>
