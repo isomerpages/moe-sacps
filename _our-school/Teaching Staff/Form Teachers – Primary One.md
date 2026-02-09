@@ -43,18 +43,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tham Kok Wing (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tham_kok_wing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Stephanie Yong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yong_wei_min_stephanie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tham Kok Wing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_kok_wing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
