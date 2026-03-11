@@ -449,14 +449,4 @@ distress due cyber issues such as cyber bullying.</p>
 <p>· &nbsp; CW lessons in FTGP</p>
 <p>· &nbsp; Termly CW sharing by Peer Support Leaders</p>
 <p>To find out more about Cyber Wellness Curriculum in schools, click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>Cyber Wellness resources for parents</strong>
-</p>
-<p>· &nbsp; &nbsp; &nbsp; <a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit—raising-a-digitally-smart-child.pdf</u></a>
-</p>
-<p>· &nbsp; &nbsp; &nbsp; <a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf</u></a>
-</p>
-<p>·&nbsp; &nbsp; &nbsp; <a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank"><u>MLC | Resources Listing (</u></a>
-<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>betterinternet.sg</u>
-</a><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a>
-<br>
-</p>
+<p></p>
