@@ -11,4 +11,5 @@ variant: tiptap
 <h3>Information on P1 Registration</h3>
 <p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">Click here</a> to
 find out more.</p>
-<p></p>
+<p><a href="/files/Posters/160f__2026_P6_Parents__Connection_Term_2__260316__Cleared.pdf" rel="noopener nofollow" target="_blank">https://form.gov.sg/69c3a6c9651054e98fe1e622</a>
+</p>
