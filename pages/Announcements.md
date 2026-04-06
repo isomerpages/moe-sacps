@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_spare_7.jpg">
 </div>
 <h1>Announcements</h1>
-<h3>Information on P1 Registration</h3>
+<h3>Information on 2026 Open House</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_SACPS_Open_House_2026_resized.png">
