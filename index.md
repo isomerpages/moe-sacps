@@ -7,7 +7,7 @@ permalink: /
 notification: 🏫 2026 Open House 🏫 Click on the button below to find out more.
 sections:
   - hero:
-      background: /images/Banners/Gemini_Generated_Image_a9o9dea9o9dea9o9.png
+      background: /images/Banners/openhouse2026banner.png
       key_highlights:
         - title: Announcements
           description: ""
