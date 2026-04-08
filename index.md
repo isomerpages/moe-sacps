@@ -7,7 +7,7 @@ permalink: /
 notification: 🏫 2026 Open House 🏫 Click on the button below to find out more.
 sections:
   - hero:
-      background: /images/Banners/openhouse2026banner.png
+      background: /images/Banners/openhouse2026bannerv2.png
       key_highlights:
         - title: Announcements
           description: ""
