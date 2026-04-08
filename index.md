@@ -18,6 +18,6 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      url: https://stanthonyscanossianpri.moe.edu.sg/sacps-open-house-2025/
+      url: https://www.stanthonyscanossianpri.moe.edu.sg/Announcements/
       button: SACPS OPEN HOUSE 2026
 ---
