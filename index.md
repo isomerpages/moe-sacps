@@ -4,10 +4,10 @@ title: St. Anthony's Canossian Primary School
 description: An Isomer site of the Singapore Government
 image: /images/schoolnamelogoforwebv2.png
 permalink: /
-notification: 🏫 2026 Open House 🏫 Click on the button below to find out more.
+notification: ""
 sections:
   - hero:
-      background: /images/Banners/openhouse2026bannerv6.png
+      background: /images/Banners/homebanner.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,6 +18,4 @@ sections:
         - title: Social Media
           description: ""
           url: /socialmedia/
-      url: https://www.stanthonyscanossianpri.moe.edu.sg/Announcements/
-      button: SACPS OPEN HOUSE 2026
 ---
