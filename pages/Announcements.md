@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Information on P1 Registration</h4>
+<h4>Information on Primary 1(P1) Registration</h4>
 </th>
 </tr>
 <tr>
