@@ -16,21 +16,38 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>E-mail Address</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shankar
-<br>shankar_selvam@schools.gov.sg</p>
+<p>Mr Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ponnappan Manju
-<br>ponnappan_manju_d@schools.gov.sg</p>
+<p><a href="mailto:shankar_selvam@schools.gov.sg" rel="" target="_self">shankar_selvam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sarojah Shanmugaraj</p>
+<p>Mdm Maha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Kamala_Kannan_Mahalakshmi@schools.gov.sg" rel="" target="_self">kamala_kannan_mahalakshmi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Salomina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:salomina_irin_richard_arokiaraj@schools.gov.sg" rel="" target="_self"><u>salomina_irin_richard_arokiaraj@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>

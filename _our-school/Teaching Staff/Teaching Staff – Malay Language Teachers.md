@@ -17,44 +17,46 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>E-mail Address</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Atiqah
-<br><a href="mailto:nur_atiqah_rohaizad@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_atiqah_rohaizad@schools.gov.sg</a>
-</p>
+<p>Mdm Nur Atiqah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nurbaya
-<br><a href="mailto:siti_nurbaya_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
+<p><a href="mailto:nur_atiqah_rohaizad@schools.gov.sg" rel="" target="_self">nur_atiqah_rohaizad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norazlin
-<br><a href="mailto:norazlin_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norazlin_abu_bakar@schools.gov.sg</a>
-</p>
+<p>Mdm Siti Nurbaya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ilyana
-<br><a href="mailto:ilyana_mohd_saad@schools.gov.sg" rel="noopener nofollow" target="_blank">ilyana_mohd_saad@schools.gov.sg</a>
+<p><a href="mailto:siti_nurbaya_abdul_rahman@schools.gov.sg" rel="" target="_self">siti_nurbaya_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hasanah Hasan
-<br><a href="mailto:hasanah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hasanah_hassan@schools.gov.sg</a>
-</p>
+<p>Ms Norazlin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norazlin_abu_bakar@schools.gov.sg" rel="" target="_self">norazlin_abu_bakar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hasanah Hasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hasanah_hassan@schools.gov.sg" rel="" target="_self">hasanah_hassan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
