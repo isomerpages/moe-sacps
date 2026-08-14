@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
+<h2></h2>
 <h2>Form Teachers – Primary Three</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -17,7 +18,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>3 Courage</strong></h4>
+<p><strong>3 Courage</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +40,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>3 Justice</strong></h4>
+<p><strong>3 Justice</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +62,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>3 Prudence</strong></h4>
+<p><strong>3 Prudence</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +84,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>3 Steadfast</strong></h4>
+<p><strong>3 Steadfast</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +106,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>3 Temperance</strong></h4>
+<p><strong>3 Temperance</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,5 +128,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
