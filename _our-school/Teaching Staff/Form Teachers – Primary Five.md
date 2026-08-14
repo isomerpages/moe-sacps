@@ -9,7 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banner_ourschool__5_.jpg">
 </div>
 <h2>Form Teachers – Primary Five</h2>
-<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +17,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Courage</strong></h4>
+<p><strong>5 Courage</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,15 +31,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Phang</p>
+<p>Ms Stephanie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>audrey_phang@schools.gov.sg</p>
+<p>chong_stephanie_jemima_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Justice</strong></h4>
+<p><strong>5 Justice</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -60,15 +61,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Stephanie Chong</p>
+<p>Mdm Kamala K Mahalakshmi (Mdm Maha)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>kamala_kannan_mahalakshmi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Piety</strong></h4>
+<p><strong>5 Piety</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +91,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Prudence</strong></h4>
+<p><strong>5 Prudence</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +113,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Steadfast</strong></h4>
+<p><strong>5 Steadfast</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +135,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>5 Temperance</strong></h4>
+<p><strong>5 Temperance</strong>
+</p>
 </td>
 </tr>
 <tr>
