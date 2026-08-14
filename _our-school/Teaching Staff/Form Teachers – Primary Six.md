@@ -17,7 +17,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Courage</strong></h4>
+<p><strong>6 Courage</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Justice</strong></h4>
+<p><strong>6 Justice</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +61,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Piety</strong></h4>
+<p><strong>6 Piety</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +83,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Prudence</strong></h4>
+<p><strong>6 Prudence</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +105,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Steadfast</strong></h4>
+<p><strong>6 Steadfast</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +127,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>6 Temperance</strong></h4>
+<p><strong>6 Temperance</strong>
+</p>
 </td>
 </tr>
 <tr>
