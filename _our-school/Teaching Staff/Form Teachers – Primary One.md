@@ -17,7 +17,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Courage</strong></h4>
+<p><strong>1 Courage</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Fortitude</strong></h4>
+<p><strong>1 Fortitude</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +61,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Justice</strong></h4>
+<p><strong>1 Justice</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +83,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Piety</strong></h4>
+<p><strong>1 Piety</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +105,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Prudence</strong></h4>
+<p><strong>1 Prudence</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +127,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Steadfast</strong></h4>
+<p><strong>1 Steadfast</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,15 +141,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirley Koh</p>
+<p>Ms Woo Wei Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_lee_noi_shirley@schools.gov.sg</p>
+<p>woo_wei_fen_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>1 Temperance</strong></h4>
+<p><strong>1 Temperance</strong>
+</p>
 </td>
 </tr>
 <tr>
